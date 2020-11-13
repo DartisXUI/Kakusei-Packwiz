@@ -1,0 +1,14 @@
+name = "LightningCraft"
+filename = "lightningcraft-2.9.7_1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2872/478/lightningcraft-2.9.7_1.jar"
+hash-format = "murmur2"
+hash = "4110669235"
+
+[update]
+[update.curseforge]
+file-id = 2872478
+project-id = 237422
+release-channel = "beta"

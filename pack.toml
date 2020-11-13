@@ -1,0 +1,10 @@
+name = "Kakusei-Packwiz"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f3cec651e756a4844ee1ac800dcdeb87fbc86c0d24a7d2812a7366a61c81ab7"
+
+[versions]
+forge = "14.23.5.2854"
+minecraft = "1.12.2"
