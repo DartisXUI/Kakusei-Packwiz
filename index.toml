@@ -9,10 +9,6 @@ file = "config/AE2WirelessTerminals.cfg"
 hash = "0632dbc1eb24258831da00c3fdad43986eb62fae7c047c51a326e22019056d84"
 
 [[files]]
-file = "config/Aether/analytics.json.gz"
-hash = "2120fe6bdc6311514c36610388b077c3a4415234411fafb9eac7a894120bc878"
-
-[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "e5a59e83866461320ed742d049d14cafbd35dc1f753835b56e75f92605cb3d84"
 
@@ -805,10 +801,6 @@ file = "config/laser_drill_ores/thermalfoundation_ores.json"
 hash = "cafaed3a878a90c9c43a99f276950070b4bdf52b5613eb2f2345c5ff88eb2848"
 
 [[files]]
-file = "config/lightningcraft.cfg"
-hash = "c9f30a361a32759a6e8b05ccc65a3f342d8a98fa3f9b925ae29027b4f804d306"
-
-[[files]]
 file = "config/littletiles-client.json"
 hash = "e336ad2efd69075a479cf4be7d2c94e945777b89fb8c1c7a251949f016a936e5"
 
@@ -1596,11 +1588,6 @@ hash = "072677e8c67ca0fbb286091060ab15289c931f51c2bffddc05659e63c490ddf2"
 metafile = true
 
 [[files]]
-file = "mods/lightningcraft.toml"
-hash = "0c00e104f08d27b011e6a4043576eb0e478828e66dd6192c0fe3283f409c797b"
-metafile = true
-
-[[files]]
 file = "mods/littletiles.toml"
 hash = "95b57f943838f31a9a9c550d2c27c20803ea6d732590025e36688c19c64a94ad"
 metafile = true
@@ -1846,11 +1833,6 @@ hash = "b1e24d97ccbad657a899609ccea6ae5c6b017bf0a10ca4b3dc8eeee45b045bc0"
 metafile = true
 
 [[files]]
-file = "mods/solar-flux-reborn.toml"
-hash = "2cb1ef4dbda7358459fc0c7820738c96f532c550dea3c23e52eeebf6bc9e254e"
-metafile = true
-
-[[files]]
 file = "mods/stargate-network.toml"
 hash = "0efef065ca2dbae6ecab5d82d590c8b166f7fe3d1921742df2a25826a835ead2"
 metafile = true
@@ -1863,11 +1845,6 @@ metafile = true
 [[files]]
 file = "mods/tesla-core-lib.toml"
 hash = "409f0661dbfc7ab38b36715daaa26cb0d7d31c7634715dfa4e077f201ef5d54f"
-metafile = true
-
-[[files]]
-file = "mods/the-aether-ii.toml"
-hash = "a151cf2876e2a644278b16c810bd6618506ad9326a874cdc63d4638dd96c35ed"
 metafile = true
 
 [[files]]
