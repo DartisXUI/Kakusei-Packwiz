@@ -129,10 +129,6 @@ file = "config/SGCraft/zpm.yml"
 hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
 
 [[files]]
-file = "config/TComplementModules.cfg"
-hash = "bebe0576397d917ec2dd0fa709e117cc7783c7638296d8314f5873908cfbd3ab"
-
-[[files]]
 file = "config/ThermalTinkering/config.cfg"
 hash = "fb1f57b06710acc0093c030609a1b91a58c4e2b56831678e18bc2c679707b23e"
 
@@ -1109,10 +1105,6 @@ file = "config/splash.properties"
 hash = "18fd499c16011214c8c320a54c0fb113bdeae47aa74d32c248457938bd08afb2"
 
 [[files]]
-file = "config/tcomplement.cfg"
-hash = "912b14c6a8b76b7aee8eab599ff8e1b0c0c3c28a187bc37a5986c8a5f6566c2a"
-
-[[files]]
 file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
@@ -1875,11 +1867,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-tinkering.toml"
 hash = "a1d146a403f6ef65e20493d9cc8fcac688fd1df8389b7e1682916cdcc6b204a0"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-complement.toml"
-hash = "05454992d0aaa7c2b6812dd220dd62efd6b1cec6f2deed939e15a1b3edc3de9a"
 metafile = true
 
 [[files]]
