@@ -25,10 +25,6 @@ file = "config/AppliedEnergistics2/VersionChecker.cfg"
 hash = "b77ff2ae6327798538244e2683d26bda6268dc2cf6149d0a521b90935eec7ff6"
 
 [[files]]
-file = "config/AppliedEnergistics2/extracells.cfg"
-hash = "5deb7a662bba72bc1e9dde5ff93a088b6f7a4ba81145f8b2bb849ec85fc10287"
-
-[[files]]
 file = "config/AppliedEnergistics2/items.csv"
 hash = "bcff89070e5d5dd64a481f950f59e5bd6dd7d74561dbec7710e365491d4f598d"
 
@@ -1452,11 +1448,6 @@ metafile = true
 [[files]]
 file = "mods/extra-utilities.toml"
 hash = "e4e97ef5366c14588c3793c5a61b67250a9a3260c4032f4415e53090de5cf17d"
-metafile = true
-
-[[files]]
-file = "mods/extracells2.toml"
-hash = "152b08cf8b19eaae6f174a29364ee2e66b0e8c6defbc9173ee620580905cb881"
 metafile = true
 
 [[files]]
