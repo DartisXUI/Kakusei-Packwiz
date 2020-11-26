@@ -125,6 +125,18 @@ file = "config/SGCraft/zpm.yml"
 hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
 
 [[files]]
+file = "config/ThermalTinkering/config.cfg"
+hash = "fb1f57b06710acc0093c030609a1b91a58c4e2b56831678e18bc2c679707b23e"
+
+[[files]]
+file = "config/ThermalTinkering/fluids.txt"
+hash = "1263182647b948bd424100faa79d9c7c0bbeb77b0c5c13e3a848b0f53bfaa626"
+
+[[files]]
+file = "config/ThermalTinkering/moltenFluids.txt"
+hash = "bde6139b7f7523553831a23d25bc2686cf547c5e66f7856ed66fc7fa0681f1a3"
+
+[[files]]
 file = "config/TinkerModules.cfg"
 hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
 
@@ -830,7 +842,7 @@ hash = "7a16ae499982fd34f09ca28fe29f0570842f99149eed06150aa3cec4744fbed3"
 
 [[files]]
 file = "config/natura.cfg"
-hash = "26a8b979ec62949371a4d3f0ca19979dbd97b80249168ee70c3a4c61cda524ff"
+hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
 
 [[files]]
 file = "config/notenoughwands.cfg"
@@ -1177,11 +1189,6 @@ file = "crafttweaker.log"
 hash = "e81c5eceb23630ee8cbea883fd7d321ca934ec93daf9069885a06edece585fcb"
 
 [[files]]
-file = "mods/absent-by-design.toml"
-hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
-metafile = true
-
-[[files]]
 file = "mods/actually-additions.toml"
 hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
 metafile = true
@@ -1274,11 +1281,6 @@ metafile = true
 [[files]]
 file = "mods/brandons-core.toml"
 hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
-metafile = true
-
-[[files]]
-file = "mods/building-gadgets.toml"
-hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
 metafile = true
 
 [[files]]
@@ -1422,11 +1424,6 @@ hash = "35f585772b6ffbb45b879e4581286aa4ced039c0453470aed62c6750a38c851a"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.toml"
-hash = "606fa0cc1c0f1695b9f445e4b0d030f403483fb9c185c4c2441142bfcb2eed31"
-metafile = true
-
-[[files]]
 file = "mods/guide-api.toml"
 hash = "b9db7d42f0024e3063cc79b177fafb05039258549662d144246611693b01c739"
 metafile = true
@@ -1499,6 +1496,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
+metafile = true
+
+[[files]]
+file = "mods/keeping-inventory.toml"
+hash = "2a1e6a4830da4149b6f4e4eb72e9666096265a9de666829dad59b51b2bcf4795"
 metafile = true
 
 [[files]]
@@ -1759,6 +1761,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-innovation.toml"
 hash = "d07bde4a8648d658ef25fff9d890ba67e0365718f08400897f15636ebb481123"
+metafile = true
+
+[[files]]
+file = "mods/thermal-tinkering.toml"
+hash = "a1d146a403f6ef65e20493d9cc8fcac688fd1df8389b7e1682916cdcc6b204a0"
 metafile = true
 
 [[files]]
