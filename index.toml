@@ -1189,6 +1189,16 @@ file = "crafttweaker.log"
 hash = "e81c5eceb23630ee8cbea883fd7d321ca934ec93daf9069885a06edece585fcb"
 
 [[files]]
+file = "mods/absent-by-design.toml"
+hash = "193d6adbc670f1955f47b34ef43e7c234994d12955a2b9999029b47b35475b5a"
+metafile = true
+
+[[files]]
+file = "mods/actually-additions.toml"
+hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
+metafile = true
+
+[[files]]
 file = "mods/additional-lights.toml"
 hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true
@@ -1276,6 +1286,11 @@ metafile = true
 [[files]]
 file = "mods/brandons-core.toml"
 hash = "2d1d09f8f2b15b97c2434a5759f275099a1efd808b3dc1388c00eba069bbf535"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.toml"
+hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
 metafile = true
 
 [[files]]
@@ -1376,6 +1391,11 @@ metafile = true
 [[files]]
 file = "mods/endercore.toml"
 hash = "29fab396bfc16400541918c2afa8d504da54046639e6555d8f52dbd02de72923"
+metafile = true
+
+[[files]]
+file = "mods/engineers-workshop-reborn.toml"
+hash = "5bdc0e714fd18f13652105f78185122ba5567bb5b6dd23b136c78a80e9034464"
 metafile = true
 
 [[files]]
@@ -1544,6 +1564,11 @@ hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.toml"
+hash = "2352012da01587195f41b6ea0edcfd070afb3b05f4a62615399f522b3f4502b0"
+metafile = true
+
+[[files]]
 file = "mods/mrtjpcore.toml"
 hash = "a0058c1cb198a31f452ad133bfa696274b52a42c943ed2b799c6d42bc4b6b23e"
 metafile = true
@@ -1556,6 +1581,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.toml"
 hash = "9b44cf7f65fa3caf7a7760e8736f2b560cccf36593cd0f46f5e00d040164aaa0"
+metafile = true
+
+[[files]]
+file = "mods/mysticallib.toml"
+hash = "48bc421d0f7b2dfb2a336d344f471499ba391041fb8121a760cf61cca214acaf"
 metafile = true
 
 [[files]]
@@ -1659,6 +1689,16 @@ hash = "11bd667508c6a6b8a059542c882cb5a537f451f5500d7380c382286b9138a92d"
 metafile = true
 
 [[files]]
+file = "mods/project-red-mechanical.toml"
+hash = "dc1529d946e6cfe4ad9868d0dac47e6fe124cc914aa11d772f77a04e6c840fcd"
+metafile = true
+
+[[files]]
+file = "mods/project-red-world.toml"
+hash = "86a52570b9f634693ca01c3cdc91fba7dd2e7968d30555d24a3be56417981e82"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "112d333f80221cc89842cd3c32419ac96f57b9601178c2738d5e5ed635210afb"
 metafile = true
@@ -1669,6 +1709,21 @@ hash = "2a0679d59374566b512e9b1329a9d64e21ccd1621887a5f67b09905646a776b2"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.toml"
+hash = "c7008ce33ade755dbb24766fd4fe3e8ae87b4a2613f070193673fab884277b2f"
+metafile = true
+
+[[files]]
+file = "mods/rebornstorage.toml"
+hash = "671989feb1f13f73765307ad19e06029b76f14b351af33fd21ca446740ffa853"
+metafile = true
+
+[[files]]
+file = "mods/redstone-arsenal.toml"
+hash = "646a556d6f8b0521960fb9b02ea4f91da9787f3458ebb57a70bc60cfecf329b5"
+metafile = true
+
+[[files]]
 file = "mods/redstone-flux.toml"
 hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
 metafile = true
@@ -1676,6 +1731,26 @@ metafile = true
 [[files]]
 file = "mods/redstone-paste.toml"
 hash = "19b59fdd37fe933080056be79189179957bb59929c5f67900064142e3c894328"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.toml"
+hash = "e653638517d91da9b99aebda52999ef2e5db5c6e06de0a1b9b64babdbedf3296"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.toml"
+hash = "8222afd78b5c0aed8fd390b8aa4464e444615adaa3fcc163a6592a8660480883"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.toml"
+hash = "d2b98a8bba2dc7d28805ba0785f2f7270a9a03d3c518b14856becc4dba7375b1"
+metafile = true
+
+[[files]]
+file = "mods/rftools.toml"
+hash = "14f323e28af2f71bd00eaaafa43d2856e7e33080402b255920af79319274ab27"
 metafile = true
 
 [[files]]
