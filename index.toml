@@ -1584,11 +1584,6 @@ hash = "9b44cf7f65fa3caf7a7760e8736f2b560cccf36593cd0f46f5e00d040164aaa0"
 metafile = true
 
 [[files]]
-file = "mods/mysticallib.toml"
-hash = "48bc421d0f7b2dfb2a336d344f471499ba391041fb8121a760cf61cca214acaf"
-metafile = true
-
-[[files]]
 file = "mods/natura.toml"
 hash = "8d28e00965fc4d93759c552d6c261108ea8f38dd5c18a0cc766465c9439c1030"
 metafile = true
