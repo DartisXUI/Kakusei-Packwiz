@@ -1189,11 +1189,6 @@ file = "crafttweaker.log"
 hash = "e81c5eceb23630ee8cbea883fd7d321ca934ec93daf9069885a06edece585fcb"
 
 [[files]]
-file = "mods/actually-additions.toml"
-hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
-metafile = true
-
-[[files]]
 file = "mods/additional-lights.toml"
 hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true
@@ -1549,11 +1544,6 @@ hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
 metafile = true
 
 [[files]]
-file = "mods/moving-elevators.toml"
-hash = "2352012da01587195f41b6ea0edcfd070afb3b05f4a62615399f522b3f4502b0"
-metafile = true
-
-[[files]]
 file = "mods/mrtjpcore.toml"
 hash = "a0058c1cb198a31f452ad133bfa696274b52a42c943ed2b799c6d42bc4b6b23e"
 metafile = true
@@ -1666,16 +1656,6 @@ metafile = true
 [[files]]
 file = "mods/project-red-lighting.toml"
 hash = "11bd667508c6a6b8a059542c882cb5a537f451f5500d7380c382286b9138a92d"
-metafile = true
-
-[[files]]
-file = "mods/project-red-mechanical.toml"
-hash = "dc1529d946e6cfe4ad9868d0dac47e6fe124cc914aa11d772f77a04e6c840fcd"
-metafile = true
-
-[[files]]
-file = "mods/project-red-world.toml"
-hash = "86a52570b9f634693ca01c3cdc91fba7dd2e7968d30555d24a3be56417981e82"
 metafile = true
 
 [[files]]
