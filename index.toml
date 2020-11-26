@@ -125,18 +125,6 @@ file = "config/SGCraft/zpm.yml"
 hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
 
 [[files]]
-file = "config/ThermalTinkering/config.cfg"
-hash = "fb1f57b06710acc0093c030609a1b91a58c4e2b56831678e18bc2c679707b23e"
-
-[[files]]
-file = "config/ThermalTinkering/fluids.txt"
-hash = "1263182647b948bd424100faa79d9c7c0bbeb77b0c5c13e3a848b0f53bfaa626"
-
-[[files]]
-file = "config/ThermalTinkering/moltenFluids.txt"
-hash = "bde6139b7f7523553831a23d25bc2686cf547c5e66f7856ed66fc7fa0681f1a3"
-
-[[files]]
 file = "config/TinkerModules.cfg"
 hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
 
@@ -1169,62 +1157,6 @@ file = "config/universalremote.cfg"
 hash = "865961b0fc6b0c411219c99c89dad22a5954be9045f7022d9fe77800c3c1dee2"
 
 [[files]]
-file = "config/warpdrive/WarpDrive.xsd"
-hash = "39e95bab6b60eacd48c1c56d7351a02062c1a179e76a614be3e55e7cd5859c0b"
-
-[[files]]
-file = "config/warpdrive/celestialObjects-Galacticraft+ExtraPlanets.xml"
-hash = "cf0e77ff08188894ecfbc75eaeeeaebedcb9c498718495f1bb7ba76b03e06ab6"
-
-[[files]]
-file = "config/warpdrive/celestialObjects-default.xml"
-hash = "5eb37a49e7bb7ce3b9650baeef3822bd4db35e631c147f55d245b38c037728e5"
-
-[[files]]
-file = "config/warpdrive/config.yml"
-hash = "99e3a0ab25d8df058b89b87454a3b5100eb1ea0af780c7bb17129c00b4b45ae7"
-
-[[files]]
-file = "config/warpdrive/dataFixer.yml"
-hash = "3da2c3058d8c896502ce289437128b8dcd956992812b6764539ecc990be7af70"
-
-[[files]]
-file = "config/warpdrive/dictionary.yml"
-hash = "56d3990601db38c5e459b4b988236261cc2271f127062af3142231495e898067"
-
-[[files]]
-file = "config/warpdrive/fillerSets-default.xml"
-hash = "3562f0fcbf59ff8e0839fdb56685df722b9f91ddcaebde80fb3412db01fcbda7"
-
-[[files]]
-file = "config/warpdrive/fillerSets-netherores.xml"
-hash = "1cb579b7ed6395b26b19995694ae0159cb9119bb2cf92aaa346ba6e2303ae554"
-
-[[files]]
-file = "config/warpdrive/fillerSets-undergroundbiomes.xml"
-hash = "6f27e1428ff750cf82c3536c971e20d9e4f1cd22bd4b9840ce3dc571533ce3a9"
-
-[[files]]
-file = "config/warpdrive/lootSets-default.xml"
-hash = "eef162dac2477ca3a4a690369cfc4e54eedd08f1e5d8b355c4a344fa2c92028d"
-
-[[files]]
-file = "config/warpdrive/schematicSets-default.xml"
-hash = "8da4f7bdfdca7c63e4a4e0d7fae2910ca6fd4e988fa4771c060bda6615de5107"
-
-[[files]]
-file = "config/warpdrive/structures-default.xml"
-hash = "bcd177b9ef0b8a0021175f9dc4fe9879f9fddd77113e4143f709ca65f1318dd6"
-
-[[files]]
-file = "config/warpdrive/structures-netherores.xml"
-hash = "f788fb95f19e8c1f1a78c4201a62c6a0906295cd6492a651186f8a54cec707e8"
-
-[[files]]
-file = "config/warpdrive/structures-ship.xml"
-hash = "8524607c0c86de78938ca9113f06c4306c6860723ee2a8015b51d1579b8b42c6"
-
-[[files]]
 file = "config/woot/custom_drops.json"
 hash = "b81658665d33a5131a711a90a033a56101b8951a388a53470d4fe72c4f4b1df7"
 
@@ -1755,16 +1687,6 @@ hash = "2a0679d59374566b512e9b1329a9d64e21ccd1621887a5f67b09905646a776b2"
 metafile = true
 
 [[files]]
-file = "mods/reborncore.toml"
-hash = "c7008ce33ade755dbb24766fd4fe3e8ae87b4a2613f070193673fab884277b2f"
-metafile = true
-
-[[files]]
-file = "mods/rebornstorage.toml"
-hash = "671989feb1f13f73765307ad19e06029b76f14b351af33fd21ca446740ffa853"
-metafile = true
-
-[[files]]
 file = "mods/redstone-flux.toml"
 hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
 metafile = true
@@ -1772,26 +1694,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-paste.toml"
 hash = "19b59fdd37fe933080056be79189179957bb59929c5f67900064142e3c894328"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage-addons.toml"
-hash = "e653638517d91da9b99aebda52999ef2e5db5c6e06de0a1b9b64babdbedf3296"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.toml"
-hash = "8222afd78b5c0aed8fd390b8aa4464e444615adaa3fcc163a6592a8660480883"
-metafile = true
-
-[[files]]
-file = "mods/rftools-control.toml"
-hash = "d2b98a8bba2dc7d28805ba0785f2f7270a9a03d3c518b14856becc4dba7375b1"
-metafile = true
-
-[[files]]
-file = "mods/rftools.toml"
-hash = "14f323e28af2f71bd00eaaafa43d2856e7e33080402b255920af79319274ab27"
 metafile = true
 
 [[files]]
@@ -1857,11 +1759,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-innovation.toml"
 hash = "d07bde4a8648d658ef25fff9d890ba67e0365718f08400897f15636ebb481123"
-metafile = true
-
-[[files]]
-file = "mods/thermal-tinkering.toml"
-hash = "a1d146a403f6ef65e20493d9cc8fcac688fd1df8389b7e1682916cdcc6b204a0"
 metafile = true
 
 [[files]]
