@@ -1729,11 +1729,6 @@ hash = "671989feb1f13f73765307ad19e06029b76f14b351af33fd21ca446740ffa853"
 metafile = true
 
 [[files]]
-file = "mods/redstone-arsenal.toml"
-hash = "646a556d6f8b0521960fb9b02ea4f91da9787f3458ebb57a70bc60cfecf329b5"
-metafile = true
-
-[[files]]
 file = "mods/redstone-flux.toml"
 hash = "2d46c70dfa56a3fcb4c789616b9da9240b89a2c5c2affdf75790f6a624bca726"
 metafile = true
