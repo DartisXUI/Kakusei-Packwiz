@@ -1459,11 +1459,6 @@ hash = "35f585772b6ffbb45b879e4581286aa4ced039c0453470aed62c6750a38c851a"
 metafile = true
 
 [[files]]
-file = "mods/guide-api.toml"
-hash = "b9db7d42f0024e3063cc79b177fafb05039258549662d144246611693b01c739"
-metafile = true
-
-[[files]]
 file = "mods/gunpowderlib.toml"
 hash = "2e7f078df8c7a86e0c3570774fc933928bd41435cc30127e103d4296460bf726"
 metafile = true
