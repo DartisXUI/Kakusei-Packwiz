@@ -221,10 +221,6 @@ file = "config/armoryexpansion/traits.txt"
 hash = "a12b8ff519e6b1d41223aab4e8a8d30871befa2e47599d12e1d07ef5c75e3c82"
 
 [[files]]
-file = "config/atum.cfg"
-hash = "419e0875674b4934785599f6399456b43e43892938cf1830ab78fe939b2f4cf5"
-
-[[files]]
 file = "config/badwithernocookiereloaded.cfg"
 hash = "71af24ce80a59892569f1c3d840a09542dbdb49029f78fefd875b5e88127e1e6"
 
@@ -897,10 +893,6 @@ file = "config/p455w0rdsLib.cfg"
 hash = "6ba1aa3425fbfd025456b54bbcd822bcf349f825ef75e07bb840146727cbe3a4"
 
 [[files]]
-file = "config/phosphor.json"
-hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
-
-[[files]]
 file = "config/portalgun.cfg"
 hash = "8018d1ebd42631dc2fbdadf85fa8e3aa1fc7ba0cc0341d7ecadc4d85a098c744"
 
@@ -1095,30 +1087,6 @@ hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
 [[files]]
 file = "config/simplerpg.cfg"
 hash = "9aa8f5bd88dd2fccbf1c9e6fe4afbe99296d28ff09af9e1561dceec1791beb23"
-
-[[files]]
-file = "config/solarflux/compats.hlc"
-hash = "db0572a33520f504618aef3bd071877d95532aa9d95a2aa3fa3183223f85abda"
-
-[[files]]
-file = "config/solarflux/custom_panels.js"
-hash = "3eca9e017eb039e61cf193ee570a9996b670052eef4dbe1e88a88536f67371c0"
-
-[[files]]
-file = "config/solarflux/main.hlc"
-hash = "ab59584928563391994fb760be4c72b189257a71caaca2f8d3aa2615d4c115b7"
-
-[[files]]
-file = "config/solarflux/panels.hlc"
-hash = "76ba7bf78cbcb5108bf74bc0b1e980a43935df3b6b6da51132482e6e06b47a8c"
-
-[[files]]
-file = "config/solarflux/textures/example_base.png"
-hash = "0eeec0b19fd4593c6fd4653fed28007e0f2e214b76941e738c3de773b89349d5"
-
-[[files]]
-file = "config/solarflux/textures/example_top.png"
-hash = "0dfb25a03a5464851e32a8b7904cce6b05e363b2d81a9c449f54a914b8d12706"
 
 [[files]]
 file = "config/splash.properties"
