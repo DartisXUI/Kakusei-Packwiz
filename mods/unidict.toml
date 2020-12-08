@@ -1,14 +1,14 @@
 name = "UniDict"
-filename = "UniDict-1.12.2-3.0.0.jar"
+filename = "UniDict-1.12.2-3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3130/345/UniDict-1.12.2-3.0.0.jar"
+url = "https://edge-service.overwolf.wtf/files/3130/983/UniDict-1.12.2-3.0.1.jar"
 hash-format = "murmur2"
-hash = "1398379019"
+hash = "1316734205"
 
 [update]
 [update.curseforge]
-file-id = 3130345
+file-id = 3130983
 project-id = 244258
 release-channel = "beta"

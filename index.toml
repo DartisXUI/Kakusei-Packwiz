@@ -1318,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "4efcd4fce3759886e86ab730c5be30e6add448eec9a0cf71911ef508595492be"
+hash = "befd1816385f42177ea2c2da1e3e94b36b5a221d9b9143f1493279c934f98b6e"
 metafile = true
 
 [[files]]
@@ -1503,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.toml"
-hash = "95b57f943838f31a9a9c550d2c27c20803ea6d732590025e36688c19c64a94ad"
+hash = "796305fe6dd918d4da1a0834e16a360c435206a6027579cdb78e3a284362e9d9"
 metafile = true
 
 [[files]]
@@ -1813,7 +1813,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "24b977afe83bfd355e39c0d492bb8cc76bdc4ca7935d2b2300cf6d84f7b2809c"
+hash = "0e1484bda1f129b6d5d9eb80edc7e7a18a228ffec72f4b6b10ef91532e3df519"
 metafile = true
 
 [[files]]
