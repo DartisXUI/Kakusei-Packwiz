@@ -941,6 +941,10 @@ file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-kree.tml"
 hash = "ae719c3bba2cd3ab9076d6497b4edeeea7e52590775207ce32f1ca689d0650c2"
 
 [[files]]
+file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
+
+[[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-uru-thor.tml"
 hash = "365f99c65c2f5425ee9ada11f5e31147dd27e39b521041b2c6910555bf8bd02d"
 
@@ -958,7 +962,7 @@ hash = "a3b59e1242c918de60216a10666076ea7f434a6d7ff57915e8e99173f632ac35"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
-hash = "4ff63a482ac2cbaf4dbb4af56cc8af46090e81e4cc80f687149ba1b0ff6d70b5"
+hash = "eb104f584265a4fefcb5931463e0bdf0cc34f41e31025ffe00f192929f12e2a0"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
@@ -971,6 +975,10 @@ hash = "ae719c3bba2cd3ab9076d6497b4edeeea7e52590775207ce32f1ca689d0650c2"
 [[files]]
 file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-kree.tml"
 hash = "ae719c3bba2cd3ab9076d6497b4edeeea7e52590775207ce32f1ca689d0650c2"
+
+[[files]]
+file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-birchoutpost-uru-thor.tml"
@@ -1050,7 +1058,7 @@ hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
+hash = "450f0aab2706ada98af58efac07e7967e758c9a7167f205464f835d292c965ee"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
