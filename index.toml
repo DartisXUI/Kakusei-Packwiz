@@ -957,6 +957,10 @@ file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-
 hash = "a3b59e1242c918de60216a10666076ea7f434a6d7ff57915e8e99173f632ac35"
 
 [[files]]
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
+hash = "4ff63a482ac2cbaf4dbb4af56cc8af46090e81e4cc80f687149ba1b0ff6d70b5"
+
+[[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
 hash = "48d495985eae0d61b423e55de9ec5eb8c7f177de0d18af5a76db1b4e5387eeda"
 
@@ -993,8 +997,8 @@ file = "config/ruins_config/generic/OreSpire.tml"
 hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
 
 [[files]]
-file = "config/ruins_config/generic/OutpostNew.tml"
-hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
+file = "config/ruins_config/generic/OutpostX.tml"
+hash = "110507b1edcfe66c890cc489b732172bb11208bd58ee6f3a9b1897e321d14957"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
@@ -1009,8 +1013,20 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
+file = "config/ruins_config/generic/dartiscraft-seedship-mk6.tml"
+hash = "409470faadcb6881725d2ce1a63f3acfe8d5193f58992986be1c75e63ca59447"
+
+[[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-mk11-typesakyo.tml"
 hash = "95c9f7508bf8f609ffdb392aa685f34fb0a3130b59ee57907cda62b13eaaea7d"
+
+[[files]]
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
+hash = "4a2e8938b2b4d819fbfdf984b3385f9481b2c075fb4797c0112af83dcb0dc73a"
+
+[[files]]
+file = "config/ruins_config/hell/taonasg.tml"
+hash = "71ccf834e0bc45b60a50b3de9ce81bb7511159ac995fb75bfe71cafb45dff480"
 
 [[files]]
 file = "config/ruins_config/jungle/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
@@ -1031,10 +1047,6 @@ hash = "2a16a10704a684ba4e634fb923184dbfbe21a5463c12280526c1426dc07d4149"
 [[files]]
 file = "config/ruins_config/plains/CastleModified.tml"
 hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
-
-[[files]]
-file = "config/ruins_config/plains/OutpostNew.tml"
-hash = "0dcec2a4c085a6c2b1f36f20e101bab826027956939dca0436822e91357a5b74"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
