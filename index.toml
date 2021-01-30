@@ -977,8 +977,8 @@ file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-kree.tml"
 hash = "ae719c3bba2cd3ab9076d6497b4edeeea7e52590775207ce32f1ca689d0650c2"
 
 [[files]]
-file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcfinal.tml"
-hash = "48f698b3fa0059aea7496e974b082fd605610b739155bb54b0272e148f7685ce"
+file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml"
+hash = "c8f3d038bb66ef04f78fcd6b30a180c31beb7ce6e473d9bf081899953bb90b51"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
