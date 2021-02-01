@@ -1,7 +1,0 @@
-addresses:
-    ABCD-EFG-HI:
-        name: Descriptive Name Here
-        locked: false
-    YAN6-85T-ZJ:
-        name: Welcome Centre at Spawn
-        locked: true

@@ -7,7 +7,7 @@
 # Verified for MC 1.12: 23 Jun 2017
 # Updated to MC 1.12.1: 10 Sep 2017
 
-biomesToSpawnIn=forest,jungle,jungle_edge,jungle_hills,savannah
+biomesToSpawnIn=
 
 uniqueMinDistance=3000
 

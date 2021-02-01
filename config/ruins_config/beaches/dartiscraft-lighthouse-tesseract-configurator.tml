@@ -9,7 +9,7 @@
 # Updated to MC 1.12.1: 9 Sep 2017
 # Note: Syntax for flower pot tile entities changed in 1.11
 
-biomesToSpawnIn=beaches,birch_forest_hills,forest_hills
+biomesToSpawnIn=
 
 weight=1
 embed_into_distance=19

@@ -4,7 +4,7 @@
 # Created for MC 1.12: 7 Jun 2018
 # Based on the Sticky Piston Trap designed by Turspikey
 
-biomesToSpawnIn=desert
+biomesToSpawnIn=
 
 uniqueMinDistance=1000
 

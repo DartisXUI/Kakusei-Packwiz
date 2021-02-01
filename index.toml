@@ -1,700 +1,40 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/AE2Stuff/readme.txt"
-hash = "f86901d1cbf94aa31daff7fd7898391008892b2a4c0d4c6983d491427184d412"
-
-[[files]]
-file = "config/AE2WirelessTerminals.cfg"
-hash = "0632dbc1eb24258831da00c3fdad43986eb62fae7c047c51a326e22019056d84"
-
-[[files]]
-file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "e5a59e83866461320ed742d049d14cafbd35dc1f753835b56e75f92605cb3d84"
-
-[[files]]
-file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "96ffd3ef7c702a88927adc5b8821d3b282073e40a0936bf2d767336eeb5c839f"
-
-[[files]]
-file = "config/AppliedEnergistics2/Facades.cfg"
-hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
-
-[[files]]
-file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "b77ff2ae6327798538244e2683d26bda6268dc2cf6149d0a521b90935eec7ff6"
-
-[[files]]
-file = "config/AppliedEnergistics2/items.csv"
-hash = "bcff89070e5d5dd64a481f950f59e5bd6dd7d74561dbec7710e365491d4f598d"
-
-[[files]]
-file = "config/Building Gadgets.cfg"
-hash = "e15ed6fd9ff4d5a8facc9f4a7fec3db1cb658af7387233d9ca0b3901120cd371"
-
-[[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
-hash = "e2e1094b8af28dca08bdd369d53df3c56479a60659729708e4f1cd623b27854d"
-
-[[files]]
-file = "config/GeneticsReborn/MobAdditions.json"
-hash = "72b849d8fb9c64f01bb274113386b77ae1fa6969d69b165e5521f3f9dcecc785"
+hash = "117c17d58eab171ea4162719489232b445b4a89e5eb428a38677a3fee4b4f570"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "296508a85e6698c2b42a38094d07669e099a12f038eefe934683094034b51245"
-
-[[files]]
-file = "config/IntegrationForegoing.cfg"
-hash = "99d6146ef8fdce7d5395ef9c0f5b8d1aeca2d8480aa6ef1d82a15e88814011d5"
-
-[[files]]
-file = "config/InvTweaks.cfg"
-hash = "c2781697d0132aedf713f2b17e428c1a2af50d1c0991e96ec768327f5ce8561c"
-
-[[files]]
-file = "config/InvTweaksRules.txt"
-hash = "b63870bb7b08cb7edb1189dd929ae802a8e7a6857ede3d92055038a5c617bb22"
-
-[[files]]
-file = "config/InvTweaksTree.txt"
-hash = "5dbafa1e67c70c79660a4da7a663fabfda69724ec352f79d5d4ab5e0323368e8"
-
-[[files]]
-file = "config/JustEnoughCalculation/main.cfg"
-hash = "9fd71d935bce13fb80c078c18284fbcff08496cc42e4b6c1a1acf583fb742d49"
-
-[[files]]
-file = "config/JustEnoughCalculation/record.json"
-hash = "8617d3ace1228bb5986be5df2617c80463a773cf772e169f29ca0009dedd4b47"
-
-[[files]]
-file = "config/KeepingInventory.cfg"
-hash = "6023997aea0207b91e7c51aa22c510e6e5b2375e100b352aa9c3380554f93773"
-
-[[files]]
-file = "config/MoreOverlays.cfg"
-hash = "081814e142c935f474b4cc84e33f8ddd090857843d5a7d0924dd09c17e866f3c"
-
-[[files]]
-file = "config/MrTJPCore.cfg"
-hash = "c6fb030033fc55c377d661a621d7b0d63816fe08afac5021891f7addc97cfef3"
-
-[[files]]
-file = "config/NaturaModules.cfg"
-hash = "3826d831f19b7d637fdf1ee3153a8e20af50d28c05b292ad37ef3f749f9cb81c"
-
-[[files]]
-file = "config/ObjectPriorities/ObjectPriorities.cfg"
-hash = "ab6deca273dfec3fa337d0d7e740fabb66f1c1898e0f1dc9f067d4aadb493240"
-
-[[files]]
-file = "config/ObjectPriorities/priorities.json"
-hash = "e8f2d2237f040da1e91bf194e16d6d451a9994c181aaf150320314c94af55516"
-
-[[files]]
-file = "config/OpenModsLibCore.json"
-hash = "1e88fc13abaf0c4c84542dda7fac06e8dd7ea78904e2a98561c145db04cb4f0f"
-
-[[files]]
-file = "config/ProjectRed.cfg"
-hash = "e820b1564ef8515271b1b62fc72ff0b6a5ea61b7344060c76ac401a1de0aa41d"
-
-[[files]]
-file = "config/ProjectRedRelocation.cfg"
-hash = "b04d71c3d372057861eb3b827333df53ad3a6c14c5405107f0265a10e746a804"
-
-[[files]]
-file = "config/SGCraft/general.yml"
-hash = "598f0e20aec8a2b761e57fe8cad9396aec61af5356216259be987f259164d56f"
-
-[[files]]
-file = "config/SGCraft/generator.yml"
-hash = "14be561f2e7ce60226f1f2d38a1f277f2b756e24917996a067166440ca08f9b1"
-
-[[files]]
-file = "config/SGCraft/pdd.yml"
-hash = "211dace96f976735f3c0fe01b0bfc3ccbeb1555797324cd9704dd878f521da85"
-
-[[files]]
-file = "config/SGCraft/tokra.yml"
-hash = "138502c44edec52e7a1672728e470bdccf67ee386fe1b1428295d3ca651254a3"
-
-[[files]]
-file = "config/SGCraft/zpm.yml"
-hash = "dc3a3cfc274f4d5f3fa83d34f7da5271c2d19e7c8f438fe75934555834dc4d35"
-
-[[files]]
-file = "config/ThermalTinkering/config.cfg"
-hash = "fb1f57b06710acc0093c030609a1b91a58c4e2b56831678e18bc2c679707b23e"
-
-[[files]]
-file = "config/ThermalTinkering/fluids.txt"
-hash = "1263182647b948bd424100faa79d9c7c0bbeb77b0c5c13e3a848b0f53bfaa626"
-
-[[files]]
-file = "config/ThermalTinkering/moltenFluids.txt"
-hash = "bde6139b7f7523553831a23d25bc2686cf547c5e66f7856ed66fc7fa0681f1a3"
-
-[[files]]
-file = "config/TinkerModules.cfg"
-hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
+hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
 [[files]]
 file = "config/TinkerToolLeveling.cfg"
 hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
 
 [[files]]
-file = "config/Titles/archive.json"
-hash = "6395d3152eb56772aa76511e5e078b5ea7961f207a66962f2e98be1f5ccd94ec"
-
-[[files]]
-file = "config/Titles/minecraft.json"
-hash = "21826f1925773d16a20e470c7a18dcefd3ded885ecfe255366254035e2c8af55"
-
-[[files]]
-file = "config/Titles/titles.json"
-hash = "2163beaf9d57409f6f97a2c1e21f9db0dc96d93b2a139efb9850083e69936282"
-
-[[files]]
-file = "config/Titles/titles_config.cfg"
-hash = "45ef549fd8aaae540aa143ada73bc97e934fcfe6cf38c6cb3b9f5d64aa4274a1"
-
-[[files]]
 file = "config/Waystones.cfg"
-hash = "ad5c04f5276ca3e6e589d08901f4f7d2c91d4b9cf5299b2fc93290eb978fe6e1"
-
-[[files]]
-file = "config/actuallyadditions.cfg"
-hash = "888e7357ef8492fd6b2fc68a43ac05edd54dc0c8931de7c8062cb54ca950a62b"
-
-[[files]]
-file = "config/aether.cfg"
-hash = "e91913c4417670543e46879d4a32754b59689115830fac7fcb5be18ad30708de"
-
-[[files]]
-file = "config/akashictome.cfg"
-hash = "d391fbd4d704d94d57280e0f5169b3e1b4b3bbc48aea84d3cd0d9293f35307b1"
-
-[[files]]
-file = "config/appleskin.cfg"
-hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
-
-[[files]]
-file = "config/armoryexpansion.cfg"
-hash = "cc2853be5e8b8164bdf72497f261a397d5e2c2a1a03de6a7599ec6cce52fe119"
-
-[[files]]
-file = "config/armoryexpansion/conarm/conarm-config.json"
-hash = "b35a6ddd3dd786201cb701da1d47d343a5efdc020e5cfac8312a7fd884f7bc61"
-
-[[files]]
-file = "config/armoryexpansion/conarm/conarm-materials.json"
-hash = "7225d48ba34379567a1437845ae447643c592473554e0765415e71443c535a5d"
-
-[[files]]
-file = "config/armoryexpansion/conarm/conarm-traits.json"
-hash = "4c321e7401c3fec653680f0800fd1fe19f7ef1e857a89f15238e462dfd795146"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-alloys.json"
-hash = "15b5aabcf8d0954ac6cd252b9547a0652acaae8a62d16d3053a40746167698ea"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-config.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-materials.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-oreDictEntries.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/custommaterials/custommaterials-traits.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/armoryexpansion/traits.txt"
-hash = "a12b8ff519e6b1d41223aab4e8a8d30871befa2e47599d12e1d07ef5c75e3c82"
-
-[[files]]
-file = "config/badwithernocookiereloaded.cfg"
-hash = "71af24ce80a59892569f1c3d840a09542dbdb49029f78fefd875b5e88127e1e6"
-
-[[files]]
-file = "config/baubles.cfg"
-hash = "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18"
-
-[[files]]
-file = "config/betteradvancements/betteradvancements.cfg"
-hash = "6b26c60fe7e9eecf218f6136ee9188a1538e560e2aced0a62b61b22404c24052"
-
-[[files]]
-file = "config/bibliocraft.cfg"
-hash = "c1ae1175048cffbadb749be9bb138bbb5623fce16102995a1fa03a7a0c31a1c0"
-
-[[files]]
-file = "config/birdsfoods.cfg"
-hash = "a132c75e4c2fa50f03a936e51b911db2b0f921af80252ad4462b663d8ba28aa5"
-
-[[files]]
-file = "config/bookshelf.cfg"
-hash = "ba2729658d054813c30596d27f8a0fb17498508cad0e958ebc378f325c92da5a"
-
-[[files]]
-file = "config/brandon3055/BrandonsCore.cfg"
-hash = "1c166af3c1adf4e9e3f29de526c5468a5c5dd54be0b5fd074dcd39605c1a52a5"
-
-[[files]]
-file = "config/brandon3055/Custom Fusion Recipe Info.txt"
-hash = "2fc2fcae04de5d51c5eea00a421073228ca23284accf37442321d05b54291f75"
-
-[[files]]
-file = "config/brandon3055/DraconicAdditions.cfg"
-hash = "c48c265df999dfe408d225f1e29e2b82f2822c17dab31551d7fdb8493b22053e"
-
-[[files]]
-file = "config/brandon3055/DraconicEvolution.cfg"
-hash = "0191b9278d7701ffa7c8442d8f579741f7ea0a7bb715b865326d754e745dac5d"
-
-[[files]]
-file = "config/brandon3055/ProjectIntelligence/ModDocs/Draconic Evolution/draconicevolution-en_US.xml"
-hash = "e63266e39f45f965526208a3bbb00b5113686b0706347c7151c2d1a2a24726dd"
-
-[[files]]
-file = "config/brandon3055/ProjectIntelligence/manifest.json"
-hash = "9c7a5e458ce75f08278aac7c353c3946d9dc3c74e24bf644f739bb158a4f9e94"
-
-[[files]]
-file = "config/brandon3055/ProjectIntelligence/options.json"
-hash = "bc8659948a2d386656992219bd99ac2349eeef9d89156200dfe78cd7c38706c1"
-
-[[files]]
-file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
-hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
-
-[[files]]
-file = "config/chisel.cfg"
-hash = "d26ecdae81dae81dc58f3b9a3838b5382023e0904c74ea72cc2fcf320086cc96"
-
-[[files]]
-file = "config/codechicken/supporters.json"
-hash = "a051785c4b430db9a78722a5dd7c93a2d152f234d2ff5c6c8fecd57206e1dbce"
-
-[[files]]
-file = "config/codechicken/supporters.marker"
-hash = "5666e7c04266ee2625055e2076a6fa2d508fc0b1d43ef43ddac0b9473775dd65"
-
-[[files]]
-file = "config/codechickenlib.cfg"
-hash = "1aa05b9dac4c5718764e3e0a4e23addce945ca283dd21959088520160b34a66e"
-
-[[files]]
-file = "config/cofh/core/client.cfg"
-hash = "a2e6e5a9bca83cc08cc0e693ef9a0ac6a1a8bc828a02f8eaf88bafec58903201"
-
-[[files]]
-file = "config/cofh/core/common.cfg"
-hash = "9fb87a0d0400096f64b3d7b4783ba8baeae5b8aa73ba225d865a88cc64fdd4d8"
-
-[[files]]
-file = "config/cofh/core/friends.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/cofh/thermaldynamics/client.cfg"
-hash = "8c7a96b05e944fff933dbe4cd5e3d0327ce41d3984bb4a511bfa0e5327b70282"
-
-[[files]]
-file = "config/cofh/thermaldynamics/common.cfg"
-hash = "045518655216066eeecd0790cef02bd655c25dd3a05dcb308ebc0d38a82318af"
-
-[[files]]
-file = "config/cofh/thermaldynamics/cover_blacklist.json"
-hash = "4bea0304342029262d27286d6089165d091f147809c93edd7a8ba986e2584fdf"
-
-[[files]]
-file = "config/cofh/thermalexpansion/client.cfg"
-hash = "1e5461183d4675ef24d85d2a35c70ca3096cb2ca9602b0477ed58fc56fb5acfd"
-
-[[files]]
-file = "config/cofh/thermalexpansion/common.cfg"
-hash = "ab02b2c36861de5337444cff27b2f1bdbba9cf5ae9b319c4bb56cf8edc769291"
-
-[[files]]
-file = "config/cofh/thermalexpansion/florbs.cfg"
-hash = "5d3fd6d69d5e041c1517f7611c7f3aa2305cb6ee98f69a826e25a40b826ab96c"
-
-[[files]]
-file = "config/cofh/thermalexpansion/morbs.cfg"
-hash = "8dee914b93c1b6823aeb33b3642781cebb45be17d3dc19ad01226b3dc9936103"
-
-[[files]]
-file = "config/cofh/thermalfoundation/client.cfg"
-hash = "312f1f1497166a60486d85ab1776e9a0a622f12d4d5f7e55630111a9af35da03"
-
-[[files]]
-file = "config/cofh/thermalfoundation/common.cfg"
-hash = "4e9ce1847f6f371daeb076a574cbc0d68919ca13f9fa63f0941695531524a012"
-
-[[files]]
-file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
-hash = "79bb1e5b5e6bfaf82a6c13345c52be0a1f47f0bfa42cb7b1c0131b15de7566d7"
-
-[[files]]
-file = "config/cofh/thermalinnovation/client.cfg"
-hash = "c7740866678ff7ae8948c12e6ec98dafca99d73ca8f0ada7cb7958b67c28d9b5"
-
-[[files]]
-file = "config/cofh/thermalinnovation/common.cfg"
-hash = "f320b17da2915b93a7d56120e8cee1fac5f293bb4dff04c9295f1118e01bdb35"
-
-[[files]]
-file = "config/cofh/world/00_minecraft.json"
-hash = "cba133ba6ce78679471b1d29260c126f5b3d357d751f3b3ff73d9fc1790f8130"
+hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
 
 [[files]]
 file = "config/cofh/world/01_thermalfoundation_ores.json"
-hash = "9e38f82ac8766ecccad4cf3087b155b3552fd0d4b5df9167930759927e672247"
+hash = "a7f5a5b4a01102b839089e40fb2dbad4709dd208b64f4d7de9495afa226328e0"
 
 [[files]]
-file = "config/cofh/world/02_thermalfoundation_oil.json"
-hash = "4de8460e4846527c3c4c947e6156bdd640055a0a34ffef6f37955dafca8654fe"
-
-[[files]]
-file = "config/cofh/world/03_thermalfoundation_clathrates.json"
-hash = "59b06d7a6362e0937c63cb7716cdf043ff84fcd945b3536293efb6e0c1b8fa0d"
-
-[[files]]
-file = "config/cofh/world/config.cfg"
-hash = "2eef631ebe2a9534bcb660ec2f1878159efbdfb41c1d61dc98cdc7f68142fa75"
-
-[[files]]
-file = "config/compactmachines3/settings.cfg"
-hash = "e06cfcf6a7b2cfc729a29754c28976ac8e9a4accb298c734d35226c3fa7a7bef"
-
-[[files]]
-file = "config/conarm.cfg"
-hash = "d9db67b388e00528c495613fda46fcc9abcac8e52b4451ba3aea5b81dd765ebb"
-
-[[files]]
-file = "config/cookingforblockheads.cfg"
-hash = "d9d330c600f2205e7f1ae6f4cb01c26ca5c6a08ab8e171d30f96e4ef2b319b86"
-
-[[files]]
-file = "config/creativecore-client.json"
-hash = "28b9ae35e4886cb0db7178732929661d90090fdf7dfc5cfb030fb6909c071d8f"
-
-[[files]]
-file = "config/ctm.cfg"
-hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
-
-[[files]]
-file = "config/drawbridges.cfg"
-hash = "d25a064cc8b4d4f3110f87e0752349f6a08815546591331d1666d8b160c4e13b"
-
-[[files]]
-file = "config/endercore/cropconfig.json"
-hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
-
-[[files]]
-file = "config/endercore/endercore.cfg"
-hash = "ad4e396c926cab4391dc9e389518ef4aa4db6d21b7f619fe358eb6d166d589d5"
-
-[[files]]
-file = "config/enderio/enderio.cfg"
-hash = "2f94e0156ae0bdd1b4d02cb23f18824cc6403c25527b98debca95a07c504b630"
-
-[[files]]
-file = "config/enderio/enderioconduits.cfg"
-hash = "35a4e0457fb74f9e03ab14030b1c4dcdac3f79dc1d38140e78fb536cba346946"
-
-[[files]]
-file = "config/enderio/enderiointegrationforestry.cfg"
-hash = "b2b939bdf9e2e31dcb49b51fb43e22c61ecdf2b86beb8f42b17c53830a189672"
-
-[[files]]
-file = "config/enderio/enderiomachines.cfg"
-hash = "db2518676d5cf89e4c5a7c8a39c65ed389575dfaf6c2043002fe10db73d001b9"
-
-[[files]]
-file = "config/enderio/enderiopowertools.cfg"
-hash = "e9d80640582d81c907ee378a35c2ec25f5edba4b4dcc394dd3153b455bd53908"
-
-[[files]]
-file = "config/enderio/painter_paint_sources_core.xml"
-hash = "e25dbcf90745a8318f6a47af83ffed9b3669de71039885c43ac568f9bf1274c0"
-
-[[files]]
-file = "config/enderio/painter_paint_sources_user.xml"
-hash = "c80691313787a06617249cfa769d71ac660e663ed62ec305188905cd9a2f53a7"
-
-[[files]]
-file = "config/enderio/recipes/aliases.pdf"
-hash = "afa6fed891fbab09438a1422c4eddc831bc038f83d529af11f8bc449e7c26e2a"
-
-[[files]]
-file = "config/enderio/recipes/alloying.pdf"
-hash = "fa6d5142ae6c40baae1810e5e7e17c8731505928262449e141c8e7caad6eebc2"
-
-[[files]]
-file = "config/enderio/recipes/alloying_modded.pdf"
-hash = "0f097bb822a6f41c9a91c33f7a157947a816e12586d2c7f36ecac40f54e845df"
-
-[[files]]
-file = "config/enderio/recipes/balls.pdf"
-hash = "dece2a9970e656cbddc1d733daf2fafaa0262c3e3a67053c06804366cc2ee262"
-
-[[files]]
-file = "config/enderio/recipes/base.pdf"
-hash = "28afaca05545479fc7574e8db9a2ac6ee03cc52bb89568f720996e032e545187"
-
-[[files]]
-file = "config/enderio/recipes/capacitor.pdf"
-hash = "8f56fd65fd6a34e550d23ad4bbf4e26f4518ae7987f62dfa59808e0bf87c04bb"
-
-[[files]]
-file = "config/enderio/recipes/capacitor_machines.pdf"
-hash = "d4efdd759c121eca04ab7c5624340419f0a6d91c623e10dbd98abb9678bd8d3c"
-
-[[files]]
-file = "config/enderio/recipes/conduits-applied-energistics.pdf"
-hash = "2739dc649404a8e6bb3ab732db52f7ac8bb6ff69a40eccfa4df8b588f33b0dc2"
-
-[[files]]
-file = "config/enderio/recipes/conduits-opencomputers.pdf"
-hash = "e794c15db0a99c56471930e4b96d1c9370e529c259fff37244e7b3c07ca9fbf0"
-
-[[files]]
-file = "config/enderio/recipes/conduits-refined-storage.pdf"
-hash = "5877c26c01654cc03b5942a12e8ef3ee949ce7a1b5398d72d3507fb15ac79e9a"
-
-[[files]]
-file = "config/enderio/recipes/conduits.pdf"
-hash = "e9ab0905363781bd9e8daf33f65e9ef99beb5dc41ee0ec72d588a8eb5017e416"
-
-[[files]]
-file = "config/enderio/recipes/darksteel_upgrades.pdf"
-hash = "5f326ef350fd898b25e788bda9f906ac0e8be498fc85c41a2679a3a8bdbd8af1"
-
-[[files]]
-file = "config/enderio/recipes/darksteel_upgrades_machines.pdf"
-hash = "dcde7dcdb5faf63c7ff3fcfd271145c4fcd69b6e7c07964c72751f6276a74786"
-
-[[files]]
-file = "config/enderio/recipes/enchanter.pdf"
-hash = "d13e39ffd9c3f307e4ccc1de4b107ef5ed8e78a9a9875ebf9d5a7ddbcff405f5"
-
-[[files]]
-file = "config/enderio/recipes/examples/broken_spawner.xml"
-hash = "e53dbff5701db1036be40d261a10bdf77d1ae5520488b35292ef19817bf21dd6"
-
-[[files]]
-file = "config/enderio/recipes/examples/cheap_machines.xml"
-hash = "218c73ba14d3797ad6da2131ceb659f9243ea6f1787b735155bae9444096aaad"
-
-[[files]]
-file = "config/enderio/recipes/examples/cheap_materials.xml"
-hash = "c1d79389081b1288b08e50140247dc4ad29137f0260d3fb7385b4c397fad73f9"
-
-[[files]]
-file = "config/enderio/recipes/examples/cheaty_spawner.xml"
-hash = "745fbac9238539ea0dede964ef80b6178ca7a1710d1d3b59c5d493119c8da2ec"
-
-[[files]]
-file = "config/enderio/recipes/examples/conduits_easy_recipes.xml"
-hash = "d12d5f788a900afcd414348a1019e59dcbdf4d355b598fa1ae142041e8d0d220"
-
-[[files]]
-file = "config/enderio/recipes/examples/conduits_hard_recipes.xml"
-hash = "74da96a3f7eb6d5e0cc0ab33a87ba23f693f0096095e20550b60de3ea3f38dd1"
-
-[[files]]
-file = "config/enderio/recipes/examples/easy_recipes.xml"
-hash = "ffcc8b9827a636dae7d4e6d76cd0a133dc8d9707b2e93bf7c92ed3bcbea4986b"
-
-[[files]]
-file = "config/enderio/recipes/examples/hard_recipes.xml"
-hash = "1b03c5b8029604bae36d6291cc27587859a1bfdc3092330d07982ab254bbb851"
-
-[[files]]
-file = "config/enderio/recipes/examples/infinity.xml"
-hash = "b49ba73af02b77bbac402c466f39673caffff5732d49df32ba1d8c5891f79044"
-
-[[files]]
-file = "config/enderio/recipes/examples/legacy_recipes.xml"
-hash = "8f0567064a7d10e771169b8c02e8272ca5a4ef496373f5300747716f13ced92d"
-
-[[files]]
-file = "config/enderio/recipes/examples/machines_easy_recipes.xml"
-hash = "e2b7f0882391c4e4dcb928e1bc68fea21d25b6746fb9a5985946a5b82ea1687e"
-
-[[files]]
-file = "config/enderio/recipes/examples/optional_tweaks.xml"
-hash = "3fd6acf93a71b72e8e62fab1d8a6abc76f57bbb1267fa29587c2ac08f6e54d13"
-
-[[files]]
-file = "config/enderio/recipes/examples/peaceful.xml"
-hash = "03b97bb6e53910e7d94dc9f9965b7ecfbe83812bc86557740e1522c064777791"
-
-[[files]]
-file = "config/enderio/recipes/examples/powertools_easy_recipes.xml"
-hash = "249a3177db6d7e055493cd22a7a3c567e445695a71d2d90b8b671b6a9f3e0d26"
-
-[[files]]
-file = "config/enderio/recipes/examples/recipes.xsd"
-hash = "ec1c0b4244d89050a0ca7ec214e4a80c6afa7e3ad7e49907175d06aa6d59a43b"
-
-[[files]]
-file = "config/enderio/recipes/examples/sagmill_dupe_recipe_patches.xml"
-hash = "28bc650b739945efbc46abae72e4f7104460aec317ad5d348cade22801cca3e9"
-
-[[files]]
-file = "config/enderio/recipes/examples/strict_iron.xml"
-hash = "cc59be9d8030feca674a1edabfbbc602a3910eea0800bcc0ac7625bf953b40bd"
-
-[[files]]
-file = "config/enderio/recipes/examples/unhide_base.xml"
-hash = "2058cbec94cb5defa55596bff89b0583423933e13d874b1dfd4a31010782e8be"
-
-[[files]]
-file = "config/enderio/recipes/fuels.pdf"
-hash = "1e8df011ce65e38659f8c966ebc44227062b52f6d1dda8400aaa94c96d18ff37"
-
-[[files]]
-file = "config/enderio/recipes/generated.pdf"
-hash = "368083195e2c56ff6924d7c8e23fb09fd7ced3fd446d51fa2273483218a3e437"
-
-[[files]]
-file = "config/enderio/recipes/glass.pdf"
-hash = "9459132cd52b4b78b665a3f631959e583a1c9601434df8ed244bdcda01bb9586"
-
-[[files]]
-file = "config/enderio/recipes/hiding_base.pdf"
-hash = "8c0e83a2b3b00192e5c7be9b2becea89dc954936e2748398220818a80ae67e94"
-
-[[files]]
-file = "config/enderio/recipes/hiding_conduits.pdf"
-hash = "29dde6e1f72dfc98e940a8e6cc47f0a0f2ca8aa710bbf3538826ad8f7f1ea8c9"
-
-[[files]]
-file = "config/enderio/recipes/hiding_machines.pdf"
-hash = "402c976500c60c692c55bc2489a0fd17a2af4c4fe5d57b4c642a7c8511a4a856"
-
-[[files]]
-file = "config/enderio/recipes/integration_railcraft_recipes.pdf"
-hash = "b4b24800e98aae6e6802c58a4323ec5d0a314189c8e11e580710a9589b234ef4"
-
-[[files]]
-file = "config/enderio/recipes/items.pdf"
-hash = "a9e2ab1aec721e74e943dde14bdc83ed70a91d873c1a94559c2dcabf1424667d"
-
-[[files]]
-file = "config/enderio/recipes/machines.pdf"
-hash = "41379e2d2e0eac132ae6df8059dc14fef82ff2d1db34e245ef8c790cab227801"
-
-[[files]]
-file = "config/enderio/recipes/materials.pdf"
-hash = "01eface3185383450c9bc34544cd43ff64e20257d2dd95ec477be8ade1a2bb7b"
-
-[[files]]
-file = "config/enderio/recipes/misc.pdf"
-hash = "973ed99edd83beb964d18af4a8185c983ad3e2777e14bc9d3e2bf1eaeb04d275"
-
-[[files]]
-file = "config/enderio/recipes/powertools.pdf"
-hash = "3807d96e24b7602cc00f33974ba2426a52c5c757e229a4d2a18e26b5cab96f92"
-
-[[files]]
-file = "config/enderio/recipes/sagmill.pdf"
-hash = "f9d375abf206e1375678976d26baf7536a643599c3f30bea1a3a181cf32f56c2"
-
-[[files]]
-file = "config/enderio/recipes/sagmill_metals.pdf"
-hash = "c25e3bfeba6463021a8500c9eccbc0a4c32e8dd0c5da8dd5a7fbe75fe1b42d5b"
-
-[[files]]
-file = "config/enderio/recipes/sagmill_modded.pdf"
-hash = "35a72993dcddfc137e7c6937b7a4c18916cc46a3c66cc866a9451287f5ed3700"
-
-[[files]]
-file = "config/enderio/recipes/sagmill_ores.pdf"
-hash = "769d4f45ecaf7c68c132196757b890fa3e7baff72d4025cc08bc44a44c1cb05c"
-
-[[files]]
-file = "config/enderio/recipes/sagmill_silentgems.pdf"
-hash = "7f075d47973a013f299e64fda7b1f240090426c92df95d27cd90c160b6e8e87d"
-
-[[files]]
-file = "config/enderio/recipes/sagmill_vanilla.pdf"
-hash = "bea9029b53f1aeb1a4689d600b2a7034e6be065250fd6ec2e27fbd3890e069d0"
-
-[[files]]
-file = "config/enderio/recipes/sagmill_vanilla2modded.pdf"
-hash = "4a7fce1828aded913876ad4ce39ff8b66488cf3c1639b2c4dbba02a51641a5b1"
-
-[[files]]
-file = "config/enderio/recipes/soulbinder.pdf"
-hash = "2baec973370b2d0e590fd7beed171ccf1931952ba42d8b7ee535023a435c250a"
-
-[[files]]
-file = "config/enderio/recipes/spawner.pdf"
-hash = "c956506cec0a95dd3fac5e86b0f04eeb8919d108fbe959e1dc43e7ef1e88d03a"
-
-[[files]]
-file = "config/enderio/recipes/tank.pdf"
-hash = "d77784e04e0b543a1a52744307570637c7545e784c82ddfe85e2f8d4b87e23ac"
-
-[[files]]
-file = "config/enderio/recipes/user/recipes.xsd"
-hash = "ec1c0b4244d89050a0ca7ec214e4a80c6afa7e3ad7e49907175d06aa6d59a43b"
+file = "config/cofh/world/galacticores-109-above-cofh-world.json"
+hash = "31733f8c5823b4296075b290f43ee18e8da657dd92e203d2acd5236922530dc3"
 
 [[files]]
 file = "config/enderio/recipes/user/user_recipes.xml"
 hash = "b1a1e2919e06530615ee214dab0298bdd085715e5462f7ac2a8915c410de0e05"
 
 [[files]]
-file = "config/enderio/recipes/vat.pdf"
-hash = "7794faa4c1506ea04c8032087945f00bb3a98aa7026dc8867894dd936d97bf47"
-
-[[files]]
 file = "config/enderstorage.cfg"
 hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
 
 [[files]]
-file = "config/eplus.cfg"
-hash = "44ab161b172206cb25beb3d03859c52079f8c4b2919379fad3e2d2c6de2795d1"
-
-[[files]]
 file = "config/extrautils2.cfg"
 hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
-
-[[files]]
-file = "config/fastleafdecay.cfg"
-hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
-
-[[files]]
-file = "config/flux_networks.cfg"
-hash = "9a356e563fe140d464ff65a6b860965d0556f9029c67a85c9f64400cfe81e1b9"
-
-[[files]]
-file = "config/foamfix.cfg"
-hash = "b30bd56983f75403473ef9d59446aa059b9601812c3f2b68e6098c26a7a0d8ff"
-
-[[files]]
-file = "config/forge.cfg"
-hash = "0faa0fe45f52ce72ca55655dc7c476e823fc5ad50cb48373e086f3d513a9d592"
-
-[[files]]
-file = "config/forgeChunkLoading.cfg"
-hash = "3f932b1f6b94e0b6617bf3c7beb3aed640c2740bdf2ff6dd912d80ccbfd2108f"
-
-[[files]]
-file = "config/ftblib.cfg"
-hash = "0c2a28be1dcc0fd1823e88430b8038de265c153b3441d9f972860e1df5c9d025"
 
 [[files]]
 file = "config/ftbutilities.cfg"
@@ -709,272 +49,80 @@ file = "config/huntingdim/huntingdim.cfg"
 hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
 
 [[files]]
-file = "config/huntingdim/world_generator_settings.json"
-hash = "dcc59820b64296d6adddc36a6bc3064b1e3136ed8c8115b57f46a9afb1720b08"
-
-[[files]]
 file = "config/ic2/shaped_recipes.ini"
 hash = "caebe3a5cebd5cf9278f89dd35c8e31a767c5f17fe32463e0ed3b0159ab79a5a"
-
-[[files]]
-file = "config/ichunutil.cfg"
-hash = "119eb3588cc2d614c5d3341d09f857a5d13ec8de00a9f3492c979cc2f2140f08"
-
-[[files]]
-file = "config/ichunutil_keybinds.cfg"
-hash = "d22a31ff6adc87a65846eeb4a94b1620567d5b39ab8fee00036a37f320e6c051"
-
-[[files]]
-file = "config/igwmod.cfg"
-hash = "ec92ba604baca7fcfed9e28464134e952bbd5acc1bfcaf5c1cb9308604a7d6e9"
-
-[[files]]
-file = "config/industrialforegoing.cfg"
-hash = "ff81dea92f42105b1a307010214bf7655540c1cc10bebf5d49bf2e5f189ab011"
-
-[[files]]
-file = "config/jei/itemBlacklist.cfg"
-hash = "41ab5806db8d5e1c3ce04d36dc8564cc8a21d33dcc0945b3903df0f2a9c68d86"
-
-[[files]]
-file = "config/jei/jei.cfg"
-hash = "765febbe6be3faf646e5a8d05115e53542938dab152c7b142d9b68fa2a07e706"
-
-[[files]]
-file = "config/jei/searchColors.cfg"
-hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
-
-[[files]]
-file = "config/jei/worldSettings.cfg"
-hash = "f83a4882b6f9e5ac506a1b028d5d9d19406ef6393414d2180a90db68f684198c"
-
-[[files]]
-file = "config/jeiintegration.cfg"
-hash = "9f3bdaa99cff2aae77daae8a74e18545b679d31308bb76f18a194ef0d306a66f"
-
-[[files]]
-file = "config/jeresources/jeresources.cfg"
-hash = "89a554fa03284ed83867e2876bcebc7a2ff80e915d6bfa6938bda51d4894ea57"
-
-[[files]]
-file = "config/journeymap_ModInfo.cfg"
-hash = "20416d541856753e53f302dfe26b53a8a25ba0c3b243a3efe11b6942b9318ca4"
-
-[[files]]
-file = "config/journeymap_server.cfg"
-hash = "bfd7c39f740bf5008fb0dc55e1b140d7436f47c57775f5a0fee9721db56229bc"
-
-[[files]]
-file = "config/laser_drill_ores/actuallyadditions_ores.json"
-hash = "739c23b364d9c2fd5c2ec840a9d70d2bc04f92a1e69822e43c4f1228be096249"
-
-[[files]]
-file = "config/laser_drill_ores/appliedenergistics2_ores.json"
-hash = "2eb21695737095eb33187c5c9829303b2330eb5a17ed31cc24741deb0fc25670"
-
-[[files]]
-file = "config/laser_drill_ores/default_ores.json"
-hash = "29030f50114fa9b7f5c2c134c41d4c186f592898827bfbd9dcdfe8323815c5ab"
-
-[[files]]
-file = "config/laser_drill_ores/mysticalagriculture_ores.json"
-hash = "15ebe28c591801c38ffae5c9db5c6726e5779784dfb66ccffaea4a6f2b6d1bb7"
-
-[[files]]
-file = "config/laser_drill_ores/rftools_ores.json"
-hash = "888ee7c8d4e63b21c047e55706113be73087c861bd8f5716b915229463550633"
-
-[[files]]
-file = "config/laser_drill_ores/thermalfoundation_ores.json"
-hash = "cafaed3a878a90c9c43a99f276950070b4bdf52b5613eb2f2345c5ff88eb2848"
-
-[[files]]
-file = "config/littletiles-client.json"
-hash = "e336ad2efd69075a479cf4be7d2c94e945777b89fb8c1c7a251949f016a936e5"
-
-[[files]]
-file = "config/littletiles.json"
-hash = "2c9c5c367694027d6e2bee4da08e0ed4d61fcc1fce1370834714cadd46ec007f"
 
 [[files]]
 file = "config/lucraftcore.cfg"
 hash = "d3f9eba29cd99b84467bc379b64f922c41f3576d407d77b171606d8e820c16e1"
 
 [[files]]
-file = "config/malisiscore.cfg"
-hash = "ec763215ac6cb1f46bc699783a6df6929484d8686368a3db44f7bcf8c395b2ec"
-
-[[files]]
-file = "config/mcjtylib.cfg"
-hash = "5da016d72f154b7f42274db7a0f6b95a0b9b70a78bf97e9ebf4ea81867add8cc"
-
-[[files]]
-file = "config/microblocks.cfg"
-hash = "c37d2987b0316ae1e4b0bff9af8bca096e1d67cc5032c1287154b83cee37928e"
-
-[[files]]
-file = "config/moartinkers.cfg"
-hash = "9334791843a5d14a0a2b96d750e2583d925a48013a200e5aef05b0d17eb3a42f"
-
-[[files]]
-file = "config/modnametooltip.cfg"
-hash = "c3b897ecd08bf4cf0a29747d40f5a5326df8cff30e797c15e37a3161a0b8de68"
-
-[[files]]
-file = "config/multipart.cfg"
-hash = "09e84839cd81ded44c4a89136ad4c53ad9b276a3e3540e1b4040539ec040e0d7"
-
-[[files]]
-file = "config/mysticalagradditions.cfg"
-hash = "5b86f96e13f4b3acd6f4ec5b4d5262ed5573f217d1b6478ce649d9de89c0df0b"
-
-[[files]]
-file = "config/mysticalagriculture.cfg"
-hash = "59e9df1eb0a571d937f03bce9d3708fb576ddf801092ec25f5f8b01fc475292c"
-
-[[files]]
-file = "config/mysticalagriculture_recipes.cfg"
-hash = "7a16ae499982fd34f09ca28fe29f0570842f99149eed06150aa3cec4744fbed3"
-
-[[files]]
 file = "config/natura.cfg"
 hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
-
-[[files]]
-file = "config/notenoughwands.cfg"
-hash = "e17e93199c3275de9e7c02b1ba1850cd065a6002cd1672fb516f68fef0da161c"
-
-[[files]]
-file = "config/openblocks.cfg"
-hash = "3466f0af3ec2f26610494f3a6134a04e7f2a82409b6fc9c3a593d9aeb3d842bc"
-
-[[files]]
-file = "config/opencomputers/default.recipes"
-hash = "7a6905fda2366bfa4c99baa163a89d78ada8336a65e6fd6bcdea8d986b941fb9"
-
-[[files]]
-file = "config/opencomputers/gregtech.recipes"
-hash = "2c791acd28f72d75de0747f6fa95c197cc3abd0938a1929933c3926974462995"
-
-[[files]]
-file = "config/opencomputers/hardmode.recipes"
-hash = "07e0e81eab77fbebefa84eb25078e672b6f847ba7a88cc5e205593975fa6886b"
-
-[[files]]
-file = "config/opencomputers/peaceful.recipes"
-hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
-
-[[files]]
-file = "config/opencomputers/settings.conf"
-hash = "d6f0f6d5dbfab62bba296209e41c735afc65d281d0f460e6002ae0c167e1bdc7"
-
-[[files]]
-file = "config/opencomputers/user.recipes"
-hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
-
-[[files]]
-file = "config/openmods.cfg"
-hash = "a352eb26d4fb50a775455eeedf62cb2fce9170900efdaaaf115bb7e255e4f061"
-
-[[files]]
-file = "config/oreberries.cfg"
-hash = "f281f70ebc93fdd4baeff03f2b38692b56431bf1e74269b42db70a50df956883"
-
-[[files]]
-file = "config/oreberries.json"
-hash = "2314ca0ffbb787610202f3c0d023281aceccf83989c7ae2e8e256f4781a6cd6d"
 
 [[files]]
 file = "config/orecore.cfg"
 hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
 
 [[files]]
-file = "config/p455w0rdsLib.cfg"
-hash = "6ba1aa3425fbfd025456b54bbcd822bcf349f825ef75e07bb840146727cbe3a4"
-
-[[files]]
-file = "config/portalgun.cfg"
-hash = "8018d1ebd42631dc2fbdadf85fa8e3aa1fc7ba0cc0341d7ecadc4d85a098c744"
-
-[[files]]
-file = "config/prefab.cfg"
-hash = "d45574b3254c9dd6325e818ae3e40cef2c03b21b5737239051b7ac80d9bf4cb9"
-
-[[files]]
 file = "config/quark.cfg"
-hash = "16fb8cafb86402bc3b7f75509c94f5390da4d432f64bb856f5b89f1d716370a3"
-
-[[files]]
-file = "config/rangedpumps.cfg"
-hash = "1325ab50e5883cb91cd0c32b640975d23b01dffdba7e77c327b16597b10aedc4"
-
-[[files]]
-file = "config/redstonepaste.cfg"
-hash = "b67e2f07256651dbaa3a4c905942b560813e0957655692a0c639c55a7cf47077"
-
-[[files]]
-file = "config/refinedstorage.cfg"
-hash = "d1f265c3b9ecbe4dd2bc732b3e4a98c013fafcfcea6578b375adb5c2a5e01461"
-
-[[files]]
-file = "config/refinedstorageaddons.cfg"
-hash = "2b986b7cb13ad09c68cbdc7759e702087315a4127bef66e7812d77889c30b827"
-
-[[files]]
-file = "config/rftools/control.cfg"
-hash = "81a806c720edac5beb7f939cb2dc460e136e176b7ad3e63ea42fc754f3bfbed2"
-
-[[files]]
-file = "config/rftools/rftools.cfg"
-hash = "2fb9da4131c8fec97561c437e6950d47d293b60d5a80b38a5029d653aa4b425e"
+hash = "d83cf31cc007caeef754a9d85b582cbe9879f6f6933a5a585919597d53cf3696"
 
 [[files]]
 file = "config/ruins.txt"
-hash = "3cfda179537fd2e6902e8fbb462b02e3ee8c29a365d1fcba645ed0880d3e8d8b"
+hash = "cde383e21966a72b330e0d5733389499527cad27edc1b5851d8ae6b31b04f00c"
 
 [[files]]
 file = "config/ruins_config/beaches/dartiscraft-lighthouse-tesseract-configurator.tml"
-hash = "a3b59e1242c918de60216a10666076ea7f434a6d7ff57915e8e99173f632ac35"
+hash = "120e5856bc7a01b09fda807edd23783d6b91848aee2ddc0da8d0af153f43a809"
 
 [[files]]
 file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-kree.tml"
-hash = "ae719c3bba2cd3ab9076d6497b4edeeea7e52590775207ce32f1ca689d0650c2"
+hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
+hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
 
 [[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-uru-thor.tml"
-hash = "365f99c65c2f5425ee9ada11f5e31147dd27e39b521041b2c6910555bf8bd02d"
+file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
+hash = "f08613d86dae6ea174e133c1cac02487a0a80eedacdc9ab68482121a612a12bc"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
-hash = "5c7a985155958e182d41c81f0203c94df38b2dfcb33de4f210152325fb91acb1"
+hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
-hash = "2a16a10704a684ba4e634fb923184dbfbe21a5463c12280526c1426dc07d4149"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-configurator.tml"
-hash = "a3b59e1242c918de60216a10666076ea7f434a6d7ff57915e8e99173f632ac35"
+hash = "120e5856bc7a01b09fda807edd23783d6b91848aee2ddc0da8d0af153f43a809"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
 hash = "f24f28ddb251b0f5c3af7575f6a4f53a67a91204665dbdc806984f879e1b5bec"
 
 [[files]]
+file = "config/ruins_config/desert/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
+hash = "5c7a985155958e182d41c81f0203c94df38b2dfcb33de4f210152325fb91acb1"
+
+[[files]]
+file = "config/ruins_config/desert/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
+
+[[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
-hash = "48d495985eae0d61b423e55de9ec5eb8c7f177de0d18af5a76db1b4e5387eeda"
+hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-kree.tml"
-hash = "ae719c3bba2cd3ab9076d6497b4edeeea7e52590775207ce32f1ca689d0650c2"
+hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
 file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-kree.tml"
-hash = "ae719c3bba2cd3ab9076d6497b4edeeea7e52590775207ce32f1ca689d0650c2"
+hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
 file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml"
@@ -982,23 +130,23 @@ hash = "c8f3d038bb66ef04f78fcd6b30a180c31beb7ce6e473d9bf081899953bb90b51"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
+hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
 
 [[files]]
-file = "config/ruins_config/forest/dartiscraft-birchoutpost-uru-thor.tml"
-hash = "365f99c65c2f5425ee9ada11f5e31147dd27e39b521041b2c6910555bf8bd02d"
+file = "config/ruins_config/forest/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
+hash = "f08613d86dae6ea174e133c1cac02487a0a80eedacdc9ab68482121a612a12bc"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
-hash = "5c7a985155958e182d41c81f0203c94df38b2dfcb33de4f210152325fb91acb1"
+hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
-hash = "2a16a10704a684ba4e634fb923184dbfbe21a5463c12280526c1426dc07d4149"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-tesseract-configurator.tml"
-hash = "a3b59e1242c918de60216a10666076ea7f434a6d7ff57915e8e99173f632ac35"
+hash = "120e5856bc7a01b09fda807edd23783d6b91848aee2ddc0da8d0af153f43a809"
 
 [[files]]
 file = "config/ruins_config/generic/EmeraldOreOutcrop.tml"
@@ -1009,8 +157,8 @@ file = "config/ruins_config/generic/OreSpire.tml"
 hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
 
 [[files]]
-file = "config/ruins_config/generic/OutpostX.tml"
-hash = "110507b1edcfe66c890cc489b732172bb11208bd58ee6f3a9b1897e321d14957"
+file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
+hash = "9c1714877614511adb1022c50be1f0eabbdd1c4aa074c7628c49e10accd72d3b"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
@@ -1025,8 +173,8 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-seedship-final.tml"
-hash = "b7adcaa644a3db0282dc22b5e343b6a9f685f044dd6f1c0f2e4b459ac06b72f1"
+file = "config/ruins_config/generic/dartiscraft-seedship-final2.tml"
+hash = "12f2789d8acd10c976b95c30919dc949f73520f7dc71ef384cffb0fc440bb7d9"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
@@ -1041,20 +189,64 @@ file = "config/ruins_config/hell/taonasg.tml"
 hash = "71ccf834e0bc45b60a50b3de9ce81bb7511159ac995fb75bfe71cafb45dff480"
 
 [[files]]
+file = "config/ruins_config/jungle/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
+
+[[files]]
+file = "config/ruins_config/jungle/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
+hash = "f08613d86dae6ea174e133c1cac02487a0a80eedacdc9ab68482121a612a12bc"
+
+[[files]]
 file = "config/ruins_config/jungle/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
-hash = "5c7a985155958e182d41c81f0203c94df38b2dfcb33de4f210152325fb91acb1"
+hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
+
+[[files]]
+file = "config/ruins_config/jungle/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
+
+[[files]]
+file = "config/ruins_config/jungle_edge/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
+
+[[files]]
+file = "config/ruins_config/jungle_edge/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
+hash = "f08613d86dae6ea174e133c1cac02487a0a80eedacdc9ab68482121a612a12bc"
 
 [[files]]
 file = "config/ruins_config/jungle_edge/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
-hash = "5c7a985155958e182d41c81f0203c94df38b2dfcb33de4f210152325fb91acb1"
+hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
+
+[[files]]
+file = "config/ruins_config/jungle_edge/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
+
+[[files]]
+file = "config/ruins_config/jungle_hills/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
+
+[[files]]
+file = "config/ruins_config/jungle_hills/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
+hash = "f08613d86dae6ea174e133c1cac02487a0a80eedacdc9ab68482121a612a12bc"
 
 [[files]]
 file = "config/ruins_config/jungle_hills/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
-hash = "5c7a985155958e182d41c81f0203c94df38b2dfcb33de4f210152325fb91acb1"
+hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
+
+[[files]]
+file = "config/ruins_config/jungle_hills/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
+
+[[files]]
+file = "config/ruins_config/mesa/JG_WarTower1Base_Seed_CB_1v12.tml"
+hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
+
+[[files]]
+file = "config/ruins_config/mesa/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
+hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
 
 [[files]]
 file = "config/ruins_config/mesa/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
-hash = "2a16a10704a684ba4e634fb923184dbfbe21a5463c12280526c1426dc07d4149"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
 
 [[files]]
 file = "config/ruins_config/plains/CastleModified.tml"
@@ -1062,23 +254,27 @@ hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
+hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
 hash = "a7666fbcf70b2c4611ea1b32f5393d6953d35e6c90cd6151f40ffa604e430d47"
 
 [[files]]
-file = "config/ruins_config/savanna/dartiscraft-birchoutpost-uru-thor.tml"
-hash = "365f99c65c2f5425ee9ada11f5e31147dd27e39b521041b2c6910555bf8bd02d"
+file = "config/ruins_config/roofed_forest/JG_WarTower1Base_Seed_CB_1v12.tml"
+hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
 
 [[files]]
-file = "config/ruins_config/savanna/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
-hash = "5c7a985155958e182d41c81f0203c94df38b2dfcb33de4f210152325fb91acb1"
+file = "config/ruins_config/savannah/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
+hash = "f08613d86dae6ea174e133c1cac02487a0a80eedacdc9ab68482121a612a12bc"
 
 [[files]]
-file = "config/ruins_config/savanna/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
-hash = "2a16a10704a684ba4e634fb923184dbfbe21a5463c12280526c1426dc07d4149"
+file = "config/ruins_config/savannah/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
+hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
+
+[[files]]
+file = "config/ruins_config/savannah/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
+hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
 
 [[files]]
 file = "config/ruins_config/templateparser/TP_WarTower1A.tml"
@@ -1101,96 +297,1864 @@ file = "config/ruins_config/templateparser/TP_WarTower1Top.tml"
 hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
 
 [[files]]
-file = "config/secretroomsmod.cfg"
-hash = "40af6b63544732e61b6c0dc11af9c8bb8404e44402a5c4e8d5502a03d1fb26c2"
+file = "config/ruins_config/templateparser2/JG_ADJ_BedrockRail_1v12.tml"
+hash = "6edc03da1d89f081945da75ae92b68f4c20ed01e237c4209aa420c954a96d9e4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ADJ_BedrockRail_EW_1v12.tml"
+hash = "94d97379011f2e7d21633d7a1c5d8c9a70680b64f6c34a6a6208b838ad694887"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ADJ_Water_Cave_Cluster_1v12.tml"
+hash = "24291c932251fdbbeda0594a22c3ba4495c2f57614eb4e5a60b4d9eabf4b5240"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_AbandonedVillagePlot_1v12.tml"
+hash = "ddb0840c9b1ca416b0eca4a5976a61c9be136fb40f9c0b79f6f428240eb04e82"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_AcaciaRoofHouse_1v12.tml"
+hash = "7cb95e2650a0bdc4d618dd2d8f005aa7f9385fc37e7388b35b998f98be3cd1bb"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_AdventurersInn_CB_Seed_1v12.tml"
+hash = "054b15b6f9e15ae6d1108cd68f190f0bd9e83445169765c4d4eb00e789192dc3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_AndesiteLookout_1v12.tml"
+hash = "4f3401516dbda58a5b570583a860af2ee1db62b2edf0b2b531c2cd508f915d9f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_AnkhMonument_1v12-p.tml"
+hash = "f779afd3e8bbcc099f0c045fc91841ed4ec93f916f1e5fae7badb0b8a3db12c1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_AnkhMonument_1v12-r.tml"
+hash = "43b37d26103bdfc57299cec4e41ee34f1afaea7fada541d521a529b6d3fb6b4b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BRD_Seed_CB_1v12.tml"
+hash = "7cee885e3dbc656ef333da42490b14230888e927f9fd4b290a76d10dad610e2e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BaobabTree_1v12.tml"
+hash = "d2034efb053ac394a12bd2091c5487648cf129af379fae6e6799d2fe21d869b9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BaobabTree_Lookout_1v12.tml"
+hash = "75df397cfcb096608f20a145ff009ab34048ad1470e1ab865feba3d670f1f0d2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Barn_Undead_CB_1v12.tml"
+hash = "79cb8c240117bf58b353676a65735f5b691f83dcf368cc2bf89165099ab50e63"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BeachHouse_CB_1v12.tml"
+hash = "eec1dc2f4156ba9e54f3d35dbf9e4c949221d8259a915fac4ee58b8c04b2d084"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BedrockRail_1v12.tml"
+hash = "4cb18964932b9d0d36f6a188df116da19e840951d3b3fb5162dadfe176f33c33"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BedrockRail_EW_1v12.tml"
+hash = "978375f7b41c663299554738804ca2236f160bf689e41bceabcd0c0a2960d3c3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Birch_Outpost_1v12.tml"
+hash = "4082cd9bb53337dce41da6bda94874e13a8d653d12907e446780673e842f4277"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BoardedManor_1v12.tml"
+hash = "4003cf4fcd1dbf39d63144d938a0e3717b1e3cfebf53fc7830fbc53114ec5c2c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Boathouse_1v12.tml"
+hash = "fc295199d1daf5c68347bb905607afe6cd502c2d89f84814815b3f569789d80d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BoglightLair_CB_1v12.tml"
+hash = "d83c3ea0dbc500fa8bf1b89b3c08d97c7c4381386094a7ca0f1859f3a11ae295"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BuriedDungeonSeed_CB_1v12.tml"
+hash = "41980e3e0a0799116fdde02d6074a4225622fece5c53011e0fe6c37c9caf1e64"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BuriedFeatureSeed_CB_1v12.tml"
+hash = "8d5f087e7091dabe1ffe85954a7a08ea907b882242d2659d48f5ea655ef65122"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_BuriedPyramid_1v12.tml"
+hash = "d38a5ebca3f5441e8488c659ec1aa3f761fe5e2cedcfe21a5bf2182acb4b5755"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Campsite_1v12.tml"
+hash = "3bc296fecdf2b670c08ec11fcbc56c68af25c15ddbc2a9cae680d14026ee7fb9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_CastleGreywolf_CB_1v12.tml"
+hash = "f662f6693631f4aa977c2ffb05310eaa9355d685630a3df1c587a9e8ef0595d0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_CastleWallRuin_1v12.tml"
+hash = "a31ccd55a7b3d4c1e3b81e8d2555215b4f6c219090df04bd81988051498ab299"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_CaveGarden_Seed_CB_1v12.tml"
+hash = "76f3a4e424fbe2bbe8544409902515c5580929e8282d2fb593f83bc8df6090fc"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Cave_Crystal_1v12.tml"
+hash = "f924812df8d66ede5880926e1254c9aac7142862784b3757113f21ec3b2b512d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Cave_LavaHollow_1v12.tml"
+hash = "339d04c462c112b3b7b70bc498f5419742620cf8adcc057b7ad5b168ee2de81f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Cave_WaterHollow_1v12.tml"
+hash = "05d2ebabb209ea1b75db99d198fdbcba637a446c3e4c5920affa4ad7eb4c439e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_CemeteryVaultEntrance_Seed_CB_1v12.tml"
+hash = "989552882bc0dd6387842e6b2df626987b29e5c328a1ad88e306a1f58fd9291b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ClayPocket_1v12.tml"
+hash = "b1d09748ad5fd6df5298d08ab64f1dda4c34cb11df8ae27e57239262df81beb0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ConjurerDungeonDesert_CB_1v12-r.tml"
+hash = "b4076ba5009ad53f55bdcab71c8e38dd37becb25bc28b03ba44b9312393bcf9a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ConjurerDungeon_CB_1v12-r.tml"
+hash = "b5e9c1d4a4bb1dbc47a7215dac3787dfce65c26c802c6f93925677fb79c5c6b3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Crater_Meteor_CB_1v12.tml"
+hash = "207d76c0374ff19108138cf05e54c428a1f531cf0b15aecdef333086f5661ee2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_CursedVillageWell_Seed_CB_1v12.tml"
+hash = "b7a15b7d8ebade1b5e1a0c0317e92198932d4a8a24c5131d317f879bab96c07f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_DeadRoots_1v12.tml"
+hash = "47d24e901045ef0a267c22c82bc2a10554eb631eab1a24fe2b8f72a98ea1e2a9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_DeadTree_1v12.tml"
+hash = "ddea6211eff301cc7b59cc7dc7072163c584b8f93219f88fc9a1e47f9238f1b0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_DesertFirePitHut_1v12-r.tml"
+hash = "d388363a274ed4e8176bcddaa263ca4c5c5f1adbd643a045d930a7d9864fd698"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_DesertFirePitHut_1v12.tml"
+hash = "e7bc7acc54288bc2d7699d1b19c6a4fb73810c5528744ef96a60c1b9265c5363"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_DesertTent_1v12.tml"
+hash = "5ac3a682a0d52f1f843b08b0f3188a717cd9159fa8795be68b050e8d9f78b5c6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_DesertVillageDungeon_CB_1v12.tml"
+hash = "7093787d42a2dabf130063d75046478a23481deb01ff2cc14808e0341f422725"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Desert_Oasis_1v12.tml"
+hash = "a9ae5d4c3ec0766e39be749dc213aa099b82f4dac0e69fc7d4e9c1fbea4fb576"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Desert_Oasis_Cursed_1v12.tml"
+hash = "b461a9b6880991fdedb71eafc4477bac69cdea41eb2b0a5a572702723b5eb70c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Dock_Beach_1v12.tml"
+hash = "773554174d3b67526807a73508f7f99ca231c4c4a2b09d429ab589e104e9b693"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_DungeonSpiral_CB_1v12.tml"
+hash = "e2265f3e6931782fe6bf3dc3bcf1d6b18bcd9e3cff95b060fd2efd1dca71199e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_FairyRing_1v12.tml"
+hash = "b6f7ba6650da2fd20d0401b5d6a89066fa14587b089030c0410bab3c1e60bc9c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_FishBones_Glowing_1v12.tml"
+hash = "725b4b6bf8638178ea46cdfd2226afa8dcb6da5ff0fa0cc28a2027f9bdc2a9fe"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ForestPool_1v12.tml"
+hash = "b1537042dd92809da1675f24ab208d0cb8907bde0a0a363c2e5da20657371a41"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_FortuneTellerWagon_CB_1v12.tml"
+hash = "aa57c64254f87fc2ba504ba8491d89af1e7d794d7403ee68c0355e2fd10403d8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_FoundationWoodHouse_1v12.tml"
+hash = "8c45b5883309a2c85e7942f133e36b9fa228322fe0bc84d211aff7e642763c4c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Gargoyle_Obsidian_1v12.tml"
+hash = "84ab560116126fef21a99b440035b986644d6aeb39731d16b2c7a12053379169"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Gargoyle_Stone_1v12.tml"
+hash = "54efb49cdf111040e5c31f0c19f305ee1b16a6b362db6171e81e8f9cb373f6e6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_GatorIdol_1v12.tml"
+hash = "e25dbb59864f2f93fafc1ea4fa84904c5c3f15e9640b4c9908b8f6f7ed417215"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_GazeboDoomDesert_1v12.tml"
+hash = "517cee58672da587cc71d71993039168f1ddf579fa4e654b4c8b048a60d217b3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_GazeboDoom_1v12.tml"
+hash = "4482097771e53f70c7380b4cdc3d7b682be168e2e17ddcba60a89c2d9921c7c2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_GenDungeon5x5Seed_CB_1v12.tml"
+hash = "cf043bb03f30112c1e79c75bb6bd61d3076a2da5ef3fab349d247fa062aed5a2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_GiantBeanstalk_CB_1v12.tml"
+hash = "15d63137786b0a1df3e22d65b610d2f91df37b996fe8a88db2e5b6eeb1db1630"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_GolemTower_CB_1v12.tml"
+hash = "a15d7caa2026065e7bc79ff6069b966a5b29c9a104b05053d43d65ea7f06b46d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_GuardianLion_1v12.tml"
+hash = "46e3448058b94b3e899f5eb8500d3f58a7a366e46209b7c629d91cd687270239"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_HauntedHouse_CB_1v12.tml"
+hash = "f1a00cd90a297f66fe1105f3d12382ce64af59314eb0219d88727d57e26dbe70"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_HauntedManor_CB_1v12.tml"
+hash = "d2d20c99efed398ecd949f2ff7ddcbe730db84de2689d198ec5b59131f6cbf3c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_HauntedTownhouse_CB_1v12.tml"
+hash = "86d4890fcde016220a980091243c56395837310776742d3b62d38d7aa4f8a97e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_HeadlessHorseman_CB_1v12.tml"
+hash = "451828820dbaee4b26729fd2a5aa8b00b3121e90064addf0b0e9f3f8c07d95b5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_HighwayRuin_1v12.tml"
+hash = "197a1a426c44962fc7ba51ea6a76014388642729ea44e52e3806f4e82f304f6e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_HorseBarn_CB_1v12.tml"
+hash = "0d3be504db02142fe99c3bde1848a6253e16e315f22c5b95d4b69dd6b35163af"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_HuntingLodge_1v12.tml"
+hash = "08ea88ef628d2c4f28169c4f850c77e7e010f8ab04686391f3a2b0be05283d54"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_IceGuardTower1_CB_1v12.tml"
+hash = "aac6ab966b41ef98c57844e03d4907cdfc7e851f25c0a2be3a36099f031a8b0e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_IceGuardTower2_CB_1v12.tml"
+hash = "d338b65f1a85ca74b11e92c9530e5ae84a03214a03fd28f70dd556ab4226e017"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Igloo_NOCB_1v12.tml"
+hash = "9e3dc5e8ad2448991bdbc29086f391fbb9aa0307e2a34ff73c74a9d231afa824"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_InventorWorkshop_CB_1v12.tml"
+hash = "ece68ee33c25c09e76e7d56ea08bb3a4a216c50cf93fa1074f0152b61683ae81"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_IronGolem_1v12.tml"
+hash = "830b2888bad19c385289ca90c12636145c7d385d7ba3d51819b11057441e3f0c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_IronSmeltery_CB_1v12.tml"
+hash = "0e539eb017388eeb1b805fd5dfaa4301246697d82bbc7e498011e69fa442e9a6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleColumn_1v12.tml"
+hash = "747cec479280f2506c8acaeebf69b5fdc9037c98e23504510a3a16c8c4bdfaf1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleCrypt_1v12.tml"
+hash = "754a5d6b93b015c78ccb6650f9e96e928c70288feaf0a25d10c5976f88d62dd6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleFeatureSeed_CB_1v12.tml"
+hash = "7ec0a96e7537822d83af13af2ee58f16e33707e7cae9484df47475598adc48db"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleIdol_1v12.tml"
+hash = "fc7f03f10daf4a0271f2dc6d2ec98efff07e0942a020a04f9fb535f30e611cae"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleTempleWellSeed_CB_1v12.tml"
+hash = "5b4e9ba322f79fce5af9d03bf49de036ae2f72f7eb16aa61d308d2819aa4209d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleTreeStand_1v12.tml"
+hash = "93b20f3a3bb4d597594ff325d018b6d6ec8027415336bdc6954f8eccb7ce88b3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleWallRuin1_1v12.tml"
+hash = "0d87ed310582c1dbf07e9ec0bd10bf46a5742927fee353152e61f85b246c5fc9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleWallRuin2_1v12.tml"
+hash = "b071fd7d464136f1597e6144653275049152f23be869d1bbcf346d3d779f1bec"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_JungleZiggurat_Lava_1v12.tml"
+hash = "b476aa7ea3866afcd6efca883de5876e9457254dab8a87698d332f47f7ce5ba9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_LimboDungeonSeeder_CB_1v12.tml"
+hash = "22924614d2b1d6b5a4022112f858b7ae2c1fb1f5fa6b332a7b4af9c0ded23757"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_LogCabin_1v12-r.tml"
+hash = "cb803768c01559a165007705ec3591b9474b58f210151a2437a3d62564f200d1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_LogCabin_UndeadRanger_CB_1v12-p.tml"
+hash = "df7cd61d477322e55f1d5b83cd7e40e6261d20fbab1a368ccdaa1bdf6eabbb8e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MageTower01_CB_1v12.tml"
+hash = "3e69e002761952862fe35ecd9af577710e31c0864af8e019a6acab11dd2b2c2d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MegaCreeper_1v12.tml"
+hash = "9676dfee8b108e90001db9580c14969d16a1286b3823bdea9407adc0e8e1a8d6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MelonPatch_1v12.tml"
+hash = "cea1de46187e208df5834764e0b00589ed5f46ceb438f9acfeff400b04f7623b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MenhirAltar_1v12.tml"
+hash = "7955aa0ddd21f7aeb66f8dbcffa6c563d7dc2e6727e90e37f67a74931c5c2415"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MenhirFountain_1v12.tml"
+hash = "5c08533d5f02dbcd961631a890f9867c28c7193bf770ed49860dade22be0bc1d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MerchantTent_CB_1v12.tml"
+hash = "97ea826608838ebedcaeca6c30238d570cdbb4026168cbec41adce96a9335e58"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MineTowerSeed_CB_1v12.tml"
+hash = "62ce4e420d79f1efc516eacf4ca1d4810a1639b7472ca527bd67a7ec6551612f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MineshaftSpiders_1v12.tml"
+hash = "b1a65e8e926a7fbe75a9b9c34d036b598b79592d8bffb39d6d79c78ab86ca797"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MiniFountainDungeon_1v12.tml"
+hash = "3e1688d351d22679789ae69bcc2c418401f80f108d77c72fb94f5319eece7438"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MossyBoulder_1v12.tml"
+hash = "f068e4d198301193ecc0a2324f2bf92b3952489c7a493ac9f0ef51447e281f2b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_MushroomGarden_1v12.tml"
+hash = "6de7bdf3d7050cc5f4c3f127ba4bcc0bc8459edf9ac79aff11ab43d647540de5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NecromancerHut_CB_1v12.tml"
+hash = "3e232ab86a985388abe86afc6bb2c3e8f8add15d801e93b175138c11b4467549"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NetherCeilingTower_1v12.tml"
+hash = "a0c89f63041c0d0480407905812dda0fd590e04715871c871dc6415d50954fe9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NetherDungeonSeeder_CB_1v12.tml"
+hash = "600a3485f3e3eaaba6b553e1aba5fcd12bfaeff6637de80c3116909452a269de"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NetherFeatureSeeder_CB_1v12.tml"
+hash = "848c8ad433685ed41e01b1504f386c0614a1cec7befd5ec9c471f37373c76afa"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NightmareDungeon_CB_1v12.tml"
+hash = "704cf1337e403791efca8e7a7a8bd8a7a9786dd8d254aa4d4de954623d967fe8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NinjaHouse_1v12.tml"
+hash = "bd8bd2d42295336e695ce3be6ae388a5a85c3739ea0731b612582149f069dd24"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NomadPavilion_1v12-r.tml"
+hash = "ae8666484f0384353c64992bac00efe978a4bafa1a128a40031d628a6a76cd7c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_NomadPavilion_CB_1v12-p.tml"
+hash = "ff30c0cfcad9562913ff79cf5d21c0a3cc49536e2fee2ba980c47ef3d196baca"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Obelisk_Sandstone_1v12-p.tml"
+hash = "bcdf41c73f38e05142d51deb78a65babee5b56c66edda6db1b8426feebd53600"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Obelisk_Sandstone_1v12-r.tml"
+hash = "d97b7c8f61f709185e6534cf980998a2d17ff813248b82d46ec02035615591bd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ObsidianDungeonRuinSeed_CB_1v12.tml"
+hash = "81565bb6a2e708d82a37fc4e60d8d192ab356882d0149dc2c610e91b22a05a14"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ObsidianGeode_1v12.tml"
+hash = "6e14f5b2ce61c9b3942bd90fc7f293a6ecbb42f94cd69044fd9dce2f459af1b4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Ore_Emerald_1v12.tml"
+hash = "26fb7741d3d931cfa71aa1655ee92ce0eadb7dcf5b8c0552f1c62f0abe07e557"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_PumpkinPatch_1v12.tml"
+hash = "8276dac0d0d629bfe13cf91b9f76a4de50a8c2ee930e4a1d635c1d8e59039d46"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_QuartzPool_1v12.tml"
+hash = "3c6defc4092ff5fbb11319d8dae9205f69e9b51ccf4f7630b2d90e7911e0d193"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_QuartzPortalTemple_Seed_CB_1v12.tml"
+hash = "30188b9af2b5d5cbcc864fe69383a0569250e73cc21bfb0cf47d3c58a8f17d00"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_RaisedRailroadRuin_1v12.tml"
+hash = "b10d27e5f07ac48fedf61f42d076f22568658f2d9dba9ae3f51d1d12b3cbd2bc"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_RuinedGuardHouse_1v12.tml"
+hash = "b2da95522e28a501feb6e426044f416b308c51d218b9bdeba90928ae36e0ddc2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Ruined_Hall_1v12.tml"
+hash = "25f8807bf613e9a3f3499c59f69ffec41c98a129fc37b261e4bb89bea40af5f0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SandCastle_Small_1v12.tml"
+hash = "29e8c3b107524c733999842d0cd33621b1f4697dfa569b2ea9b31d72c6e7552e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SandCastle_Tiny_1v12.tml"
+hash = "df9816c96be6bdc91f12986a7830d7d34054eb497ff87fff6d8c6e526fbc049d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SandstoneDungeonSeeder_CB_1v12.tml"
+hash = "2e0e4e671129356f03abcfbd54d6e93e222cd5e9c3aa7d84ea46d24434920f6c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SandstoneThroneStatue_1v12.tml"
+hash = "00a71b03d48d8884991b5934fa2c51de984ed050140fd52a089c35f2cf00a0fe"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SandstoneTombTrap_1v12.tml"
+hash = "a1da561c091356f6e62573a53a1b7b515ebfd448a8dbee5ffae83f8c5fe111f8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SavannaHut_1v12-p.tml"
+hash = "ea0e8ec5f0f6fa0f97a5d94153378b093e72aa246f26f2364ab9f95113ac67a3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SavannaHut_1v12-r.tml"
+hash = "c005f8c292433200a0213df3fbaf535b932c0b6fdd858226c9f92b79b2393ab2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SavannaStatue_1v12.tml"
+hash = "cb449598bd279467e8b6892aba666a0b7a4b3a9acd02d2d710f980cec0d5020c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SheepBarn_1v12-r.tml"
+hash = "a9c08d6bfc49caab89936364c5bf266121eee8ef6f07e1c0b6dfad60b399654e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SheepBarn_CB_1v12-p.tml"
+hash = "052f3ba4a7a835c68ddb7ef6113de02707e6d22751fa043888538d9c5071eed2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ShepherdShack_CB_1v12.tml"
+hash = "f21d414dcce1e5787dc7fb7751a1af22be4e4ccf9c38a47cb5a6dfa32aaabaf9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Shipwreck_Small_1v12.tml"
+hash = "04d348e6c40b8810f282b36f59be815412bef98a5e503a05e09f341dfa314576"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ShopVillageWell_Seed_CB_1v12.tml"
+hash = "b22537d4f9a7b94efb89970e2e8561a5f14e408205af4927c6763c74594b1fd5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ShrineEvil_CB_1v12.tml"
+hash = "32dda75124087318d0fa8b8d73203305d47863d1660f1fb789433eb4acbb07a4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Shrine_Anubis_1v12.tml"
+hash = "5051efe30e546739e4e6552749ca64a0cac67ce9e05034360262cee7b82e69b0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Shrine_Anubis_1v12_alt.tml"
+hash = "969cbd153a8a497aa81f50113fbf4eb809ef20ce67ff8c545c647984d4e55db8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Shrine_StainedGlass_1v12-p.tml"
+hash = "eb7e677f90182983c8f0ca86e7a0231259f5be7e9d71ab72092f9cb9d38adfb8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Shrine_StainedGlass_1v12-r.tml"
+hash = "4e98f00c44e005e7d7f35b2b277bd908cec797612421881ccf4ec91cf58e99bf"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SkullIsland_Stone_1v12.tml"
+hash = "9672aaa2d17ac5048ead945a76b3b53b0f681a38521c497ea9d55565c109ba87"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SkullVineChamber_1v12.tml"
+hash = "c3e2499ed716b4f49abbc4d20c4731302d06397cb71b8570d7569248f8281685"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SkyIsletShrine_Seeder_CB_1v12.tml"
+hash = "930e8efef1ea0e77d02c88099592790231909bf492c65253cbb65c200a29015f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SkyQuartzShrine1_1v12.tml"
+hash = "9b69d2abdd81f342e4fb87ceca821b3c388e1b4ec82e78abd5ae7e95bfffb95c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SkyQuartzShrine2_1v12.tml"
+hash = "9b6cdf5209315b51ef635a25cd4dae4bd6de2e44213b7f8cdcb97929159b75a2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SkyTower_DarkCrystal_CB_1v12.tml"
+hash = "49c9e9001e5827e51a6c586f6d769c049216e55a3777d2385035e192bbe2f1f2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SmallQuartzShrine_1v12.tml"
+hash = "30ff63d8daffa27ff778a006b8634c1ceeeb8dd391d2bdf4c3db3ef061032f3f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SnowKeep_CB_1v12.tml"
+hash = "17295d804acec49b4a904ae35aceb3618325a6d543b72a3418ec588fece90a4e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SnowTowerSeed_CB_1v12.tml"
+hash = "59bbd4c252512aa8415fd768fe3cce064fb75ff749306bd01d95017a3861a437"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Sphere_Cave_31_1v12.tml"
+hash = "65fbd786d5b7969e7fa7fbfa0bdd6ea1236966b32fde5b8933726b67af34d54f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Sphere_Crater_31_1v12.tml"
+hash = "2fbd748d932abc58d0a50288fae72317bfa14e49522cc29365de34f986ed9acc"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Sphere_Glass_31_1v12.tml"
+hash = "712e8e74db6e2f8ed4641eb3dba779fe7af448afdf3dcfc4cca3c8c5b9b9de5b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Sphere_Nether_Lava_CB_1v12.tml"
+hash = "4229f03d35c9ff0c826b1be45eb1d75990045ed8b62d875222451605cc26e1bd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Sphere_WaterCave_31_1v12.tml"
+hash = "61cf56c779263e71f1443d73728fa83773d1aeb412246ef5c86b71ae08485095"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Sphinx_Great_CB_1v12.tml"
+hash = "c36d31b70813aae4b0fca3e4a6d7e8ac14fa537f26f156cdeee819cd1166ed7e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SpiritCage_CB_1v12.tml"
+hash = "e8b48fa79cde6cd18e2c43b7d17f87b96749e1ae1ef3674f668f6441f8fce961"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_SpiritCage_peaceful_CB_1v12.tml"
+hash = "e8d478b0e7ee9cc68ac48309b6c21e1453ed02646bfd4d3a66a8f912e898ee8a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_StainedGlassChamber_1v12.tml"
+hash = "273a41651385393a8698bccc86a0c2cf9c9aee239fb99fe78ab891e9f82bf4e8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_StairwayToHeck_1v12.tml"
+hash = "182a43bb2fe2ea98fbcb90c052af830da021ae64850ee5492f063bdf2a233df4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Statue_Quartz_1v12.tml"
+hash = "b28e741109ef3f53abf07f6e0b04f6e2c3608e1ecb156e1c6d2f295b86d8cf8f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_StoneGazebo_1v12.tml"
+hash = "067ba66a6d2da6f60e9d7459ae945b1de0211243e79c955184b94fe8cade435e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_TentRuin_1v12.tml"
+hash = "0082d596e54b56a3cc51e0f26fa9612e3ab1a96f10ab4af098dffc90db91e521"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_TestMiniDungeon_1v12.tml"
+hash = "2a7635b628a8da8efeed5bae68ef146dbf6a3c4711dfd0c0bc8ca80a1ffe2536"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_TitanRibcage_1v12.tml"
+hash = "713e2a0a735970bc7f9290b30be2e128d72114eb471abbf37b8daa148f903840"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_TowerDungeon_CB_1v12.tml"
+hash = "4cb3b40635f65a8f54d09fddeeea4f7ff319a7a7cc81674e1a057fb4aaac7f76"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Tower_Obsidian_CB_1v12.tml"
+hash = "e9b73d6db79a251ca023421cca5bcc3e099d4a26a006c18cc5d9c4968f2345ef"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Townhouse_1v12-p.tml"
+hash = "d31332a7ffff42bf6df285f80055bf8b919d7a22db44f430ab5c346e1eb866ef"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Townhouse_1v12-r.tml"
+hash = "8f70b487d8f27a9069c1fe0b8b70ea9124b41b4b7ee8ffb5e12e8d7cac7d4153"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_TravelersInn_1v12-r.tml"
+hash = "23eed49f35e50d121542cd4634a21e8d79535d69ac9839d6cf75c0839e5ed7ad"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_TravelersInn_CB_1v12.tml"
+hash = "34e1b14678dd656686764b502ae4f83f62437116f98c0c078a52919fff9bfa6a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Tree_Chandelier_1v12.tml"
+hash = "75ce19972e9663406c3683316a2d1965de3de05072563328442d755579c3abf4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Tree_Chandelier_Sky_1v12.tml"
+hash = "2b521d1175049bb12b6970010910dc4a55a1732c07fba5592e08e5c82d5228f9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Tree_GiantBirch_1v12.tml"
+hash = "fe4e90a45eafc72c458ebfa9af013a5baa5da6f41b166404f6115027dd155726"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Tree_TallOak.tml"
+hash = "e5d4f2f9d497e8177a9dd265636f2b4f0a07a08f8a036d82ad4c1100af2d7931"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_TrojanHorse_1v12.tml"
+hash = "6fae995d3948036560f306c9aadd203b0271a92c625a432ae2872ceaf9a6996a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_UndergroundFountainShrine_1v12.tml"
+hash = "5a8768e93c34d5be80b4786f132c3562926625f083b4bcada0a59bb947ab960a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_VaultDungeon3x3_CB_1v12.tml"
+hash = "29ea9029199959178c998e950cc542781f06829853814b0d9a919b31aa24c27f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Vault_Statues_1v12.tml"
+hash = "fb51126fccbd6fc8ffeddbbc459cd72e578f4812bd5d01f26050662b2e4938ce"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_VillageChurchFancy_1v12.tml"
+hash = "9dd84093e6e789191049de62b5fb71adc990889040a4b19f2f997d9d0723e99b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_VillageMiniPlains_CB_1v12.tml"
+hash = "27f8a33415bd1640614caa47b792f30f71a2a6c1c3bc0ef09205abd1b73b7433"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Village_Tree_peaceful_CB_1v12.tml"
+hash = "22339df58c311f8d1baa093cd3839715a7ab6931aafb553acfb8bae29a66cd0e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WagonBandit_CB_1v12.tml"
+hash = "dfe09c158b122e1f45d2300a3b0da4060c0ff01727c82fc2079455522db57995"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WagonCovered_1v12.tml"
+hash = "52c57a35b66093d27d5ccad29e597e9770ab2f6a9b7c655e9473a5945acb04a8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Wagon_Caravan_1v12-p.tml"
+hash = "3037fefdeedfdfddf63c2cb0fcbb96f9902542432a2ddcae72f81e643c4877bc"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Wagon_Caravan_1v12-r.tml"
+hash = "54602d5f7893d29dccecaed23932f2b9f17f95b2b3f3558530619fbbf568f0ef"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Wagon_Caravan_Desert_CB_1v12-r.tml"
+hash = "500ab9fb516442a8e741c7c382e2509c2f494eb8c3c09c72b47214bf56c3762f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Wagon_PlainsCaravan_1v12-p.tml"
+hash = "6976471b3956cfdc2b97ca7c79daaee2a8ee239a031cdfb87446eec74d0fbc6c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Wagon_PlainsCaravan_1v12-r.tml"
+hash = "d3dbbc083b6ae18fd6f77fc0a7e0ed343d49231eb0ca2385d7e352b69363d724"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WalledGarden_Quartz_1v12.tml"
+hash = "0efa5e12977e235d83a315a9a16a88664b19e7af304cd67bd55dbaf3338dd7ad"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WarTower1Base_Seed_CB_1v12.tml"
+hash = "35cba3a97463a5072384614d86fd63041c4c37e944018d64b8c14673f9d2be2c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WarningSign_1v12.tml"
+hash = "bf6378a8d44d5b9cc1107436e708b8ba2d2630049afd2c1a579368a5d74584e5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Watchtower_1v12-r.tml"
+hash = "78dcf5b784cc0b4b75251b3836d1814f8aa9d7685291fa26f6e366f87c0cebe7"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Watchtower_1v12.tml"
+hash = "7bf53a35dc5499896580cfd599707c72c7e4429ca8f7ef6ce783842bdbaccdb4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Watchtower_Acacia_1v12-r.tml"
+hash = "275d7f0c3fc6f25689de21fe4287705c8807449a88c7f4c26cd7e663d1339f63"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Watchtower_Acacia_1v12.tml"
+hash = "0658337d48f4d55ffe534f957870b7e3e49dc9687eb0dbb06fb303b07d96968d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Watchtower_Birch_1v12-r.tml"
+hash = "2654732c69b5b832dc8927a30f4b32e3ebe52407c7bcc62253b9b908a2445de0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Watchtower_Birch_1v12.tml"
+hash = "f6a10bb4c193f32c7d87c927d225857700c5ac9fef7f047fa72174c85b6818b7"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WellOfSouls_CB_1v12.tml"
+hash = "5e3492fa5159a4ffa4304e8ac58f9da5ca293447d3772a9858b419a657dfd2cd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Well_Savanna_1v12.tml"
+hash = "4da746cef9ae4270f51ec726de33a42fcbed2042cc29ac7a0cd0186bd557f27b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Well_Savanna_Treasure_1v12.tml"
+hash = "03a022ee400d4bb28f3611f24b0e5936b4298ffc0707fcd3ed15157108c06800"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Well_Small_1v12.tml"
+hash = "270144a46c613824b65d2a79c2c49d2722e6017e9764acd6b47a2c6db3037278"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_Well_Small_Treasure_1v12.tml"
+hash = "4273c7eefadeeeacb70807cf74c8ee492914ebfce86d26f7cb8f741223b315c8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WillOWisp_CB_1v12.tml"
+hash = "42eddde635b0a79418e1b667a7995fe770e05a10dd7decce828f42be19cb5c78"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WitchHut_1v12-r.tml"
+hash = "e5c004fad803047d9117e761fb023c00c25aab4f207a385cf46143d22c853771"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WitchHut_CB_1v12.tml"
+hash = "5cec4f34b780e3f42b0f1adb9ce31026d76fd909ea5fb971bfec255990730837"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WizardTower1_1v12.tml"
+hash = "e9b9482c1180b887ba499e11deb00998502a59c59349df9962d3e61909c26e62"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WizardTower1b_CB_1v12.tml"
+hash = "d607d647d87c25b68d152613e44d8ef0434ff45c987a92995513c0d248bb0963"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WizardTower2_CB_1v12.tml"
+hash = "fd88c0c53748d0eaff0dd128280650327f5471a999ef2bb2513179bebc0009f1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WizardTower3_CB_1v12.tml"
+hash = "a65bd81aa9c2d209c406fc9bc472110ad0a816bfead777ab394a38f2ccbc96a5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WizardTower4_CB_1v12.tml"
+hash = "5292db0c47d595efe61144afa7754d96b0a2de6d8371c5fe724b6e77aa3517ea"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_WoodlandCottage_1v12.tml"
+hash = "d87bd48e3df83fac8e643535d4fe8abc2c44c5ceaf2aedb213c88b999c166100"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_XMarksTheSpot_1v12.tml"
+hash = "02de45cad8dc5d0c8710dc98ff2a23c9198b5988ca0337d8a8619c490feb336a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/JG_ZigguratIsland_CB_1v12.tml"
+hash = "f520a6ed3f679c3a281700e70d74eed8dd3112026ad58ffef58f1217da5d8479"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_BanditManor_CB_1v12.tml"
+hash = "07e7ce05dc353b76a40b224675c829ac5cdc8e43a11c0a41099b5f46bce11f5a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_CastleCottage_01_1v12.tml"
+hash = "94cf005a37fed8b015def8ad022fd31febb026356b3b8fd43b978d8745c63218"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Castle_1v12.tml"
+hash = "42c49c208b29cd74cf7d4c72453efef1620b6ceb975447f0465e679c21c4aaee"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_FernCottage_CB_1v12.tml"
+hash = "8ddc20b0b10a5a3b0101a98460d8ad3736b38daec065110561c4b2552338cf59"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Fountain01_1v12.tml"
+hash = "603bb1350ddfa5102920da5865d5b3203323de413f6e9dba7ba967cbc4e3380f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Fountain02_1v12.tml"
+hash = "5ca20c48c5a9494622a8be61710a91656f9800955c7bcc3b8a38641dc8eb2dd6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Fountain03_1v12.tml"
+hash = "2ddac31a28c1d1c59881861d635e950f3743270f57263edaae9c8cc880878e0f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Garden_1v12.tml"
+hash = "31518969d2dbc6f40841489c9ee5cb41b4080b54ee2724218fc39163cb947793"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Gazebo_1v12.tml"
+hash = "88ddd353c025bf9dbbd6e94a1a6a10a098b72c758e8382d96ad6596c4b92f744"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_LightTower_CB_1v12.tml"
+hash = "b00d29a0a15e25ae56e8cca3a1c4968597fb917010f1ef24971e14be92184dec"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Lighthouse_CB_1v12.tml"
+hash = "5792c22eb0d5d1a56626eedfc3902cea2a832a123ea3d3c131f35365ab943f08"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_SmallTower01_1v12.tml"
+hash = "fad9eb74d92f130a6f9bc7de34183cb7e856a6091f114d7756a1e4d2f7b504a9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Tower_01_1v12.tml"
+hash = "09e615b654681baca890a117f847576942fffec872270c3242f1e59644811a90"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Tower_02_1v12.tml"
+hash = "41c6da2bb5a37c0438118bdc70adab56f7cb8d5e0b579bffe928e9f684597844"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Tower_03_1v12.tml"
+hash = "7bf6d436dcff30314a969d449ac6406011e965be46b4dc53fb33c4d07fb99bdd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Tower_04_1v12.tml"
+hash = "d78a310e202db24702edc4295325dd776a3325bd887504b0910f6cca6f4f1b25"
+
+[[files]]
+file = "config/ruins_config/templateparser2/K10_Town_Seed_CB_1v12.tml"
+hash = "4aea4b9dd7b2718cf9d87a5ce7d01d775222d3360b2fa82f7ce0dc33be061b95"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Bakery.tml"
+hash = "7d92f60cd91b5ebbb6083b4d05681a36d5b7f56a33e2448e77821fdfb9186512"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_BarnRoofCottage.tml"
+hash = "d2f0447bed4c7443e8d36a6f851174bd1cc867c11982c6f932653eacb9c6b28c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Barn_Cows.tml"
+hash = "42adfe043f664588b2e9e5389706cc0e6a8765a0062a40ee68534e9d012f93b1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Chapel.tml"
+hash = "63e51b26a063b62390eaf7badc4f17e31be8de13efe5d500abb451b0121fb5e3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_CobbleMansion.tml"
+hash = "62ab86e55e98520821d45e9c52e71ea11888f20bd36b0531b113473651d0eedd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Cottage_Large_01.tml"
+hash = "b0934243ee6cf8253f7d78054d3ca2a91aba440bcb3d73adafac76f73b2a4a9a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Cottage_Large_02.tml"
+hash = "22fba813596703aa1013c44e49de4819f407ec35e07b0c58de8a53b37a31747b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Cottage_Large_03.tml"
+hash = "63dbbf5cd1f48a7fff3e2939a9bd59ada223359e0b6b7fc1f81c569550d65e31"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Cottage_Med_01.tml"
+hash = "c76ac4a59a11c4f6e9d854b0729ed60c03562584a0576961e8204364672ba432"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Cottage_Small_01.tml"
+hash = "a110f919589fd7462ec198cc71629bff5346485cf75a6c4961dea43e5fef1bbd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Cottage_Small_02.tml"
+hash = "31b8480ba3c71c2f649f7f98d157e831e1255b7560c364fb08b49513fbe099ce"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_FernCottage.tml"
+hash = "f79cb610ba6966f0a67629cf1d795be7b263ca04c4e3cf9a8a2135b0051a84ef"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Gatehouse.tml"
+hash = "0ac5e019baed59f8c91867cb42ad0a0e0bd87f7397e76e2eed5b50dca6ca3c74"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_GiantFountain.tml"
+hash = "66ffe4255d959f741d922246be9ae051b557ab98cb14e7380e786b8aaeec4890"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_GuardHouse.tml"
+hash = "4c731667196da36fe14c5d45b55f20628f7b0c5cd2cc8b2da2a7cb279db29101"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Hall.tml"
+hash = "284733e5b0801d0b2105783b5114707c0dc4a3c896ba1da2e88edfd7fa4dd1f1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Inn.tml"
+hash = "9a0ed1c5a49839e2eb7652183cc11c16becfa8aecd8797267700e085c37ccea0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_SaplingCottage.tml"
+hash = "101fe52a35df880803c06a369c48f5092ba621672abf087f292f32a44ed6f881"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Stable_Horses.tml"
+hash = "b1360a8e59f3a07ce47091df9603c69702e5552be87778dc2ca43295ce782eb9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Store_1.tml"
+hash = "97a6b31ef93c4e2a0c3aa986a3478ea089e009440eeb58d1669f12c31b52cf77"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Store_2.tml"
+hash = "87ef6127aaeeee7075254f53ac46937c5ab8ed8a50018e30e5462ab15ca2e7d3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Store_3.tml"
+hash = "d1df1b6a24d5d589c95a549554217920c99b3767a3632dd511bfd7d6da33fd97"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Tower_Corner.tml"
+hash = "7ece267f8a2ec3274788b32314e14f83ceee133212b24805eb3c0d1ce008424e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/KTP_Town_Wall.tml"
+hash = "d52e5a7b07fd9efc5ec173b3e93800e8be9609182da29ee75fd0417be235dd34"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TPSky_Islet.tml"
+hash = "99c88d5ebbcde7272e8aae4c75d86a230b6497387363c1a650b74b605c224f62"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TPSky_QuartzColumn.tml"
+hash = "4178a1ef2c8b67aa8095eaeab3d421e3345cded79693191137323667ca654d10"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TPSky_QuartzPortalTemple.tml"
+hash = "17b4379cbbfdec464a19928d45562c9a93ff32a76e08284f94d17d12b730b802"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TPSky_Shard.tml"
+hash = "6f623e4bc8e9a5cf436787b1141d295a5562b06d932afc03e357b496777a3b52"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_BRD_Hub.tml"
+hash = "918086ec79568a30f8d2f5c3a7281b2b4c7c8a0c8464241b0a44c1070b1710ae"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_BRD_Tower.tml"
+hash = "748b84f5409d111bdada09a4daf80a56714833b18733d6b35412c202f4171f93"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_BRD_Tunnel.tml"
+hash = "7a66d6e39cb1e4d6c162dc42927177c65d055ce16938d67f69ce6cae92518ba6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_Anklebiter.tml"
+hash = "8cfea59d1f0f455984dc173666d887c0c84f2d19dc40641a0f1b3c53644b6277"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_BarrowGuardian.tml"
+hash = "09dcc58fc518ab1e698799d86a90925ce144fd35f27da84df098cbcff15908e8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_BoomCow.tml"
+hash = "887ef8d297155a05d4f59db9c09970dfa5e460586131ce7eee960c0e5dbc9034"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_ChestGuardian.tml"
+hash = "a6df095aefec18895ea77d4021e11bfa178795536d9fd4182125a6cc7c919965"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_CreeperSpawner.tml"
+hash = "713b42a45961351d78a3648061c941ee84fd40360ed9806101f6a96edf022464"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_Heatsqueaker.tml"
+hash = "4211cec3c19a7207b430ed81befce66021d8d8a461c48239f15443f81572a871"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_LavaBlock.tml"
+hash = "a19f294c9c1ac0c16e4594c66385e769ff94f231ef45ee2f04af4822fbcc6557"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_Phantom.tml"
+hash = "66c5b98425fd092f7a7abc5251231bfe3cfa7883e62fec23c00589d5355de442"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_SnowBoom.tml"
+hash = "9cf543fc878db11efaa3c501c1e45c079ee3ed2748bcb2558516a010586e163c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CBTrap_WaterBlock.tml"
+hash = "b9b2d4ccbe6788f29696103a1ff2a4acc810edf6843d0b4242257fa47951125b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CastleWallRuin.tml"
+hash = "f25a8b0e6a892d7943d7866070dd64426d9227073c7f40d0e7ba73403b79ee8e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CaveGardenQtr.tml"
+hash = "c3957d4834706b9369980a2ffd756d55f4f23052f5f38858ee4b6f89964e2c15"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Cave_LavaHollow.tml"
+hash = "c2491f0e838cbba6a7a49a82ffd2ec0934610d16981577c1e4f54b7a36ee6850"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Cave_LavaHollow_Adventure.tml"
+hash = "3e319a41c25cb50437ce5bd93d22e25ea0455ac70bef6798be578b53f7682293"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Cave_WaterHollow.tml"
+hash = "99c1bafe1a5ac8bbe8351282a46976f5c514c589b2e3b55948a4eaa37fe41027"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Cave_WaterHollow_Adventure.tml"
+hash = "0235411754f746741d11a9a2f9e8d1725836624c90db23c73f925c0c0a8f29a0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CollapsedTunnel.tml"
+hash = "38c25f159616885be15a4b4e5f34b861ed5c11d49cb73a75322c867afd07b371"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CollapsedTunnel_Spiders.tml"
+hash = "81baf49db866cd965cba6f2638b6777c6a4c00526dfce1ea393cd608ed174c5f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CrystalCavern.tml"
+hash = "d3248619092990885fc3ccfc1817e4817dbff097501a3bb7e48750871f91c0ba"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CrystalCavern_Adventure.tml"
+hash = "33ff226c5e4c2a2691f3e966ad2aeee448b95ab4a9554c09c686975171be40d0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillageChurch.tml"
+hash = "c99f868c9ccf3bbde9dcbcd6deca66cd3052874882ea72582373717282491060"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillageCobbleHut.tml"
+hash = "f9a2672a81a30cdf05c593049738c8f73987795e6e7dfd578c0290a2ae558667"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillageForge.tml"
+hash = "614c92a2e3b4668fc340ce0e2f451cf82efaf56d4e3cc0b82641dec992562e70"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillageLargeHouse.tml"
+hash = "3d25916e978e238d0b093253d05bbe0c63d0b55efad4819d1a0fb77bf788e033"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillageLibrary.tml"
+hash = "f9bad8c331dd540171ee5ad5ec62cffa05e1a8289342d1787451431ad8486224"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillagePigPen.tml"
+hash = "cd756f3fed08c595688740af8c698dbf12116bad1c19548ef5e6c3cf487d5492"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillagePlot.tml"
+hash = "7d8af7cadf1f0ae69484641a81ac7c94c7ddb73860af440c6306ae76573966f9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillageWatchmanHut.tml"
+hash = "233ae691143d20b07ed05efd8504d41dbb8e61ce7cfba593e7815c7deb172bd4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_CursedVillageWoodenHut.tml"
+hash = "3767f2d66970a4ed190a98b064565d57903779d7d06608be3b36533fdcfc010f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_DarkCrystal_Base.tml"
+hash = "5d0ba4648eb1620ad721782653b10c82fdc39fbd70e18d4e0e0f8c25288fa50a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_DarkCrystal_LavaSphere.tml"
+hash = "1ed3205597a3a81a6960ed6a20691eeeb9bb2341b9759cc72391847e817ad511"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_DarkCrystal_Pinnacle.tml"
+hash = "5f95aad28a366e6de44166da5edea0668b3de0c0bfd6ad7774aa8ee49a6ced49"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_BookVault.tml"
+hash = "10c08c97c00c61efeb272dd4b6157e67c74513946a1dad4f75a3af7d277a789a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_ChestVault.tml"
+hash = "b56700f6c7b8d9a6e4bc520b36d8a7f857e23dabf975c3000122ae3103ce4852"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_Fountain.tml"
+hash = "dddfbc6b8032b098f66d0099fba4614f9b7216507e3b7bd3f0b63eb8d2e19a9b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_Garden.tml"
+hash = "bdf476b56c636184b024658b020bb3f59e3946120cc10335d8be6e687c5282b2"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_LavaVault.tml"
+hash = "6e19cd28287222e0dc4b9928f2513c3b109d21ea4e455c53d3651e578c23d70a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_MonsterVault.tml"
+hash = "20c8f3edb2bce696dcaeebb94bada23c1b551c5770ef6fa0670bd0121e5de316"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_Prisoner.tml"
+hash = "0512b3245e5c9e08145766f0f4b7db434b386f2d5b1c67eddaabbe5aaea0c08e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_SkullStatue.tml"
+hash = "427332c2c6f9059d5bd1fe4653d14cea1d1b4eb8bcac88444bf1cea7fb0e0707"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_SkullVault.tml"
+hash = "4c7a40d0d894cc136e4a8c727fb3b16f3de5b086b53eec051d1bf750574447a1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Decor_WaterVault.tml"
+hash = "90b3857c32981653c83a69b9a978dede406f1b70c1aabcfd34330136c2867015"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Dungeon_Mineshaft.tml"
+hash = "106acfcbaaaf37a12ca4532ddf3366c11402e2227d19ff108fc2b404f109f9a0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_ForestPool.tml"
+hash = "53928777c5cc7ecd84e7e1f504dcc4b42d09cca29f6c0486f55a91b33e80e732"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_FountainDungeon_Adventure.tml"
+hash = "7f6e38509ddd28e80fa601bf114e073412c372cf31c87bd7e7320bc0a7f7a197"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_GargoyleStone.tml"
+hash = "a4ac350a015aaf77b1a6628fe37a8495f2c77e7fcebe7b45e099d36df2398a64"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_GenDungeon_4Way.tml"
+hash = "7b6e5e317d544b275648bca6cff5ee66a85e3aa9af271435173663e99693d7f4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_GenFeature_Garden.tml"
+hash = "09e2e61e44d4b578288d24bec39c33cf99f2a8e1ce48981fb6917341191e5220"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_GenFeature_LavaShrine.tml"
+hash = "9899455f4a6c7c4882477c25f7f99e48960b8beb32ff2ccd49d2dc701fb69c5b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_GenFeature_WaterShrine.tml"
+hash = "d7e06b80fa01ea2d3d67cdf0ba7ef11b5d086a14560db49be72966982637b298"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Grave1.tml"
+hash = "8a05db8c2401175273bfbd71260afee8c6a7062c687999da7a310160b1c7e057"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_GraveyardGate.tml"
+hash = "f44e51d7bb15d56b40dfc62b078ad2a488d5ecd5ced4ea33727b14663908356b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_GraveyardWall.tml"
+hash = "4d56044a5dd9db0ff66cc5cc925e09d7317a4a90b8fdb4ddbdb35a65d21a1839"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Graveyard_UndertakerCottage.tml"
+hash = "60ea8b9e264a270bbb38362ccfbad3abb7cc3887599134b59a93005fcd9c5b68"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Jungle_TempleWell.tml"
+hash = "9f0771f607ab5570f651725852199497361f0149462f261bc2fdbc29052c57a4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Jungle_TreeStand.tml"
+hash = "ff84c9d01a60010180bdf5b2fc25a1bc9f2c7d01ec796e86483acfa6966a23eb"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Jungle_Ziggurat.tml"
+hash = "299b1bcd48f07a89cbed47004ef0e9636f6bc717bee5088c22da0914084518ef"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_KitchenWitchTrap.tml"
+hash = "708e42719d7824ca4050bcd8e1df7c575a4942a679cd29ae38cde6acdcf20508"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_ChestVault.tml"
+hash = "224c339e7e68f68b040b1abc3832c3291534ddc6a0b54b6e42dc47aefdee5559"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_Entry.tml"
+hash = "55760457207785eedf3a11eb8688e6fca7d0512a3e2e614281d1434019153ef0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_Fountain.tml"
+hash = "b997c91d6668696a99a58bc9d0a94cd69f4a2e14bf66b11218b6c36eceaa45d9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_Hall.tml"
+hash = "de49d274b20d94a41968f4069644eaae8b06e2707b00eea4360ec4c0bee05973"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_Hall2.tml"
+hash = "53ef46025be4bc00f9a62f8ad902492814f93a16d8a1f94b9fb7bd851cfc6645"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_Hall3.tml"
+hash = "192e7c19b5a739a022d94123240ce8298782eb3e9ed00e83de450f3da9afdaec"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_LavaVault.tml"
+hash = "785efd7bc0fc8911c098a0cd59169c153c8bfbf40ecdf8610303ade046ebc207"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_MonsterVault.tml"
+hash = "40463fffdb68eb2d37ed1e3953fbac5d4e59e78ea3e3aacec507807e56659ecb"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_Room.tml"
+hash = "1b49ba025eb611b2a6ab15d9f14f54d5a1e7f5f532bfaa4d5c40fd8cf9740038"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_RoomE.tml"
+hash = "a2edf985e1cc8151075ff1b007a745d1be35e270b21861a88c7b267c1c49bdd4"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_RoomN.tml"
+hash = "a389bfa46c28ecec46873b293b7736b26a6d7a039f435766387fa58cef5b167c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_RoomS.tml"
+hash = "6e40c41275f36438dc1681aa99e2da2c98c3d224bc1929abffe9c57cf09f64b6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_RoomW.tml"
+hash = "8e98a5e482e55151b97d1dbf9acebc11f37090399fecf26f350e4b35799a188d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Limbo_SkullVault.tml"
+hash = "bc12f2b3b06ded1473c929a156e5082dfdf90dc4196a7a2a586468f332a4dd2a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Decor_Chests.tml"
+hash = "37b4f86429b99bc5ad4d3534d04f6f6bef320c34a71443ee9256490329e69675"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Decor_Fountain.tml"
+hash = "79bcf26c35ac786390e4be5ebf414e8805ba4147544b12ec4c0c7e96c209047d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Decor_RedCap.tml"
+hash = "54e08c433ea6bd89a1f03c9a5db80d18e9c25b9409903078a2ef2ccf804ea684"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Roof.tml"
+hash = "8bec2825735a3bcfd5f0d45181b4affc4b2eed114ef252259a2d8f71f6d3414a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Tower1.tml"
+hash = "5076d14eff9de9a20136dbc1382d0a25e406a1ada58def64fbd9694f76723c23"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Tower2.tml"
+hash = "38f6b2552b7d1a64793a9df83c4c046458c3123d3681593052ed9555f621b020"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Window1.tml"
+hash = "0325378f2209405b6000cc0404506df94f5a9f242a09725b4eb14be8b8efd763"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MT_Window2.tml"
+hash = "b8c0f3150a8802a7b14039f06f4becaf52e2f54d10713d7c1778f19a26c2f7a7"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Mine_Tunnel.tml"
+hash = "6936a628e45a1bf8768d518c0e4b1ac32810f07a86a92191cd5be35ada628c57"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MineshaftSpiders.tml"
+hash = "6b118a392e2172a188e93cdee76d32d75b780c10488d00152d0772f9e676bb4d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_MushroomGarden.tml"
+hash = "6e32de6b1cd8d711a77f669df7b56f69567061dc2fb3f296e318ba0950ffd57c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Altar.tml"
+hash = "9ef69a25cf69249559e596620575d9bfb33c0300724322e7a53f61e6174bc8c0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Column.tml"
+hash = "36f1a63d4ee9d60244c0c58ee1ce743c315924b38f6501832af0b830a9afef4e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_CrazyVillage.tml"
+hash = "6d34959e8852dee2d00ff8e76e095db7b3eef8c27c879d65f77f49eb0f54c867"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Gargoyle.tml"
+hash = "750be9a910371b5c8814bb58a070d62d6002b40b92b4751333c6896de1b17afd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Gargoyle_Glass.tml"
+hash = "d343fb4ebf9dee9d5909d47b3e69e7e654c762f38a4ba9b9ae08497b3b5687b0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Hand_Doom.tml"
+hash = "61a10c4b11aa8aaa1ef0dbf3592ba3a045af759f6352633116b8500d0b90a492"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_NightmareDungeon.tml"
+hash = "1b650ffd716738afedca12b283094f81f873b59ff9a6baf390d981aba4f11b41"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_ObsidianBarrow.tml"
+hash = "d4f1e0cb86e18a346c7660f2c54399a393888aeb6a745d5ebb322f54ba216994"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_ShrineEvil.tml"
+hash = "731c3d8b99a54c18c4da311a3d7b2d526f2d673f5bf7c5b684cdefdea02926a1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Skull.tml"
+hash = "798081a44d6997d524338f015f985511c13d0b66926b3958a0df75bff164d98e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_SpiritCage.tml"
+hash = "68962f2c8c49f7df34431b6c972733db0d899f50cb185f0e76f578e13f96f6c9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Torch.tml"
+hash = "82d14bb092a84811dbcc4a01145c439f27d9ddc75eb532e246804d289a59fc0a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_Tower.tml"
+hash = "5c974d8c3f67ba1b22fa1bdd3f89e32751616b1a6dfc73b8bc01215c0d1fb580"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_TowerEeevil.tml"
+hash = "0ea919cd02b8888b1203d627159b5b560cf86f349dbc09d1918ccd9db77ba1a1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_WillOWisp.tml"
+hash = "276a79e40f2d88aec8acc9c1c3893b0ae89a33c10aad7970e9c06f58e280dbae"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Nether_WizardTower4.tml"
+hash = "334bcb05d2a21302b53cb8d5888da66dd93b095e4e888defeb25a7d66a790d03"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_OC_NS.tml"
+hash = "8d882b2ee47cf55383e74851917807ad76dd870e5f2806463cea106a5d7bc326"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_OC_NSE.tml"
+hash = "0ee8a623b87a6cd8f63faf08a0f80b134681de93831d162d89b3a5fa16b33ed3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_OC_NSEW.tml"
+hash = "153017bcfadb80fd2be78440d99c87a9017ae146335dbf9a6f13b8fb8d2451cf"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_OC_StairBase.tml"
+hash = "0dc610a37bfc29ba64b3f13ec159e9dedbe48e2ba550b829095f13d758c1532b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_OC_Stairwell.tml"
+hash = "721d08b9415b6f8246d0b61103355c0e72fc592605eb2063a7f230ec50689071"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_OC_Torture.tml"
+hash = "02dcc68f52dbb85e7e4e05d1ea886169dc4aa8ea913372aae929887dcb71f974"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_ObsidianGeode.tml"
+hash = "f524117bed4d779ac7d4aac6847d9146898dea9483b8dfd1d3693326dff44d5a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_Ankh.tml"
+hash = "55ee4612446199e874bddd13b9719b3835a140a8c2d7d7fa2a79a59ec390e890"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_Fountain.tml"
+hash = "6ea8a9a0488def394cf025e567e70ae57e9df2ce6ffbcd668abb9d07c6ca53e8"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_Lava.tml"
+hash = "915be9f7de5c66dfa0701ae3d527fc3d7a47f77c6359abcf999271909686aa63"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_LevelDown.tml"
+hash = "16a6cf252831027c48e72dc9cd86c60d37ea142470fd1f024cd5f2cc26bc0840"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_Lion.tml"
+hash = "0b77624300cc202ebdd1f58da808825027be90313902ea7f9e5149e2ac53e378"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_Pool.tml"
+hash = "933b31850748e9f72f66a42d2dc7be5623b925522d67931cb635714e5a6bd5ea"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_Sarcophagus.tml"
+hash = "5c1678402d5d64a38b5b29bc78366de73b17ecdefec37fa78253741e02c2a5e1"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandItem_Statue.tml"
+hash = "45ecda1bb16f7e15c4adab404cf27687646badf6636f7cfed09660b4940f2197"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandRoom_Chest.tml"
+hash = "0e94f51babd0e1b746956a49e7777ed7511498d8a2352468507718330c68b617"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandRoom_Fountain.tml"
+hash = "de87a874e5d0446654c62e4704741e402092a1f6f340a8f61b2f70b38a758f8c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandRoom_Ladder.tml"
+hash = "b39569619a2ad9ee364b88cf531bb3d5f6006da9e55ccbee606f35141099ae1c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandRoom_NS.tml"
+hash = "2ceb9158b20c450b80085fde76068c5669e8382a00068f179da8b6ad2b6c4878"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandRoom_NSTrap.tml"
+hash = "7da676a51eb75239a8f919ad9dd79deafe472e38dad7e713a0a61a8155562bad"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandRoom_Open.tml"
+hash = "418fecfef6669b891665b1189c00d7ac9f66a2e2c5c865e22c658a1b6fab72bc"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SandSeed.tml"
+hash = "3d7e8f5bb3f619af531ac0c7d23e2617ad93f736adc129748af656a420cbb92f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SkullVineChamber.tml"
+hash = "0595eb8f10e982498cf5c87b7de0a1890cdd94dfc5f553bb071f0f760d3252ca"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SkyIslet1.tml"
+hash = "a1b33cf7380fdd0422b7def8907fa38c2069c52fd89e9bf48d0db2acff8a7c3d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SkyIslet2.tml"
+hash = "933d7a13dedb3bd0ca13bc5e429c51150b4aa18a854709ef7294101e3bc08933"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SnowTowerBottom.tml"
+hash = "df6a9edbcf87cae12c18d6273310b5abd19c6d62470f3d0ac77b2f08b718f637"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SnowTowerSegment.tml"
+hash = "0a0e046cad3dc9cbaabb67f024736fb0dac16fcd986af46d8a41e33eb9246df5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_ChamberBase.tml"
+hash = "501c0fdffe00a70bf7dc9c59d79ccda2193708bd0daf22ef7b0333b3112e750b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_ChamberE.tml"
+hash = "f88f229719aba8faf45a54515ff75d5055e0f39ae1aab42dc67b3e87bd56fa13"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_ChamberN.tml"
+hash = "5363423e709bfc5486a578677e85f29073b7b32a24ca5c13e82a7e95ba5b4d29"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_ChamberS.tml"
+hash = "b68d06b53e6b415c99523ee79846c84c00585c9dda976a36bb7655ca604518c6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_ChamberW.tml"
+hash = "a3426939613ae82b24ee8e68bb0b6cd6fd51936e8adc6463a05bfdc39d40bee0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_Entry.tml"
+hash = "b3bac889de29093d5542169634f5bbf76a6d34498a5a6fa073521a5e5b132c79"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_PassE.tml"
+hash = "934a7610851cc5b241860f1543294908a6d268292a8705c35f9388ab9bc63c81"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_PassN.tml"
+hash = "0dbfb8ab1cfc6bb3b5e1a995697144d627d2838cdf928fce81cd99b38e00af5f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_PassS.tml"
+hash = "5d3cba6cd62ee131d70fd5ca8355ae2468f6c624ec7fc8092814dbffd8974225"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_SunkenDungeon_PassW.tml"
+hash = "f22791420450ad068a1edf96852d6d387bae2ad0ed16b99cd812e4a0885f795b"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Sunken_Tower.tml"
+hash = "4b0f8fe4d45f23499d5e8d1fb01a1e34995edc49a42f668149079fd0e02f6967"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_TangleTree.tml"
+hash = "72f862a3627aed87e9d6d71134df38ee17b2c793b1c49d157ce59a0910a8ec32"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_TangleTree2.tml"
+hash = "b6757fb15082a14b032b1f87496e807ac7b3204ac5302e4a2d5f7389505e0905"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Tree_Chandelier.tml"
+hash = "99cd8344500583bedc3af227f860a55787a402cd220dc2c72fbc2997e4b5ca05"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Tree_GnarledOak.tml"
+hash = "142fbe41a987db9028d774d9c2f630ce65f0bee09a854ca1edb7495853c8a664"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Tree_GreatGnarledOak.tml"
+hash = "f582b20a790056c95fdc6c83e984ebfcd545cb31ea617ab4f1404a330ca7bf7f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Tree_TallOak.tml"
+hash = "48c6d99e4bb3f67e5eb197fd5f7d4f5752bb4f161d030be71e4999d8d6b8ac0a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Underground_Fountain.tml"
+hash = "133d1a34a9613f51d8bb48b194be4e82745d4ddd99d1cdb3eabb53e791a52b44"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Vault4Way.tml"
+hash = "8bf39f7f93cb537f63d0ad014ea402a658fe22c54ea1547651b34d76996579eb"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Vault4WayTangle.tml"
+hash = "f6f12e3a9e8f181b1202f973b5be5ded3d9878ed6c104bf670617a8162a1babe"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultArrowHall.tml"
+hash = "4642a4d4bca164ce05ae5843f3dba13f8478d84d1cde08da24ce18e6c1fc69ac"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultFountain.tml"
+hash = "8285ab98cb7cbc1895b3aa76d571a3adc48ce6284619dfd9b4a14fe49006752e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultIntersection.tml"
+hash = "a4f96bcbb9b0c542306aee7c45407bf0b050950214d7f794c4d4678a93472609"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultShrine.tml"
+hash = "2473752c1c41e80df2983f8a7ff6e9096fd32f38941243fa4c13508dc1a593af"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultSkullArrowHall.tml"
+hash = "2813293c30573cddbb92ea0ec00efb7f28c315e5482f41c8d02e4e9827894f6f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultSkullHall.tml"
+hash = "e0a23eb4b05e9b919f0b6fc92706eded0bc1f68fadf156256b7488abe10790c6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultStatues.tml"
+hash = "223f114424450229b4bfcbc37ea448350c529314ca5de5d987b2485a304cf1d5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultStatues_Adventure.tml"
+hash = "828bc13fc1e0a0bf68df94e620b37fabdfadfa43ff319444b6421a298c3d5a91"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_VaultTSection.tml"
+hash = "05dbeacdd1a444e1be8eb27fcbc25842fa91a37a9a6a63f96859bce3197eeb65"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Bakery.tml"
+hash = "0defc21f85775c8c1181995e78728965fa33ab2ec0183370fc001b37e3f5bc3d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Butcher.tml"
+hash = "33efeca4d18cda00d566fba1bfbfdf34facc48c5c1ecf9c71284728e3c9ffdba"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_ChickenPit.tml"
+hash = "8d51846cab4af1483052ef414ac7009e7914e005952d5421c6b628a9a6278971"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Cottage.tml"
+hash = "0bc2be21480bac0d0ff8d7908a55c3a2b664dfe7fbc8365228ea80c33147193d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_CrazyCatLady.tml"
+hash = "28b27374ef789e45a8133a118c7d36f855ec598f743abcbdf3048099a17f4c37"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Curio.tml"
+hash = "df7edcda606093c659477bef8ea68b9055aeb94a7d0ff6748f13af986a4634e6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_FancyChurch.tml"
+hash = "3a627d7b7a83cfac8911055b3dd11c8ee15863777b668774aaa5791d3167e7e7"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Fletcher.tml"
+hash = "5ad9557f0a468c2d5080ac3018ad727f01fa90a330b26668af36438e152e419e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Gardener.tml"
+hash = "02077e1a76a19c64777e28d05d56a225a607aa09603ca058e1a4405ba751b47e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Greenhouse.tml"
+hash = "fb99ea7442de26e3ec01be7d5125b939ad161769d394ee5d1fa5ac209abace0c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_HorseBarn.tml"
+hash = "7e6d1e3bab352f11f2e0000768ea8b1c60e83fe4c705fc3a1d46a74be4dd3be6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Inn.tml"
+hash = "c16c465aff18c79ce513dbef76d2d8980ae7173ead04d25d1f2511b6d58b1e1d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_IronGolem.tml"
+hash = "ac73cd2265f153c0d1e098157a5878282fe95563ed6e17d17f308449369facf7"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Lodge.tml"
+hash = "e9e916139c78ad8e7ca7217a60127ba891b3617196bf73437193aec3cfa337d0"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_MelonPatch.tml"
+hash = "9cfc143bdedfd57824214bb527177cc49c518834147e71cd914ac1d8e6710122"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Plot.tml"
+hash = "758bbcf5f53be2bb065bd04758ecda6da4524afa617af1df0353fc8d08bd5b48"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Potter.tml"
+hash = "048bbd7f0e2353668e474d88790f3c2b212936ab70e5d7091b84a4ab0ddc04d9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_PumpkinPatch.tml"
+hash = "d476c2f6610d1cc60375a8c5e707be7b2d460815d124c28c425178ad3754c0c9"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Shepherd.tml"
+hash = "365485efd7e93db956fcbc7a977a6104d782e6e05efc40565d4bf69c44d86563"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Smeltery.tml"
+hash = "b77381113664ddc6c6785395f6e296b050e24d1a0c3cbde67cd2d0c3707fc81f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Tannery.tml"
+hash = "a3fa0bf36c82aef26ecc5895a75f15955b57e74ac7a4e6efc34880742a8bcb6e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Townhouse.tml"
+hash = "7bb0f13dd9d0633a581961565be12bd570f270ec14bef71b1740492d77459d9c"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_Village_Windmill.tml"
+hash = "3515bcedd23699a0872d83fb76d54bc4deb3c4772e5631be0436c09f1f587ade"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WarTower1A.tml"
+hash = "e5b0f95f5ce28b8f40cf8724be97f5d4eaddab14512fb342e5ce73c83d4c0b99"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WarTower1B.tml"
+hash = "9093bbe715846bbf3f4a3de016f4d51fddc4369cb3f10bf70975878d980c8e8e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WarTower1C.tml"
+hash = "cb097103b3ab36203eb15065d3459927d716a6f048eee719e7b8628cd2575092"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WarTower1D.tml"
+hash = "0344152eaf7e6b26853eddf2fa681b47abc8eaa74d04e6fd782e1e7c1354fb5f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WarTower1Top.tml"
+hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WaterCorner.tml"
+hash = "7897b15a246953ff20918d04562adcb4453d63b1e05727f333161844a28aa0cf"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WaterDungeonEntry.tml"
+hash = "e64e816dbb87f99e7e16ef316679850f84f3cd3bdf10e2735dd7918d5dd2f8c5"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WaterEWChamber.tml"
+hash = "4e59c4e2c12dab7d4e304edfa9f140d55049dd5c95db96843298b5421dde3a75"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WaterHall.tml"
+hash = "a88567110acc5034505bb237b896290909ebdb1495d276cc76301930b8440384"
+
+[[files]]
+file = "config/ruins_config/templateparser2/TP_WaterNSChamber.tml"
+hash = "48c30479a88d8407e49de89a63d2d9788f212450d6f765ea2ac34dc046bc64d7"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ae2-chest.tml"
+hash = "f653b3408724d1b5d0aeb8a9fb98f3b64aca79b50369c7cd1f7d96394a03b516"
+
+[[files]]
+file = "config/ruins_config/templateparser2/bedrock36.tml"
+hash = "a22c336b26a5c5ce59a0406042a5e063812d8f77937fc35442ecc1614c8304bd"
+
+[[files]]
+file = "config/ruins_config/templateparser2/bedrock6.tml"
+hash = "363c7fdcc60e68bf5f22c81e3c7f000a18898b18fab0d3c395ce6687013db84a"
+
+[[files]]
+file = "config/ruins_config/templateparser2/chest.tml"
+hash = "b3b79261ad8f2e99322ab50f91212c82681ccb9ee9aa90c9f61c9386732c1b0e"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-birchoutpost-thor.tml"
+hash = "ce9af84c4120e944bbe86f351a93a52c072f0b354f25d3a306001294977afc59"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-birchoutpost.tml"
+hash = "59b5b96d851e2c3a64e8456ffa7fc4368fb151adb0d08a5944d86c44255d08c3"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-gazebo-observer.tml"
+hash = "cdb2658363d3aef8dac10ad9836523158ef6894cbdf9ee505cba88e8c7fac775"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-gazebo.tml"
+hash = "6e9983edd830b823d3ed2c26c1c90fdb69b4342f1a78c21d25dc995a1f56bd3f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-gazebodesert-observer.tml"
+hash = "d97ec1beb82e2f7a417685d5b14d68c33e6ec6183c15de8413dd08206fe72d41"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-gazebodesert.tml"
+hash = "6c426526bb3d5ed71de86b688fcf7223f902e041845d2714f892d3c0b9ab92e6"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-goldrush.tml"
+hash = "a7666fbcf70b2c4611ea1b32f5393d6953d35e6c90cd6151f40ffa604e430d47"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-lighthouse.tml"
+hash = "ef30994c5629a5a5b59026c226c01825d651a02ada31949cd79a89cd502da50f"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-stargate.tml"
+hash = "baa62f97111282595c49f076ea44158d7b94c91dbc1fa8ecb56ee6eb973f0690"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-taonas.tml"
+hash = "13a38eef0a5d25458e47aa21129d647b0bb010605317d14b9f1740ab315343fb"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-tombtrap.tml"
+hash = "e0235b6aba8c8dd9a2cefd5fe059f3b3a060f717780c8734b8ec78fe47dbc6fa"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-wizardtower.tml"
+hash = "56c2dd29a5bb60f55755bd89638f188bd5f1044c04329c7e23e2135b0a41e9db"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-xmarksthespot-tnt.tml"
+hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
+
+[[files]]
+file = "config/ruins_config/templateparser2/ftbj-xmarksthespot.tml"
+hash = "530977be609a3f7af008bee2afbdb0ef54d68a4e69791881bdf6a880d2b8ff70"
+
+[[files]]
+file = "config/ruins_config/templateparser2/observertest.tml"
+hash = "b1c905a8dce98cd8b896eb5f20d2559c09f80b5cb28ff84e76020aeffedf5e38"
+
+[[files]]
+file = "config/ruins_config/templateparser2/planet-progression.tml"
+hash = "ba910dda7c5510ee106a4968976489d264528e8e048a23d8fa48059eb762da5f"
 
 [[files]]
 file = "config/sgcraft.cfg"
 hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
 
 [[files]]
-file = "config/simplerpg.cfg"
-hash = "9aa8f5bd88dd2fccbf1c9e6fe4afbe99296d28ff09af9e1561dceec1791beb23"
-
-[[files]]
-file = "config/splash.properties"
-hash = "18fd499c16011214c8c320a54c0fb113bdeae47aa74d32c248457938bd08afb2"
+file = "config/tcomplement.cfg"
+hash = "912b14c6a8b76b7aee8eab599ff8e1b0c0c3c28a187bc37a5986c8a5f6566c2a"
 
 [[files]]
 file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
-
-[[files]]
-file = "config/teamreborn/configData.nbt"
-hash = "d7e848b921ce4c3f75cdf654fb581df4e8f159048467b11e0b5d6363803380b7"
-
-[[files]]
-file = "config/teamreborn/reborncore/client.cfg"
-hash = "b4b9c2f59a545f021ad89115eead21f7e51a44e8468f6e041b9210760053f5a6"
-
-[[files]]
-file = "config/teamreborn/reborncore/misc.cfg"
-hash = "6a4d2c1a100dbd353f790586db5ed5282635d693ad7656e2c8932413d22ccd47"
-
-[[files]]
-file = "config/teamreborn/reborncore/power.cfg"
-hash = "265dbd50415252c24f522fa0c6cb440c564a9c0298911959283cae6aa56d4b8e"
-
-[[files]]
-file = "config/teamreborn/reborncore/selected_energy.json"
-hash = "9a1954243a3851247769c8525d22faf6addfb36cd3fb347449b14c1e18a98214"
-
-[[files]]
-file = "config/teamreborn/reborncore/upgrades.cfg"
-hash = "d3921a133b47bcf3a8bcbfc6974f717b8d3767a8bccc8de5af8d575f646019a0"
-
-[[files]]
-file = "config/teamreborn/rebornstorage/config.cfg"
-hash = "a77a2ec4eb9c62b93705e9eabc40d7564636440e3f1a3a50c06fd11f4b9f7707"
-
-[[files]]
-file = "config/teslacorelib.cfg"
-hash = "848e63ca40e8ebb3566c50b0d105bedd4deef7fd16f8cb60d6edcfa8eceeeef0"
-
-[[files]]
-file = "config/theoneprobe.cfg"
-hash = "f28eef44d1fe84a549daf644b96301f49cf4e2c083e6cf4e08b42b6fb441a164"
-
-[[files]]
-file = "config/topaddons.cfg"
-hash = "d276c9fa4a9a5431b403fb7d1d55408c9b5d5063da55374f79229a132f060ff0"
-
-[[files]]
-file = "config/topaddons_client.cfg"
-hash = "ed5d76d3752b944c0ece98ebfe3192d9623757db779902155b443fcb9215fe47"
-
-[[files]]
-file = "config/torchmaster.cfg"
-hash = "81a9678fa7ab3e351c14c2b411368b4d18c9279869642e8448c5865364944806"
-
-[[files]]
-file = "config/unidict/IntegrationModule.cfg"
-hash = "2fa6db03faea0a4332a16d215161ad7abc238854fbf9e36b078979fab20996f6"
-
-[[files]]
-file = "config/unidict/UniDict.cfg"
-hash = "a23a23dceb3a4875e73680f452b1436a8aa818539d09a1a0285fff03b15f8873"
-
-[[files]]
-file = "config/universalremote.cfg"
-hash = "865961b0fc6b0c411219c99c89dad22a5954be9045f7022d9fe77800c3c1dee2"
-
-[[files]]
-file = "config/woot/custom_drops.json"
-hash = "b81658665d33a5131a711a90a033a56101b8951a388a53470d4fe72c4f4b1df7"
-
-[[files]]
-file = "config/woot/factory_config.json"
-hash = "a648bf597992f4324f61880644017db36160ad032097d91961bc0689258d2f57"
-
-[[files]]
-file = "config/woot/factory_ingredients.json"
-hash = "4993660d3e16c67cf6ffa3130d8b6c3bc8a7b971ae8af84f9e2ed52640b5772f"
 
 [[files]]
 file = "config/woot/woot.cfg"
