@@ -81,8 +81,8 @@ file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-kree.tml"
 hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
+file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
+hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
@@ -101,8 +101,8 @@ file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-
 hash = "120e5856bc7a01b09fda807edd23783d6b91848aee2ddc0da8d0af153f43a809"
 
 [[files]]
-file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
-hash = "f24f28ddb251b0f5c3af7575f6a4f53a67a91204665dbdc806984f879e1b5bec"
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-desert-final.tml"
+hash = "6e583e2dd334e29ac9dd456cf3a07f8e3658b40c2845091172f98407f1d2d702"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-gazebo-chitauri-metal-vibranium-zpm.tml"
@@ -129,8 +129,8 @@ file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml
 hash = "c8f3d038bb66ef04f78fcd6b30a180c31beb7ce6e473d9bf081899953bb90b51"
 
 [[files]]
-file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
+file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
+hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
@@ -158,7 +158,7 @@ hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
-hash = "56e623637ba2af8806437fd38a2e9d8abbf833aef27a38bcae5a2b1f7f5d88a0"
+hash = "9c1714877614511adb1022c50be1f0eabbdd1c4aa074c7628c49e10accd72d3b"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
@@ -174,23 +174,19 @@ hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-seedship-final2.tml"
-hash = "16deee1df475a95af36442cf86e9525eaba69505d0e8d57af55766d5219435b2"
+hash = "12f2789d8acd10c976b95c30919dc949f73520f7dc71ef384cffb0fc440bb7d9"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
 hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
 
 [[files]]
-file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
-hash = "4965481d953304fff3b8f7e15398c23029dfe57708edc75be13f9defd78091a7"
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-nether-final.tml"
+hash = "94727ad7acb991b9e2a7021237c9a4bb65ebce09399e4b6a20c97ba9a1f585ca"
 
 [[files]]
 file = "config/ruins_config/hell/taonasg.tml"
 hash = "71ccf834e0bc45b60a50b3de9ce81bb7511159ac995fb75bfe71cafb45dff480"
-
-[[files]]
-file = "config/ruins_config/jungle/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
 
 [[files]]
 file = "config/ruins_config/jungle/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
@@ -205,10 +201,6 @@ file = "config/ruins_config/jungle/dartiscraft-gazebo-titanium-chitauri-energy-c
 hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
 
 [[files]]
-file = "config/ruins_config/jungle_edge/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
-
-[[files]]
 file = "config/ruins_config/jungle_edge/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
 hash = "f08613d86dae6ea174e133c1cac02487a0a80eedacdc9ab68482121a612a12bc"
 
@@ -219,10 +211,6 @@ hash = "c123d65d26325560c4230cb2503510737b78c6ccc89113c69e7fbaa669ca82c3"
 [[files]]
 file = "config/ruins_config/jungle_edge/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
 hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
-
-[[files]]
-file = "config/ruins_config/jungle_hills/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
 
 [[files]]
 file = "config/ruins_config/jungle_hills/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
@@ -253,8 +241,8 @@ file = "config/ruins_config/plains/CastleModified.tml"
 hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
 
 [[files]]
-file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
-hash = "9be16a1e557850add7554afe1690a25fc01d68d9c7238061ab78c199a25fe465"
+file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-final.tml"
+hash = "cad00ee651e3fe5f3274e0b943752522d64e6cf9c7748997a1365acda571df57"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
@@ -298,7 +286,7 @@ hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
+hash = "cbe0aa9c477d8c8b8ff91fab0eeb3b68012f75f545028bdba7f71bc0c01047c0"
 
 [[files]]
 file = "config/tcomplement.cfg"
