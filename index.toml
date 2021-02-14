@@ -1006,6 +1006,11 @@ hash = "b05021042073f41c5772eaf3531eef98ba52bc31d9756cc8fafdbe3e384b76e6"
 metafile = true
 
 [[files]]
+file = "mods/zerocore.toml"
+hash = "dc0141e97dfe91b0c5335ac0ab99394d656cff763ab8053f0f615c79f5e3c0c9"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 
