@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
-hash = "117c17d58eab171ea4162719489232b445b4a89e5eb428a38677a3fee4b4f570"
+hash = "9ea930d865522335dcc67378f8a4deff737ebb9e0b435ec2428e57b3fa195da3"
 
 [[files]]
 file = "config/IC2.ini"
@@ -10,7 +10,7 @@ hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
 [[files]]
 file = "config/TinkerToolLeveling.cfg"
-hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
+hash = "3cbd82e1036a6e444b028cf42d83448107d6ef8aa01a37098a8efa62821b4c4e"
 
 [[files]]
 file = "config/Waystones.cfg"
@@ -287,10 +287,6 @@ hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
 [[files]]
 file = "config/sgcraft.cfg"
 hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
-
-[[files]]
-file = "config/tcomplement.cfg"
-hash = "912b14c6a8b76b7aee8eab599ff8e1b0c0c3c28a187bc37a5986c8a5f6566c2a"
 
 [[files]]
 file = "config/tconstruct.cfg"
