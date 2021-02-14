@@ -316,6 +316,11 @@ hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true
 
 [[files]]
+file = "mods/advanced-rocketry.toml"
+hash = "21b2bbbaf642c0fb2de50ef8b20cab75c5e4aea007efe35155247a5d076aff1e"
+metafile = true
+
+[[files]]
 file = "mods/ae2-stuff.toml"
 hash = "ba66a3b8e1de14476341eb6cfb9c74946556927b4ff8f4616709e8618cbdd3bb"
 metafile = true
@@ -348,6 +353,21 @@ metafile = true
 [[files]]
 file = "mods/armory-expansion.toml"
 hash = "25fb5b33d8c33a5ef34c7e9190d523445f34ac4134398092f1e3a8081e0201d1"
+metafile = true
+
+[[files]]
+file = "mods/aroma1997core.toml"
+hash = "31421272d186b674a6df39752231b49e6b3213f4b624a1e20a5ef449c97809ea"
+metafile = true
+
+[[files]]
+file = "mods/aroma1997s-dimensional-world.toml"
+hash = "dc46394f389d2117d9141442dc0168d18f39e9244aca97034b80f741d23407da"
+metafile = true
+
+[[files]]
+file = "mods/aromabackup.toml"
+hash = "6645c15620cc363fea1fea21a7cd199f38c11481634c688866cf59050922a271"
 metafile = true
 
 [[files]]
@@ -516,6 +536,11 @@ hash = "e4e97ef5366c14588c3793c5a61b67250a9a3260c4032f4415e53090de5cf17d"
 metafile = true
 
 [[files]]
+file = "mods/extreme-reactors.toml"
+hash = "4db0b15ae9f877789c30e7fc54a0431cbe257eae1dd8654c0983df1e6c61d3e3"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "8239fcc9487edacf660e8a72b2fb9b9a2757c77df232a0ff409e5a8d9dadcc77"
 metafile = true
@@ -628,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/keeping-inventory.toml"
 hash = "2a1e6a4830da4149b6f4e4eb72e9666096265a9de666829dad59b51b2bcf4795"
+metafile = true
+
+[[files]]
+file = "mods/libvulpes.toml"
+hash = "072677e8c67ca0fbb286091060ab15289c931f51c2bffddc05659e63c490ddf2"
 metafile = true
 
 [[files]]
@@ -953,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/wanionlib.toml"
 hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
+metafile = true
+
+[[files]]
+file = "mods/warpdrive.toml"
+hash = "a76133072e142f425547524ce89d486df8c2c1a53e5830fdaceddcc267aaf668"
 metafile = true
 
 [[files]]
