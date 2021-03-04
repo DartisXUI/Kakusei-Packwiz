@@ -210,7 +210,7 @@ hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "102ab99c4776486899db8650c33dff5c25c776573cf90a499a59b7d9667bb4ef"
+hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
 
 [[files]]
 file = "config/tconstruct.cfg"
