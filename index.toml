@@ -145,8 +145,8 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-birchoutpost-uru-thor-pdd-gdo.tml"
-hash = "c4dfcd5a7c54b41ef2659b205da66a9db9228fda838ef89f31e348c13eeeb2b0"
+file = "config/ruins_config/generic/dartiscraft-birchoutpost-uru-thor.tml"
+hash = "924519ce4374d47f9532d1ea60a46f8882d25a24c36e7332068267ca3a212071"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-gazebo-titanium-zpm-chitauri-energy-core.tml"
