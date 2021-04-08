@@ -81,16 +81,16 @@ file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-kree.tml"
 hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
-hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
+file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-configurator.tml"
 hash = "120e5856bc7a01b09fda807edd23783d6b91848aee2ddc0da8d0af153f43a809"
 
 [[files]]
-file = "config/ruins_config/desert/dartiscraft-gazebo-titanium-chitauri-energy-core-zpm.tml"
-hash = "5aaf54d49d36f765c0b44f39a9494ed41d136714d84b0de446009a1171b2356c"
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
+hash = "f24f28ddb251b0f5c3af7575f6a4f53a67a91204665dbdc806984f879e1b5bec"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
@@ -106,11 +106,11 @@ hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
 file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml"
-hash = "c8f3d038bb66ef04f78fcd6b30a180c31beb7ce6e473d9bf081899953bb90b51"
+hash = "34aab3089168b2b055ca744afd87534cfb719d38727ba3ca6af6e6b545936f05"
 
 [[files]]
-file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
-hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
+file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-tesseract-configurator.tml"
@@ -149,12 +149,12 @@ file = "config/ruins_config/generic/dartiscraft-birchoutpost-uru-thor.tml"
 hash = "924519ce4374d47f9532d1ea60a46f8882d25a24c36e7332068267ca3a212071"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-gazebo-titanium-zpm-chitauri-energy-core.tml"
-hash = "2a16a10704a684ba4e634fb923184dbfbe21a5463c12280526c1426dc07d4149"
+file = "config/ruins_config/generic/dartiscraft-gazebo-titanium-chitauri-energy-core.tml"
+hash = "3856f7da5c3f84199d2f434e592e4540c55c6f0b16ee395a98a055511319378c"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-gazebo-vibranium-zpm-chitauri-metal.tml"
-hash = "077f370a02b3464e153b70955841f1c025727e33321c26a538b5290f9f390ec1"
+file = "config/ruins_config/generic/dartiscraft-gazebo-vibranium-chitauri-metal.tml"
+hash = "45aa8c71be26ac318670d828a0db120339a88c5e0e20cb67450796a998784e1a"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-seedship-final2.tml"
@@ -165,20 +165,40 @@ file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
 hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
 
 [[files]]
-file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-nether-final.tml"
-hash = "94727ad7acb991b9e2a7021237c9a4bb65ebce09399e4b6a20c97ba9a1f585ca"
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
+hash = "4965481d953304fff3b8f7e15398c23029dfe57708edc75be13f9defd78091a7"
 
 [[files]]
 file = "config/ruins_config/hell/taonasg.tml"
 hash = "71ccf834e0bc45b60a50b3de9ce81bb7511159ac995fb75bfe71cafb45dff480"
 
 [[files]]
+file = "config/ruins_config/jungle/JungleThroneWood.tml"
+hash = "e862e82090c479b47fcd45ce6c0126e41e0546f12d648c22ca946df57c24fbc4"
+
+[[files]]
+file = "config/ruins_config/jungle/JungleTreePlatform.tml"
+hash = "88214a92eee6f8f6e6e703416a23a34abafcaf3bc689c1f43cc7072062470fd8"
+
+[[files]]
+file = "config/ruins_config/jungle/JungleTreePlatform_edit.tml"
+hash = "86f0bc4aa352a57d7be843152815f2d8418cd440836bcaf992ca9b94a78a6b6f"
+
+[[files]]
 file = "config/ruins_config/mesa/JG_WarTower1Base_Seed_CB_1v12.tml"
 hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
 
 [[files]]
-file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-final.tml"
-hash = "cad00ee651e3fe5f3274e0b943752522d64e6cf9c7748997a1365acda571df57"
+file = "config/ruins_config/ocean/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
+file = "config/ruins_config/plains/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
+file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "90d97302d62c68f5d1d484dd125e45fb901df568f22c621467506ae3f605c425"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
@@ -207,6 +227,30 @@ hash = "0344152eaf7e6b26853eddf2fa681b47abc8eaa74d04e6fd782e1e7c1354fb5f"
 [[files]]
 file = "config/ruins_config/templateparser/TP_WarTower1Top.tml"
 hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-ancient-outpost-final3.tml"
+hash = "56e623637ba2af8806437fd38a2e9d8abbf833aef27a38bcae5a2b1f7f5d88a0"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-birchoutpost-uru-thor.tml"
+hash = "924519ce4374d47f9532d1ea60a46f8882d25a24c36e7332068267ca3a212071"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-gazebo-titanium-chitauri-energy-core.tml"
+hash = "3856f7da5c3f84199d2f434e592e4540c55c6f0b16ee395a98a055511319378c"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-gazebo-vibranium-chitauri-metal.tml"
+hash = "45aa8c71be26ac318670d828a0db120339a88c5e0e20cb67450796a998784e1a"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-seedship-final2.tml"
+hash = "16deee1df475a95af36442cf86e9525eaba69505d0e8d57af55766d5219435b2"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-stargate-typesakyo-final.tml"
+hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
 
 [[files]]
 file = "config/sgcraft.cfg"
