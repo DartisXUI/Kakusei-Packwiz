@@ -469,6 +469,11 @@ hash = "b87033e7682bb223e1ecb0ef238449c83cc63304a24338521bec5194f29fd482"
 metafile = true
 
 [[files]]
+file = "mods/dragon-mounts-legacy-continued.toml"
+hash = "4e40b2dfe5f3f5442446190056a12cbe9c73b97921089992dde1f2d582f17a33"
+metafile = true
+
+[[files]]
 file = "mods/drawbridges.toml"
 hash = "069705f4d27067bec56948e770299d9f4d2d06540fd4731062773bbb593fc848"
 metafile = true

@@ -1,0 +1,14 @@
+name = "Dragon Mounts Legacy Continued"
+filename = "DragonMounts-r49-sunfork.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3300/669/DragonMounts-r49-sunfork.jar"
+hash-format = "murmur2"
+hash = "3673300874"
+
+[update]
+[update.curseforge]
+file-id = 3300669
+project-id = 448341
+release-channel = "beta"
