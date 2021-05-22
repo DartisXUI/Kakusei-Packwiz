@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "983bbb725b3d10cbed1d0face471063c9af421bb12b6f35564842c6f33726969"
+hash = "7509fe30e98f5159bdb74eb6c56d986f46c0771b80c1c914f19e4e425e0de0d7"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "e2f6ad3b65041beee13f853d2cb227e74ed776d93ac43ec778d8b756cd30933a"
+hash = "fb9b5efa34ebde4466ce58869d745e56f2d4409e1cc57f68f54d0c61a6de1796"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicadditions.toml"
-hash = "b87033e7682bb223e1ecb0ef238449c83cc63304a24338521bec5194f29fd482"
+hash = "a942204ae6d8c6ad170295c3a18a8b5b85f7bb7965e36855ef46a11b3ad478ed"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "4ff3d369ddb59e9a15a3ee27f3cf422a70c6d416d990982405f37cd3eaec71b0"
+hash = "8b662288e2e9391fdb2d0c50b5108eda952361ff1b0dc51e718d6312e3786fd1"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-calculation.toml"
-hash = "e3a47eea3e209d86f1b487511bbb6144078439c71bb644e1a3bc9f2e53172ee6"
+hash = "47af0937ad499b423758cfee436398c30454962c033739452118b0a352ade16b"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.toml"
-hash = "072677e8c67ca0fbb286091060ab15289c931f51c2bffddc05659e63c490ddf2"
+hash = "02043f4f92bac830f8bda3b870bdd81267f4d0e12f12f94c1b6741162fb47f58"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.toml"
-hash = "e5914feb065f72f027e1fefac0d8fbd184f23eb3e6d6d0260cf28e76ab5d76e8"
+hash = "79d120ba42398091f2b36601e4800f1a35142376f7307f2f1b4ea02ef1df203d"
 metafile = true
 
 [[files]]
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "169f254aeb08462b3e028e0f28d0f335a22ed8e36d8f07f42c64d8e657249fb3"
+hash = "9f16bb9a84be06ec968b31ded7396555b3697e8d93a117cdd3354b2808e895e0"
 metafile = true
 
 [[files]]
@@ -960,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/warpdrive.toml"
-hash = "a76133072e142f425547524ce89d486df8c2c1a53e5830fdaceddcc267aaf668"
+hash = "d9d70e480723d74399822512ae5678153d83352d550fc6954b3b5b4e1a8e2344"
 metafile = true
 
 [[files]]
