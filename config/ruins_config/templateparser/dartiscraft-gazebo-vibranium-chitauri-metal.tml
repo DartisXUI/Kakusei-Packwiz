@@ -9,9 +9,9 @@
 
 biomesToSpawnIn=forest,jungle,jungle_edge,jungle_hills,savannah
 
-uniqueMinDistance=3000
+uniqueMinDistance=500
 
-weight=2
+weight=1
 embed_into_distance=16
 acceptable_target_blocks=
 

@@ -14,8 +14,8 @@ biomesToSpawnIn=
 weight=1
 embed_into_distance=19
 
-uniqueMinDistance=2000
-spawnMinDistance=1000
+uniqueMinDistance=1000
+spawnMinDistance=0
 
 acceptable_target_blocks=
 
