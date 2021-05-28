@@ -134,15 +134,15 @@ hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
-hash = "14bf3f36d6f52de7966b3704bd69bdb7451f0a5f924b124dba3fa519fc330f29"
+hash = "4f04a67adf838d4ff0a64c34804bc032f61579917a1e230103f6d982332d5abb"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3l.tml"
-hash = "39fd66dadf0a303ab850eadf5bbdd7f0301743805cc9c1cf165ff67cc103085c"
+hash = "42e26e615ec6ba2c4c00d3c621e5533d5af3cf2d98d15effcfd976e6c84b4def"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
-hash = "7c83adc0361732ba1ea889554238b995ac06b0be7255e2408897f6293f7cf99e"
+hash = "630ced7c5be24a811bb656183438f99fee057bed2468416a25510d9a74bb5138"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-birchoutpost-uru-thor.tml"
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicadditions.toml"
-hash = "a942204ae6d8c6ad170295c3a18a8b5b85f7bb7965e36855ef46a11b3ad478ed"
+hash = "0bf6bdc2d73b6f3cd0c51d702860fd90790c243852b6e40cd37864bf0c14bb50"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.toml"
-hash = "cd0e9ca089a42795cd4fd18a878d2072ff44f18ae7fa64576f293ac149226052"
+hash = "ce515c30d7c084fadd9addc0d0dc630a41355731495616b6dd946666fdd524c2"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "8b662288e2e9391fdb2d0c50b5108eda952361ff1b0dc51e718d6312e3786fd1"
+hash = "52fdc7453d9c751dd8351133de7c7a4aa65dfacbb607be92835cee44afee488a"
 metafile = true
 
 [[files]]
@@ -1065,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
+hash = "0f05c09a6c69c1ac2febb90994eb2984f43437174bf591e9d0b5a392717e1b52"
 
 [[files]]
 file = "scripts/recipes.zs"
