@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.toml"
-hash = "ce515c30d7c084fadd9addc0d0dc630a41355731495616b6dd946666fdd524c2"
+hash = "6180f3878da4370070bc2f09eae365bf3f91ba525e7e95171369712edcee3131"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "52fdc7453d9c751dd8351133de7c7a4aa65dfacbb607be92835cee44afee488a"
+hash = "2368ee4c1cb99f837d285b5f08960423e9f6fda6c214762694e9d3718b422917"
 metafile = true
 
 [[files]]
@@ -726,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/malisiscore.toml"
 hash = "e947f57c112cb2a3af7edca6250c8d8d6719bb049473d2731d1bd258b73a1694"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.toml"
+hash = "a3663c2943a1ac0c2d9a51180094a9828b08d28b77e7b8b662066abd5f689f4e"
 metafile = true
 
 [[files]]
@@ -885,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
-hash = "c7008ce33ade755dbb24766fd4fe3e8ae87b4a2613f070193673fab884277b2f"
+hash = "7b7b0fc0cbb87d7ca53d811125003827f37e7e830d4ddc34a4a5b6f7f14e8da4"
 metafile = true
 
 [[files]]
