@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "7509fe30e98f5159bdb74eb6c56d986f46c0771b80c1c914f19e4e425e0de0d7"
+hash = "980091d3f613aa2fc2f842cd491b4d9e7d04fb7450399b1738eae13eed781b9a"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "fb9b5efa34ebde4466ce58869d745e56f2d4409e1cc57f68f54d0c61a6de1796"
+hash = "5798614cbc4c32632bedcb9c78d7062344dc1a08140dc36c610952ed732fdc1f"
 metafile = true
 
 [[files]]
@@ -536,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/curio.toml"
 hash = "4a5f0491c0aa1588354e8af736cde4ac7f8523b9a46db5b216f99bc030373811"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.toml"
+hash = "354182248d58fea5500f48db5af6c4733c5ce66f8c3b802cad897b671cc7a9d1"
 metafile = true
 
 [[files]]
@@ -744,6 +749,11 @@ hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
 metafile = true
 
 [[files]]
+file = "mods/mixinbootstrap.toml"
+hash = "d43b6c72de62e753a001f678c3e01a00003c269e669e7c5377544cf77510b5f2"
+metafile = true
+
+[[files]]
 file = "mods/moar-tinkers.toml"
 hash = "1ba0b1be4650525f02f57547556ecf37a86c7c6872569ae61acba4aad241859d"
 metafile = true
@@ -840,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "64e1f03ca2096472c0fd18cb1764a59cac22eccd2117a5643446d44edddcf5c7"
+hash = "271dbeb0888a4c6b98dc281502e93ebcaadbda5b8bfbb14862f5c47227523f2e"
 metafile = true
 
 [[files]]
@@ -960,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/super-factory-manager.toml"
-hash = "f4bef5f36cf2a8ec31876ed6785580e0ea86cde4e3970f2ecdd65fe024d19471"
+hash = "5ad3021d06994936e3d8111ec32a368db7ff481705076a51b3f9bd1aee7d1ed5"
 metafile = true
 
 [[files]]
