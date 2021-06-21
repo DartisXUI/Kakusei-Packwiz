@@ -749,11 +749,6 @@ hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
 metafile = true
 
 [[files]]
-file = "mods/mixinbootstrap.toml"
-hash = "d43b6c72de62e753a001f678c3e01a00003c269e669e7c5377544cf77510b5f2"
-metafile = true
-
-[[files]]
 file = "mods/moar-tinkers.toml"
 hash = "1ba0b1be4650525f02f57547556ecf37a86c7c6872569ae61acba4aad241859d"
 metafile = true
