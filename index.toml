@@ -483,6 +483,11 @@ hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.toml"
+hash = "06ee2f50b7b843d3b8c069396633f1ffa32ff6be524b6091e4244feb222d5294"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.toml"
 hash = "75f02a3259510376753cdb714e30430d82db0011e84c0b9b05deb5cb4d2ddead"
 metafile = true
