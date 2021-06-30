@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "271dbeb0888a4c6b98dc281502e93ebcaadbda5b8bfbb14862f5c47227523f2e"
+hash = "f35d393c08626938c7f7bb0dca46ff51549d9edf953f76fbbe036ab9f243cd4b"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/warpdrive.toml"
-hash = "d9d70e480723d74399822512ae5678153d83352d550fc6954b3b5b4e1a8e2344"
+hash = "e396e8a6ec778f881300d17a23e68ec951b3fe6d44cd808a14246fcc4da3f38c"
 metafile = true
 
 [[files]]
