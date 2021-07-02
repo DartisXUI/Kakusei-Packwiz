@@ -729,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.toml"
-hash = "79d120ba42398091f2b36601e4800f1a35142376f7307f2f1b4ea02ef1df203d"
+hash = "c2cb2b53f93392b345bcf83642933dbaed3dc3e90c78125dad3b79a06cdc0b95"
 metafile = true
 
 [[files]]
