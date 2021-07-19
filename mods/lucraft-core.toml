@@ -1,14 +1,14 @@
 name = "Lucraft: Core"
-filename = "LucraftCore-1.12.2-2.4.15.jar"
+filename = "LucraftCore-1.12.2-2.4.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3372/789/LucraftCore-1.12.2-2.4.15.jar"
+url = "https://edge.forgecdn.net/files/3380/490/LucraftCore-1.12.2-2.4.16.jar"
 hash-format = "murmur2"
-hash = "3570032359"
+hash = "24877450"
 
 [update]
 [update.curseforge]
-file-id = 3372789
+file-id = 3380490
 project-id = 230651
 release-channel = "beta"

@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "5798614cbc4c32632bedcb9c78d7062344dc1a08140dc36c610952ed732fdc1f"
+hash = "fc4ddfc276564d8d491a4bf724597a1e9bfa5f25ad5666171cd11289aa3ddbf2"
 metafile = true
 
 [[files]]
@@ -638,6 +638,11 @@ hash = "fd4f11764f2b0eba1843a8e99f397c74d2549cd94b09378e38b3ac8528a6ab34"
 metafile = true
 
 [[files]]
+file = "mods/guide-api.toml"
+hash = "b9db7d42f0024e3063cc79b177fafb05039258549662d144246611693b01c739"
+metafile = true
+
+[[files]]
 file = "mods/gunpowderlib.toml"
 hash = "b684206ba9aa33d7d330687bb0885d44d3c3b85f1152e6f594cc3171adca99c5"
 metafile = true
@@ -729,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.toml"
-hash = "c2cb2b53f93392b345bcf83642933dbaed3dc3e90c78125dad3b79a06cdc0b95"
+hash = "f546165b25cd3361f6530881dfb372474a04921ad2ef6f3c7a82fe6f7f6e40bc"
 metafile = true
 
 [[files]]
