@@ -564,5 +564,16 @@
       <output name="minecraft:cobblestone" chance="0.15" amount="1" />
     </sagmilling>
   </recipe>
+  
+  <!-- Stygian Iron -->
+
+  <recipe name="Sagmill: oreStygianIron Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="woot:stygianironore" />
+      <output name="woot:stygianironingot" amount="3" />
+      <output name="woot:stygianironingot" chance="3" amount="3"/>
+      <output name="dustNickel" chance="0.1" amount="3"/>
+    </sagmilling>
+  </recipe>
 
 </enderio:recipes>
