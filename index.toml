@@ -26,7 +26,7 @@ hash = "31733f8c5823b4296075b290f43ee18e8da657dd92e203d2acd5236922530dc3"
 
 [[files]]
 file = "config/enderio/recipes/user/user_recipes.xml"
-hash = "f59a7d5361631e213811d5b50f73ff01cc0e949a84c486ddfa20e32d873989ba"
+hash = "82d5148e40795637778f84439cdb9c92723ea520988c0dcc2d0a1e8465ae78fc"
 
 [[files]]
 file = "config/enderstorage.cfg"
