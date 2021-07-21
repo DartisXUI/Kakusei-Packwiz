@@ -30,6 +30,16 @@
     </sagmilling>
   </recipe>
 
+  <recipe name="Sagmill: End Iron Ore" required="false">
+    <sagmilling energy="4800">
+      <input name="oreEndIron" />
+      <output name="POWDER_IRON" amount="6" />
+      <output name="dustTin" amount="2" chance="0.05" required="false" />
+      <output name="dustNickel" amount="2" chance="0.1" required="false" />
+      <output name="minecraft:end_stone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
   <!-- Gold -->
 
   <recipe name="Sagmill: oreGold Ore" required="true">
@@ -57,6 +67,15 @@
     </sagmilling>
   </recipe>
 
+  <recipe name="Sagmill: End Gold Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndGold" />
+      <output name="dustGold" amount="6" />
+      <output name="dustCopper" amount="2" chance="0.2" required="false" />
+      <output name="minecraft:end_stone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+  
   <!-- Copper -->
 
   <recipe name="Sagmill: oreCopper Ore" required="false">
@@ -81,6 +100,15 @@
     <sagmilling energy="4800">
       <input name="denseoreCopper" />
       <output name="oreCopper" amount="6" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: End Copper Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndCopper" />
+      <output name="dustCopper" amount="6" />
+      <output name="dustGold" amount="2" chance="0.125" required="false" />
+      <output name="minecraft:end_stone" chance="0.15" />
     </sagmilling>
   </recipe>
 
@@ -112,6 +140,15 @@
     </sagmilling>
   </recipe>
 
+  <recipe name="Sagmill: End Tin Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndTin" />
+      <output name="dustTin" amount="6" />
+      <output name="minecraft:end_stone" chance="0.15" />
+      <output name="dustIron" chance="0.1"/>
+    </sagmilling>
+  </recipe>
+
   <!-- Lead -->
 
   <recipe name="Sagmill: oreLead Ore" required="false">
@@ -136,6 +173,15 @@
     <sagmilling energy="4800">
       <input name="denseoreLead" />
       <output name="oreLead" amount="6" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: End Lead Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndLead" />
+      <output name="dustLead" amount="6" />
+      <output name="dustSilver" amount="2" chance="0.1" required="false" />
+      <output name="minecraft:end_stone" chance="0.15" />
     </sagmilling>
   </recipe>
 
@@ -166,6 +212,15 @@
     </sagmilling>
   </recipe>
 
+  <recipe name="Sagmill: End Silver Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndSilver" />
+      <output name="dustSilver" amount="6" />
+      <output name="dustLead" amount="2" chance="0.1" required="false" />
+      <output name="minecraft:end_stone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
   <!-- Nickel -->
 
   <recipe name="Sagmill: oreNickel Ore" required="false">
@@ -190,6 +245,15 @@
     <sagmilling energy="4800">
       <input name="denseoreNickel" />
       <output name="oreNickel" amount="6" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: End Nickel Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndNickel" />
+      <output name="dustNickel" amount="6" />
+      <output name="dustPlatinum" amount="2" chance="0.1" required="false" />
+      <output name="minecraft:end_stone" chance="0.15" />
     </sagmilling>
   </recipe>
 
@@ -221,6 +285,15 @@
     </sagmilling>
   </recipe>
 
+  <recipe name="Sagmill: End Aluminium Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndAluminium" />
+      <output name="dustAluminium" amount="6" />
+      <output name="minecraft:end_stone" chance="0.15" />
+      <output name="dustIron" chance="0.1"/>
+    </sagmilling>
+  </recipe>
+
   <!-- Aluminum -->
 
   <recipe name="Sagmill: oreAluminum Ore" required="false">
@@ -245,6 +318,15 @@
     <sagmilling energy="4800">
       <input name="denseoreAluminum" />
       <output name="oreAluminum" amount="6" />
+      <output name="dustIron" chance="0.1"/>
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: End Aluminum Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndAluminum" />
+      <output name="dustAluminum" amount="6" />
+      <output name="minecraft:end_stone" chance="0.15" />
       <output name="dustIron" chance="0.1"/>
     </sagmilling>
   </recipe>
@@ -300,6 +382,16 @@
     <sagmilling energy="4800">
       <input name="denseoreRedstone" />
       <output name="oreRedstone" amount="32" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: End Redstone Ore" required="false">
+    <sagmilling energy="3200">
+      <input name="oreEndRedstone" />
+      <output name="dustRedstone" amount="32" />
+      <output name="dustRedstone" amount="2" chance="0.2" />
+      <output name="itemSilicon" amount="2" chance="0.8" />
+      <output name="minecraft:end_stone" chance="0.15" />
     </sagmilling>
   </recipe>
 
@@ -567,7 +659,7 @@
   
   <!-- Stygian Iron -->
 
-  <recipe name="Sagmill: oreStygianIron Ore" required="false">
+  <recipe name="Alloy Smelter: woot:stygianironore" required="false">
     <sagmilling energy="3600">
       <input name="woot:stygianironore"/>
       <output name="woot:stygianironingot" amount="3"/>
