@@ -3,8 +3,7 @@
 //#Remove
 //Don't touch me!
 //#Add
-recipes.addShapeless(<woot:stygianirondust> * 3, [<woot:stygianironore>,<woot:yahhammer>]);
-furnace.addRecipe(<woot:stygianironingot> * 9, <woot:stygianironore>, 0.0);
+recipes.addShapeless(<woot:stygianirondust> * 3, [<minecraft:soul_sand>,<minecraft:netherrack>,<woot:stygianironore>,<woot:yahhammer>]);
 recipes.addShapeless(<appliedenergistics2:material>, [<orecore:quartz>]);
 recipes.addShapeless(<appliedenergistics2:quartz_ore>, [<orecore:quartz_ore>]);
 recipes.addShapeless(<ic2:resource:4>, [<lucraftcore:ore_uranium>]);
