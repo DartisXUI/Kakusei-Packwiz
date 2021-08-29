@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "980091d3f613aa2fc2f842cd491b4d9e7d04fb7450399b1738eae13eed781b9a"
+hash = "bfcbc125e5e6cc7ad29cd846832b3f61e1b6a16401c1a814d8e3f0771934322d"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "27957cf2e5918c04d606f51c8d179f1980af0a9ec96d81e98c18789119576a49"
+hash = "c3fd1cbbe92e0905858334a0bc2cf7cb54bf2e0ab11319620f217a46ac102371"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.toml"
-hash = "02043f4f92bac830f8bda3b870bdd81267f4d0e12f12f94c1b6741162fb47f58"
+hash = "4b9e5d04eb40e003f6317fcc4a7b4a86a5280f7b7c7ed95564b6ab868c4e271b"
 metafile = true
 
 [[files]]
@@ -984,7 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesla-core-lib.toml"
-hash = "409f0661dbfc7ab38b36715daaa26cb0d7d31c7634715dfa4e077f201ef5d54f"
+hash = "6a2884f9fb98ff9fbd302fdbf54bf9bd522b4dc65368eb864bb68e20daa6835e"
 metafile = true
 
 [[files]]
