@@ -3,7 +3,7 @@ name = "Kakusei-Packwiz"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ba9da4100bd67ec32c5c48ba45f112ac570f5021630b7eab2a822a3ef6da5260"
+hash = "e90b02502d94782695018dc6a32203038cd81942a3ec41bcd62d5015d938d5d9"
 
 [versions]
 forge = "14.23.5.2854"
