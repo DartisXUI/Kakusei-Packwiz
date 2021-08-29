@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Discord-Integration.toml"
+hash = "8f396e52d8c8a16e4c246fd2ac936b1ca1439e8f04199bf1d0204e79d8c29bd0"
+
+[[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
 hash = "9ea930d865522335dcc67378f8a4deff737ebb9e0b435ec2428e57b3fa195da3"
 
@@ -548,6 +552,11 @@ hash = "4a5f0491c0aa1588354e8af736cde4ac7f8523b9a46db5b216f99bc030373811"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.toml"
+hash = "354182248d58fea5500f48db5af6c4733c5ce66f8c3b802cad897b671cc7a9d1"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.toml"
 hash = "6b802d57da0e25b56014dddb80eaa4e93d68a0499ba4f671b609d5573e071f9a"
 metafile = true
@@ -755,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.toml"
 hash = "6eada4314fd82fe43f23670ce92041ba0887d5a1bf050fd84a01e62f6d3cc135"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.toml"
+hash = "072b300ebb79c43554ce33e9be7b440cc51936a1307c8b2a448c901f9bbc3778"
 metafile = true
 
 [[files]]
