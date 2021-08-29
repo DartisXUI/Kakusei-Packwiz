@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Discord-Integration.toml"
-hash = "8f396e52d8c8a16e4c246fd2ac936b1ca1439e8f04199bf1d0204e79d8c29bd0"
-
-[[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
 hash = "9ea930d865522335dcc67378f8a4deff737ebb9e0b435ec2428e57b3fa195da3"
 
