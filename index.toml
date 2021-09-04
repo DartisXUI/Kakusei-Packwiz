@@ -603,11 +603,6 @@ hash = "a36fd587721df70466deb48016475df9c609e12e1692e34f05faeef6364ce533"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.toml"
-hash = "8239fcc9487edacf660e8a72b2fb9b9a2757c77df232a0ff409e5a8d9dadcc77"
-metafile = true
-
-[[files]]
 file = "mods/flux-networks.toml"
 hash = "2a582fc1f871b1bdd20a67616ace275170520880c8002fe03011f45281daf2e3"
 metafile = true
@@ -900,6 +895,11 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "112d333f80221cc89842cd3c32419ac96f57b9601178c2738d5e5ed635210afb"
+metafile = true
+
+[[files]]
+file = "mods/quick-leaf-decay.toml"
+hash = "5be7742770ac33bdfd9434118b25ad1539079c792819815e8ed4637ba6eb7396"
 metafile = true
 
 [[files]]
