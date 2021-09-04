@@ -563,8 +563,8 @@ hash = "4e40b2dfe5f3f5442446190056a12cbe9c73b97921089992dde1f2d582f17a33"
 metafile = true
 
 [[files]]
-file = "mods/drawbridges.toml"
-hash = "069705f4d27067bec56948e770299d9f4d2d06540fd4731062773bbb593fc848"
+file = "mods/draw-bridge.toml"
+hash = "8846e024c0d802c28f7edcee595a6e1f4b9843fe326fab5d0b2d5e7ca706ee59"
 metafile = true
 
 [[files]]
@@ -1045,6 +1045,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.toml"
 hash = "73541947feda59accf5cc3c03ecb1d1df7232a76feac487ab8e1c97679f7065a"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.toml"
+hash = "aab1c3ee519aef72d3144e6048684dfa3827948582a0f3e888843550797bb417"
 metafile = true
 
 [[files]]

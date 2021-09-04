@@ -1,8 +1,0 @@
-name = "Drawbridges"
-filename = "Drawbridges-1.0.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/2633/407/Drawbridges-1.0.1.jar"
-hash-format = "murmur2"
-hash = "742653869"

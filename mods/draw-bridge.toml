@@ -1,0 +1,14 @@
+name = "Draw Bridge"
+filename = "draw_bridge-1.12.2-1.2.1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2798/902/draw_bridge-1.12.2-1.2.1.8.jar"
+hash-format = "murmur2"
+hash = "3445546330"
+
+[update]
+[update.curseforge]
+file-id = 2798902
+project-id = 306058
+release-channel = "beta"
