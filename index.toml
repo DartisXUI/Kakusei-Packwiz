@@ -61,6 +61,10 @@ file = "config/microblocks.cfg"
 hash = "144cb0b0995f8f60927355eb91fd2d774a9f0fe72c19896fcde59fe4991776bb"
 
 [[files]]
+file = "config/mysticalagradditions.cfg"
+hash = "0476ebf682f046df1fee071557b912428b9d4df05c7f71322f9ffba0fcbb8c23"
+
+[[files]]
 file = "config/natura.cfg"
 hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
 
