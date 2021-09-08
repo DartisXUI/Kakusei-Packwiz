@@ -392,11 +392,6 @@ hash = "90988adcc0a460e62fd6b45dd1834b368d25ce60303976822166098102548aa8"
 metafile = true
 
 [[files]]
-file = "mods/applecore.toml"
-hash = "6b5300bd726b6fea57880571ad72ec7be0024564305f3313c5049385c3bdd467"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.toml"
 hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
 metafile = true
