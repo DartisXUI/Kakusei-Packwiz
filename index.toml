@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "bfcbc125e5e6cc7ad29cd846832b3f61e1b6a16401c1a814d8e3f0771934322d"
+hash = "d71a0117794ba9892858401052093dd234f2672552b8189863c17162bb55770d"
 metafile = true
 
 [[files]]
@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.toml"
-hash = "b18157f83f3de1d1fcc03376f7a75437c839f38e4462184bcf9734194fdf884a"
+hash = "985fa7591576823308eb7e0605daed7ee29813887f025c11266efadbb1320b18"
 metafile = true
 
 [[files]]
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.toml"
-hash = "796305fe6dd918d4da1a0834e16a360c435206a6027579cdb78e3a284362e9d9"
+hash = "afff7839cfcfdf75cb4bf5ebbdfc88aaa2e81f6c99d07f1177940eb9e14f5280"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "f35d393c08626938c7f7bb0dca46ff51549d9edf953f76fbbe036ab9f243cd4b"
+hash = "9c55aabfcf5239a70794b4b1ea6deec04a33237771d117d3b5c3344ea0dbe494"
 metafile = true
 
 [[files]]
