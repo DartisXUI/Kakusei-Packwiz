@@ -1,4 +1,5 @@
 name = "Kakusei-Packwiz"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
