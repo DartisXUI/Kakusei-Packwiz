@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "d71a0117794ba9892858401052093dd234f2672552b8189863c17162bb55770d"
+hash = "c5aa280783b7a76c1eff5cb076a942c0c7ed4e600dd6dd9f46473902cd9df551"
 metafile = true
 
 [[files]]
