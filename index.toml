@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "e3ac0ca3d99dd86b55c21dbf71adb9e9e4182d044cdf361ce9f5788ffc112b49"
+hash = "2b76ece332cf3f84121ba5ea07c2e6617a8c2eff7e34ab9f468dc06e9bf06553"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicadditions.toml"
-hash = "0bf6bdc2d73b6f3cd0c51d702860fd90790c243852b6e40cd37864bf0c14bb50"
+hash = "662570151d13d52ccffa7b6e97dec1ab4f932d266b58abbcdfb6a45e5b790310"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.toml"
-hash = "4b9e5d04eb40e003f6317fcc4a7b4a86a5280f7b7c7ed95564b6ab868c4e271b"
+hash = "aa8116ddfb6545edbad1f16ac9a21ec7bca40ec80a5e6f198fb7bd1e843f9013"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "9c55aabfcf5239a70794b4b1ea6deec04a33237771d117d3b5c3344ea0dbe494"
+hash = "841687491d08965f0e284dc8b8695177595acbf074bd12fb245cbb2eddac0db2"
 metafile = true
 
 [[files]]
