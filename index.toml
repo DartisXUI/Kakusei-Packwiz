@@ -667,6 +667,11 @@ hash = "9792756c5d76035a79ad49d5c4097ea4350efeacbe56401baaac2140587cc826"
 metafile = true
 
 [[files]]
+file = "mods/infinity-craft.toml"
+hash = "cbde8dc42414b2be0c1e54c92e281f4cfbdc5df13dd826d30da3cf4b9146f2c5"
+metafile = true
+
+[[files]]
 file = "mods/integration-foregoing.toml"
 hash = "48224b9045928ed0f93eca1dda642ea4f718c892bfbf8fbb0e2225b8bd842ad8"
 metafile = true
