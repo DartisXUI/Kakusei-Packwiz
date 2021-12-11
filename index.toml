@@ -74,7 +74,7 @@ hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "61d6bf1f9a97cc246f2ffacee6c7474a42007d310acb3b4b33b80f01ef9f15f0"
+hash = "04fe3bef4c7cd3f421a3373892adb2c121ba5632a89bfda3ed47e644a8605f18"
 
 [[files]]
 file = "config/ruins.txt"
@@ -137,7 +137,7 @@ file = "config/ruins_config/generic/OreSpire.tml"
 hash = "1bc67e48cab9678432699d6adac30d2ea786daf15e14b5e087ff4130346366b3"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
+file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final4.tml"
 hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
 
 [[files]]
@@ -269,7 +269,7 @@ file = "config/ruins_config/templateparser/TowerAtlantis.tml"
 hash = "1a15edc9fc50b580a5d22191e3080993ce8a9dcd01ef25cafff11569e5defe3c"
 
 [[files]]
-file = "config/ruins_config/templateparser/dartiscraft-ancient-outpost-final3.tml"
+file = "config/ruins_config/templateparser/dartiscraft-ancient-outpost-final4.tml"
 hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
 
 [[files]]
