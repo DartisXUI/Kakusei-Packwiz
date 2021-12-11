@@ -1053,7 +1053,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "9f16bb9a84be06ec968b31ded7396555b3697e8d93a117cdd3354b2808e895e0"
+hash = "883b7caf820cce6e58235e9caa055e778607a91612b26bbeea690607afda69db"
 metafile = true
 
 [[files]]
@@ -1063,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/wanionlib.toml"
-hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
+hash = "749a9dcf92fe5fcbe0a47ff82ab77c63ab860126db0eb733e9dcd314aed1a193"
 metafile = true
 
 [[files]]
