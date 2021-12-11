@@ -21,6 +21,10 @@ file = "config/cofh/world/01_thermalfoundation_ores.json"
 hash = "a7f5a5b4a01102b839089e40fb2dbad4709dd208b64f4d7de9495afa226328e0"
 
 [[files]]
+file = "config/cofh/world/config.cfg"
+hash = "afe3fce5ad545443aff3d2b78c49617c2a87bfea31343afcb61c44baa1071963"
+
+[[files]]
 file = "config/cofh/world/galacticores-109-above-cofh-world.json"
 hash = "31733f8c5823b4296075b290f43ee18e8da657dd92e203d2acd5236922530dc3"
 
