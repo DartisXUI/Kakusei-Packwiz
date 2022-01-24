@@ -1,14 +1,14 @@
 name = "LibVulpes"
-filename = "LibVulpes-1.12.2-0.4.2-87-universal.jar"
+filename = "LibVulpes-1.12.2-0.4.2-88-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/79/LibVulpes-1.12.2-0.4.2-87-universal.jar"
+url = "https://edge.forgecdn.net/files/3611/363/LibVulpes-1.12.2-0.4.2-88-universal.jar"
 hash-format = "murmur2"
-hash = "160204535"
+hash = "2037990968"
 
 [update]
 [update.curseforge]
-file-id = 3587079
+file-id = 3611363
 project-id = 236541
 release-channel = "beta"

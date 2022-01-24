@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.toml"
-hash = "5c75e8005c91ad32dc3d8ac33340e18a553e4fffa565ee8e72fbb7f841f9c8a6"
+hash = "27739008964064fb2b030efa3bf75448ef0944c96cda803ee73723d88b46fd61"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/wanionlib.toml"
-hash = "7bea3e70b55d5fcd5d99fd03b87f2164f0df29ec2e58f6c28b44022a273e63fd"
+hash = "c487d8b82e26dc0144073f5ea2bb4036deca432b404420e0524950f0dedc0427"
 metafile = true
 
 [[files]]
