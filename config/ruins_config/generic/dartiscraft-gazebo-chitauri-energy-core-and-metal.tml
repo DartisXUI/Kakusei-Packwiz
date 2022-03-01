@@ -7,7 +7,7 @@
 # Verified for MC 1.12: 23 Jun 2017
 # Updated to MC 1.12.1: 10 Sep 2017
 
-biomesToSpawnIn=forest,jungle,jungle_edge,jungle_hills,savannah
+biomesToSpawnIn=birch_forest,mesa,
 
 uniqueMinDistance=500
 
@@ -44,7 +44,7 @@ rule13=0,100,minecraft:stone_brick_stairs-3
 rule14=0,100,minecraft:stone_brick_stairs-1
 rule15=0,100,minecraft:carpet-15
 rule16=0,100,minecraft:carpet-14
-rule17=0,100,IInventory;minecraft:trapped_chest;lucraftcore:ore_vibranium#32#0#0-2,IInventory;minecraft:trapped_chest;heroesexpansion:chitauri_metal#15#0#0-2
+rule17=0,100,IInventory;minecraft:trapped_chest;heroesexpansion:chitauri_metal#15#0#0,IInventory;minecraft:trapped_chest;heroesexpansion:chitauri_energy_core#3#0#0-2
 rule18=0,100,minecraft:stone_slab-0
 rule19=0,100,minecraft:glowstone-0
 rule20=0,100,minecraft:glowstone-0
