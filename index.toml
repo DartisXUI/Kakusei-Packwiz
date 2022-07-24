@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
-hash = "9ea930d865522335dcc67378f8a4deff737ebb9e0b435ec2428e57b3fa195da3"
+hash = "4066dfb3aaf97f8f06c3966caaef356a70003bf7dcea21e78db2ce58fd18987f"
 
 [[files]]
 file = "config/IC2.ini"
