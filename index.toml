@@ -17,6 +17,10 @@ file = "config/Waystones.cfg"
 hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
 
 [[files]]
+file = "config/aroma1997/aromabackup.cfg"
+hash = "af0e3e3db9b0b55b8bbd0d506476323e5e46e3bfbadb74d7ad436615e0e8f561"
+
+[[files]]
 file = "config/cofh/world/01_thermalfoundation_ores.json"
 hash = "a7f5a5b4a01102b839089e40fb2dbad4709dd208b64f4d7de9495afa226328e0"
 
