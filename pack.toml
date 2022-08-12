@@ -1,10 +1,10 @@
 name = "Kakusei-Packwiz"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0158a3183ac8c8029435dc9c198d743bd26d207aa4cad448a6ceb93cd3274d21"
+hash = "906616344dc80e01d633d22708a33a09ccf679d56a927f981772fe6d919a5309"
 
 [versions]
 forge = "14.23.5.2855"

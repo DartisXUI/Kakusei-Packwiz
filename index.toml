@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "bf33a6eea8e177294b541c3b65d6056c046aeefd162aa5c8e7e0ccc329e608c2"
+hash = "cbff9a60a9e7d1779b04cbfd60965971ed7305d970ad64c332a907cd7a5a19ac"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.toml"
-hash = "5092b8bc67e08f81248f0aeffdf422a5aca420bc40d520ce77d83d3e9acc5de4"
+hash = "3b669776ab642f3337508261ea99c45ae5cccbf9beb3df8fc02819a64a984635"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "4f810499582ff50efa257d48f915269e321708777bfc2f4452bd5910d253a0ae"
+hash = "d4bdfce484a5321a5a8a8a01037eecd35a49f17911b6339ddcd7b45b9cf55c0e"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-craft.toml"
-hash = "2a0c6f035eebffa92d85d338194fd2c79034127e1254835eebe00d902dbfd5d4"
+hash = "1a66aa2334f32540c2eeaa5bd73c6705e917750b3b3281fb94a7f2fb666fd909"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.toml"
-hash = "27739008964064fb2b030efa3bf75448ef0944c96cda803ee73723d88b46fd61"
+hash = "d90cb87448c72c22411f47a793ad9e9eac43ac7a8ca400b00a47376712d5eda6"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.toml"
-hash = "f546165b25cd3361f6530881dfb372474a04921ad2ef6f3c7a82fe6f7f6e40bc"
+hash = "21e0c5838adbd3a7c3e41236611860e0307664ff260899b4fff63df546cfe6f2"
 metafile = true
 
 [[files]]
@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.toml"
-hash = "aab1c3ee519aef72d3144e6048684dfa3827948582a0f3e888843550797bb417"
+hash = "6db0f54aee3705599159645d7f45b82090ca7e3aa6acd4b332439b1bcfb0c0ff"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/warpdrive.toml"
-hash = "e396e8a6ec778f881300d17a23e68ec951b3fe6d44cd808a14246fcc4da3f38c"
+hash = "fe26a5901d37eb3951fa2cc8345dd0a7bc7c2987309b9a58304b26268aaa9635"
 metafile = true
 
 [[files]]
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0f05c09a6c69c1ac2febb90994eb2984f43437174bf591e9d0b5a392717e1b52"
+hash = "c23b44df7173c718fc9d063e059c9f11af68eb81c17fab3e054ee8f2b04d8b0f"
 
 [[files]]
 file = "scripts/recipes.zs"
