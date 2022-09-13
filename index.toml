@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "d4bdfce484a5321a5a8a8a01037eecd35a49f17911b6339ddcd7b45b9cf55c0e"
+hash = "4f75821368cf5ee44f277870bbe9254d04d92b445f78e999662d8eadc43c625f"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "2368ee4c1cb99f837d285b5f08960423e9f6fda6c214762694e9d3718b422917"
+hash = "7ebe1057eac4b13cc976f153312898ff21e0904c2e3a3b6f6bdd0e2f5cd74e5f"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.toml"
-hash = "851c192825d06e355cc870b6cf643910b4c34dd7e248a7f844f465d361609f04"
+hash = "5d59d4ccad92819ac29bed43c6631ceb25780735848d50f5a30c63a6e93d4024"
 metafile = true
 
 [[files]]

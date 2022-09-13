@@ -1,14 +1,14 @@
 name = "OpenComputers"
-filename = "OpenComputers-MC1.12.2-1.7.5.192.jar"
+filename = "OpenComputers-MC1.12.2-1.7.7+5413028.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2828/357/OpenComputers-MC1.12.2-1.7.5.192.jar"
-hash-format = "murmur2"
-hash = "3597605255"
+hash-format = "sha1"
+hash = "b06114169392e7623620f2915b2fbdf5c1ab985b"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2828357
+file-id = 3966135
 project-id = 223008
 release-channel = "beta"
