@@ -248,11 +248,11 @@ key_enderio.keybind.top:0
 key_enderio.keybind.tnt:0
 key_enderio.keybind.yetawrenchmode:21
 key_enderio.keybind.magnet:0
-key_enderio.keybind.fovreset:0
+key_enderio.keybind.fovreset:41:CONTROL
 key_enderio.keybind.fovunreset:0
 key_enderio.keybind.fovstore:0
 key_enderio.keybind.fovrecall:0
-key_enderio.keybind.fovplus:41:CONTROL
+key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:41
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
